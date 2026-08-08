@@ -3,9 +3,7 @@
 ## 🎯 Objective
 
 Conduct **Data Preprocessing and Feature Engineering** on a real-world dataset.
-
 The aim is to **understand, clean, transform, and analyze** the dataset before it can be used for machine learning.
-
 This project emphasizes **data profiling, handling multiple formats, and performing EDA**.
 
 ---
