@@ -1,0 +1,8002 @@
+[
+  {
+    "transaction_id": "T000001",
+    "user_id": "U0024",
+    "product_id": "P015",
+    "amount": 67.67,
+    "payment_type": "Wallet",
+    "date": "2023-02-12"
+  },
+  {
+    "transaction_id": "T000002",
+    "user_id": "U0196",
+    "product_id": "P044",
+    "amount": 76.44,
+    "payment_type": "UPI",
+    "date": "2023-03-24"
+  },
+  {
+    "transaction_id": "T000003",
+    "user_id": "U0196",
+    "product_id": "P049",
+    "amount": 104.57,
+    "payment_type": "Debit Card",
+    "date": "2025-08-21"
+  },
+  {
+    "transaction_id": "T000004",
+    "user_id": "U0133",
+    "product_id": "P042",
+    "amount": 102.75,
+    "payment_type": "Net Banking",
+    "date": "2024-07-23"
+  },
+  {
+    "transaction_id": "T000005",
+    "user_id": "U0047",
+    "product_id": "P038",
+    "amount": 23.89,
+    "payment_type": "Net Banking",
+    "date": "2025-10-04"
+  },
+  {
+    "transaction_id": "T000006",
+    "user_id": "U0024",
+    "product_id": "P031",
+    "amount": 31.1,
+    "payment_type": "UPI",
+    "date": "2025-04-16"
+  },
+  {
+    "transaction_id": "T000007",
+    "user_id": "U0086",
+    "product_id": "P021",
+    "amount": 74.37,
+    "payment_type": "Wallet",
+    "date": "2023-08-03"
+  },
+  {
+    "transaction_id": "T000008",
+    "user_id": "U0042",
+    "product_id": "P022",
+    "amount": 74.31,
+    "payment_type": "Net Banking",
+    "date": "2025-10-11"
+  },
+  {
+    "transaction_id": "T000009",
+    "user_id": "U0074",
+    "product_id": "P043",
+    "amount": 74.37,
+    "payment_type": "Net Banking",
+    "date": "2023-03-17"
+  },
+  {
+    "transaction_id": "T000010",
+    "user_id": "U0117",
+    "product_id": "P006",
+    "amount": 550.95,
+    "payment_type": "UPI",
+    "date": "2024-05-31"
+  },
+  {
+    "transaction_id": "T000011",
+    "user_id": "U0083",
+    "product_id": "P008",
+    "amount": 76.9,
+    "payment_type": "Net Banking",
+    "date": "2023-01-03"
+  },
+  {
+    "transaction_id": "T000012",
+    "user_id": "U0169",
+    "product_id": "P035",
+    "amount": 107.91,
+    "payment_type": "Net Banking",
+    "date": "2025-04-26"
+  },
+  {
+    "transaction_id": "T000013",
+    "user_id": "U0014",
+    "product_id": "P013",
+    "amount": 96.78,
+    "payment_type": "Cash",
+    "date": "2025-01-10"
+  },
+  {
+    "transaction_id": "T000014",
+    "user_id": "U0160",
+    "product_id": "P049",
+    "amount": 80.71,
+    "payment_type": "Net Banking",
+    "date": "2025-06-24"
+  },
+  {
+    "transaction_id": "T000015",
+    "user_id": "U0195",
+    "product_id": "P004",
+    "amount": 45.19,
+    "payment_type": "Debit Card",
+    "date": "2024-06-30"
+  },
+  {
+    "transaction_id": "T000016",
+    "user_id": "U0141",
+    "product_id": "P009",
+    "amount": 86.09,
+    "payment_type": "UPI",
+    "date": "2025-06-16"
+  },
+  {
+    "transaction_id": "T000017",
+    "user_id": "U0179",
+    "product_id": "P032",
+    "amount": 34.34,
+    "payment_type": "Credit Card",
+    "date": "2023-03-01"
+  },
+  {
+    "transaction_id": "T000018",
+    "user_id": "U0162",
+    "product_id": "P039",
+    "amount": 47.37,
+    "payment_type": "Debit Card",
+    "date": "2023-11-21"
+  },
+  {
+    "transaction_id": "T000019",
+    "user_id": "U0080",
+    "product_id": "P036",
+    "amount": 40.8,
+    "payment_type": "Credit Card",
+    "date": "2025-04-15"
+  },
+  {
+    "transaction_id": "T000020",
+    "user_id": "U0024",
+    "product_id": "P015",
+    "amount": 57.35,
+    "payment_type": "Credit Card",
+    "date": "2025-08-03"
+  },
+  {
+    "transaction_id": "T000021",
+    "user_id": "U0031",
+    "product_id": "P042",
+    "amount": 218.94,
+    "payment_type": "Debit Card",
+    "date": "2025-10-17"
+  },
+  {
+    "transaction_id": "T000022",
+    "user_id": "U0184",
+    "product_id": "P019",
+    "amount": 17.81,
+    "payment_type": "Cash",
+    "date": "2024-07-13"
+  },
+  {
+    "transaction_id": "T000023",
+    "user_id": "U0107",
+    "product_id": "P031",
+    "amount": 82.41,
+    "payment_type": "Net Banking",
+    "date": "2024-05-14"
+  },
+  {
+    "transaction_id": "T000024",
+    "user_id": "U0117",
+    "product_id": "P036",
+    "amount": 20.75,
+    "payment_type": "Debit Card",
+    "date": "2025-02-24"
+  },
+  {
+    "transaction_id": "T000025",
+    "user_id": "U0049",
+    "product_id": "P039",
+    "amount": 41.13,
+    "payment_type": "Cash",
+    "date": "2023-10-07"
+  },
+  {
+    "transaction_id": "T000026",
+    "user_id": "U0018",
+    "product_id": "P018",
+    "amount": 104.94,
+    "payment_type": "Net Banking",
+    "date": "2024-11-27"
+  },
+  {
+    "transaction_id": "T000027",
+    "user_id": "U0130",
+    "product_id": "P018",
+    "amount": 56.75,
+    "payment_type": "Credit Card",
+    "date": "2024-08-02"
+  },
+  {
+    "transaction_id": "T000028",
+    "user_id": "U0186",
+    "product_id": "P020",
+    "amount": 28.6,
+    "payment_type": "Cash",
+    "date": "2025-09-29"
+  },
+  {
+    "transaction_id": "T000029",
+    "user_id": "U0039",
+    "product_id": "P029",
+    "amount": 35.55,
+    "payment_type": "Cash",
+    "date": "2025-09-18"
+  },
+  {
+    "transaction_id": "T000030",
+    "user_id": "U0089",
+    "product_id": "P022",
+    "amount": 82.09,
+    "payment_type": "Cash",
+    "date": "2025-02-11"
+  },
+  {
+    "transaction_id": "T000031",
+    "user_id": "U0117",
+    "product_id": "P021",
+    "amount": 35.23,
+    "payment_type": "Debit Card",
+    "date": "2024-05-04"
+  },
+  {
+    "transaction_id": "T000032",
+    "user_id": "U0147",
+    "product_id": "P025",
+    "amount": 62.17,
+    "payment_type": "Debit Card",
+    "date": "2025-04-21"
+  },
+  {
+    "transaction_id": "T000033",
+    "user_id": "U0012",
+    "product_id": "P021",
+    "amount": 56.11,
+    "payment_type": "Wallet",
+    "date": "2025-08-26"
+  },
+  {
+    "transaction_id": "T000034",
+    "user_id": "U0181",
+    "product_id": "P025",
+    "amount": 36.93,
+    "payment_type": "Net Banking",
+    "date": "2023-11-08"
+  },
+  {
+    "transaction_id": "T000035",
+    "user_id": "U0127",
+    "product_id": "P003",
+    "amount": 197.62,
+    "payment_type": "Debit Card",
+    "date": "2025-10-25"
+  },
+  {
+    "transaction_id": "T000036",
+    "user_id": "U0152",
+    "product_id": "P022",
+    "amount": 79.87,
+    "payment_type": "Credit Card",
+    "date": "2025-06-20"
+  },
+  {
+    "transaction_id": "T000037",
+    "user_id": "U0026",
+    "product_id": "P034",
+    "amount": 16.2,
+    "payment_type": "Net Banking",
+    "date": "2023-02-01"
+  },
+  {
+    "transaction_id": "T000038",
+    "user_id": "U0185",
+    "product_id": "P010",
+    "amount": 61.06,
+    "payment_type": "Net Banking",
+    "date": "2023-11-13"
+  },
+  {
+    "transaction_id": "T000039",
+    "user_id": "U0020",
+    "product_id": "P031",
+    "amount": 36.71,
+    "payment_type": "UPI",
+    "date": "2024-11-24"
+  },
+  {
+    "transaction_id": "T000040",
+    "user_id": "U0160",
+    "product_id": "P045",
+    "amount": 91.05,
+    "payment_type": "Net Banking",
+    "date": "2023-06-14"
+  },
+  {
+    "transaction_id": "T000041",
+    "user_id": "U0085",
+    "product_id": "P044",
+    "amount": 33.94,
+    "payment_type": "Cash",
+    "date": "2025-02-17"
+  },
+  {
+    "transaction_id": "T000042",
+    "user_id": "U0082",
+    "product_id": "P041",
+    "amount": 50.97,
+    "payment_type": "Wallet",
+    "date": "2025-09-26"
+  },
+  {
+    "transaction_id": "T000043",
+    "user_id": "U0139",
+    "product_id": "P003",
+    "amount": 73.92,
+    "payment_type": "Cash",
+    "date": "2023-05-21"
+  },
+  {
+    "transaction_id": "T000044",
+    "user_id": "U0061",
+    "product_id": "P041",
+    "amount": 91.79,
+    "payment_type": "Wallet",
+    "date": "2024-08-11"
+  },
+  {
+    "transaction_id": "T000045",
+    "user_id": "U0059",
+    "product_id": "P048",
+    "amount": 26.57,
+    "payment_type": "Credit Card",
+    "date": "2025-06-07"
+  },
+  {
+    "transaction_id": "T000046",
+    "user_id": "U0026",
+    "product_id": "P049",
+    "amount": 44.67,
+    "payment_type": "Wallet",
+    "date": "2023-07-25"
+  },
+  {
+    "transaction_id": "T000047",
+    "user_id": "U0114",
+    "product_id": "P011",
+    "amount": 41.06,
+    "payment_type": "Wallet",
+    "date": "2024-09-05"
+  },
+  {
+    "transaction_id": "T000048",
+    "user_id": "U0008",
+    "product_id": "P003",
+    "amount": 36.89,
+    "payment_type": "UPI",
+    "date": "2023-04-25"
+  },
+  {
+    "transaction_id": "T000049",
+    "user_id": "U0076",
+    "product_id": "P023",
+    "amount": 157.48,
+    "payment_type": "UPI",
+    "date": "2025-06-01"
+  },
+  {
+    "transaction_id": "T000050",
+    "user_id": "U0038",
+    "product_id": "P016",
+    "amount": 69.62,
+    "payment_type": "Cash",
+    "date": "2025-04-23"
+  },
+  {
+    "transaction_id": "T000051",
+    "user_id": "U0145",
+    "product_id": "P044",
+    "amount": 25.62,
+    "payment_type": "Debit Card",
+    "date": "2023-12-15"
+  },
+  {
+    "transaction_id": "T000052",
+    "user_id": "U0045",
+    "product_id": "P006",
+    "amount": 94.7,
+    "payment_type": "Cash",
+    "date": "2025-02-22"
+  },
+  {
+    "transaction_id": "T000053",
+    "user_id": "U0159",
+    "product_id": "P044",
+    "amount": 195.06,
+    "payment_type": "Debit Card",
+    "date": "2025-10-16"
+  },
+  {
+    "transaction_id": "T000054",
+    "user_id": "U0150",
+    "product_id": "P010",
+    "amount": 101.44,
+    "payment_type": "Debit Card",
+    "date": "2025-08-02"
+  },
+  {
+    "transaction_id": "T000055",
+    "user_id": "U0164",
+    "product_id": "P017",
+    "amount": 21.94,
+    "payment_type": "Net Banking",
+    "date": "2024-06-06"
+  },
+  {
+    "transaction_id": "T000056",
+    "user_id": "U0171",
+    "product_id": "P001",
+    "amount": 40.83,
+    "payment_type": "Net Banking",
+    "date": "2024-08-12"
+  },
+  {
+    "transaction_id": "T000057",
+    "user_id": "U0174",
+    "product_id": "P035",
+    "amount": 116.76,
+    "payment_type": "Debit Card",
+    "date": "2023-06-01"
+  },
+  {
+    "transaction_id": "T000058",
+    "user_id": "U0114",
+    "product_id": "P023",
+    "amount": 35.71,
+    "payment_type": "Cash",
+    "date": "2024-09-04"
+  },
+  {
+    "transaction_id": "T000059",
+    "user_id": "U0164",
+    "product_id": "P028",
+    "amount": 71.26,
+    "payment_type": "Wallet",
+    "date": "2024-05-27"
+  },
+  {
+    "transaction_id": "T000060",
+    "user_id": "U0117",
+    "product_id": "P020",
+    "amount": 86.9,
+    "payment_type": "Debit Card",
+    "date": "2025-02-26"
+  },
+  {
+    "transaction_id": "T000061",
+    "user_id": "U0124",
+    "product_id": "P007",
+    "amount": 31.31,
+    "payment_type": "Debit Card",
+    "date": "2025-02-20"
+  },
+  {
+    "transaction_id": "T000062",
+    "user_id": "U0147",
+    "product_id": "P023",
+    "amount": 52.68,
+    "payment_type": "Cash",
+    "date": "2024-08-28"
+  },
+  {
+    "transaction_id": "T000063",
+    "user_id": "U0180",
+    "product_id": "P019",
+    "amount": 7.81,
+    "payment_type": "Credit Card",
+    "date": "2025-03-21"
+  },
+  {
+    "transaction_id": "T000064",
+    "user_id": "U0071",
+    "product_id": "P001",
+    "amount": 29.53,
+    "payment_type": "Cash",
+    "date": "2023-04-11"
+  },
+  {
+    "transaction_id": "T000065",
+    "user_id": "U0156",
+    "product_id": "P048",
+    "amount": 46.92,
+    "payment_type": "Net Banking",
+    "date": "2024-08-09"
+  },
+  {
+    "transaction_id": "T000066",
+    "user_id": "U0199",
+    "product_id": "P015",
+    "amount": 25.82,
+    "payment_type": "Cash",
+    "date": "2024-12-22"
+  },
+  {
+    "transaction_id": "T000067",
+    "user_id": "U0057",
+    "product_id": "P041",
+    "amount": 145.39,
+    "payment_type": "Debit Card",
+    "date": "2024-05-28"
+  },
+  {
+    "transaction_id": "T000068",
+    "user_id": "U0174",
+    "product_id": "P049",
+    "amount": 23.15,
+    "payment_type": "Wallet",
+    "date": "2023-10-08"
+  },
+  {
+    "transaction_id": "T000069",
+    "user_id": "U0161",
+    "product_id": "P007",
+    "amount": 41.93,
+    "payment_type": "Wallet",
+    "date": "2023-03-22"
+  },
+  {
+    "transaction_id": "T000070",
+    "user_id": "U0080",
+    "product_id": "P029",
+    "amount": 59.05,
+    "payment_type": "Credit Card",
+    "date": "2025-01-17"
+  },
+  {
+    "transaction_id": "T000071",
+    "user_id": "U0188",
+    "product_id": "P009",
+    "amount": 129.64,
+    "payment_type": "Credit Card",
+    "date": "2024-08-27"
+  },
+  {
+    "transaction_id": "T000072",
+    "user_id": "U0084",
+    "product_id": "P048",
+    "amount": 23.07,
+    "payment_type": "Net Banking",
+    "date": "2023-12-26"
+  },
+  {
+    "transaction_id": "T000073",
+    "user_id": "U0052",
+    "product_id": "P009",
+    "amount": 109.72,
+    "payment_type": "Cash",
+    "date": "2025-01-19"
+  },
+  {
+    "transaction_id": "T000074",
+    "user_id": "U0136",
+    "product_id": "P033",
+    "amount": 54.93,
+    "payment_type": "UPI",
+    "date": "2023-12-03"
+  },
+  {
+    "transaction_id": "T000075",
+    "user_id": "U0066",
+    "product_id": "P031",
+    "amount": 30.3,
+    "payment_type": "UPI",
+    "date": "2024-11-24"
+  },
+  {
+    "transaction_id": "T000076",
+    "user_id": "U0030",
+    "product_id": "P030",
+    "amount": 72.04,
+    "payment_type": "Credit Card",
+    "date": "2023-10-16"
+  },
+  {
+    "transaction_id": "T000077",
+    "user_id": "U0194",
+    "product_id": "P015",
+    "amount": 61.52,
+    "payment_type": "Wallet",
+    "date": "2025-03-24"
+  },
+  {
+    "transaction_id": "T000078",
+    "user_id": "U0143",
+    "product_id": "P024",
+    "amount": 38.09,
+    "payment_type": "Credit Card",
+    "date": "2025-03-19"
+  },
+  {
+    "transaction_id": "T000079",
+    "user_id": "U0004",
+    "product_id": "P017",
+    "amount": 56.93,
+    "payment_type": "Cash",
+    "date": "2023-09-11"
+  },
+  {
+    "transaction_id": "T000080",
+    "user_id": "U0117",
+    "product_id": "P024",
+    "amount": 43.33,
+    "payment_type": "Wallet",
+    "date": "2024-06-20"
+  },
+  {
+    "transaction_id": "T000081",
+    "user_id": "U0150",
+    "product_id": "P025",
+    "amount": 58.45,
+    "payment_type": "Wallet",
+    "date": "2025-01-30"
+  },
+  {
+    "transaction_id": "T000082",
+    "user_id": "U0028",
+    "product_id": "P044",
+    "amount": 81.23,
+    "payment_type": "Debit Card",
+    "date": "2025-08-23"
+  },
+  {
+    "transaction_id": "T000083",
+    "user_id": "U0007",
+    "product_id": "P040",
+    "amount": 141.4,
+    "payment_type": "Cash",
+    "date": "2024-11-02"
+  },
+  {
+    "transaction_id": "T000084",
+    "user_id": "U0157",
+    "product_id": "P015",
+    "amount": 25.98,
+    "payment_type": "Wallet",
+    "date": "2023-05-10"
+  },
+  {
+    "transaction_id": "T000085",
+    "user_id": "U0163",
+    "product_id": "P030",
+    "amount": 196.33,
+    "payment_type": "Wallet",
+    "date": "2024-09-10"
+  },
+  {
+    "transaction_id": "T000086",
+    "user_id": "U0167",
+    "product_id": "P027",
+    "amount": 16.92,
+    "payment_type": "Credit Card",
+    "date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T000087",
+    "user_id": "U0012",
+    "product_id": "P003",
+    "amount": 49.85,
+    "payment_type": "UPI",
+    "date": "2025-10-05"
+  },
+  {
+    "transaction_id": "T000088",
+    "user_id": "U0030",
+    "product_id": "P007",
+    "amount": 77.71,
+    "payment_type": "Debit Card",
+    "date": "2023-10-05"
+  },
+  {
+    "transaction_id": "T000089",
+    "user_id": "U0100",
+    "product_id": "P030",
+    "amount": 64.62,
+    "payment_type": "UPI",
+    "date": "2025-05-08"
+  },
+  {
+    "transaction_id": "T000090",
+    "user_id": "U0151",
+    "product_id": "P048",
+    "amount": 37.58,
+    "payment_type": "Wallet",
+    "date": "2023-11-13"
+  },
+  {
+    "transaction_id": "T000091",
+    "user_id": "U0107",
+    "product_id": "P042",
+    "amount": 48.19,
+    "payment_type": "Credit Card",
+    "date": "2025-09-29"
+  },
+  {
+    "transaction_id": "T000092",
+    "user_id": "U0158",
+    "product_id": "P027",
+    "amount": 40.62,
+    "payment_type": "UPI",
+    "date": "2023-03-09"
+  },
+  {
+    "transaction_id": "T000093",
+    "user_id": "U0177",
+    "product_id": "P024",
+    "amount": 38.34,
+    "payment_type": "Debit Card",
+    "date": "2025-06-27"
+  },
+  {
+    "transaction_id": "T000094",
+    "user_id": "U0114",
+    "product_id": "P016",
+    "amount": 90.9,
+    "payment_type": "UPI",
+    "date": "2023-07-23"
+  },
+  {
+    "transaction_id": "T000095",
+    "user_id": "U0176",
+    "product_id": "P024",
+    "amount": 67.64,
+    "payment_type": "Cash",
+    "date": "2025-01-04"
+  },
+  {
+    "transaction_id": "T000096",
+    "user_id": "U0016",
+    "product_id": "P026",
+    "amount": 36.03,
+    "payment_type": "UPI",
+    "date": "2024-01-24"
+  },
+  {
+    "transaction_id": "T000097",
+    "user_id": "U0032",
+    "product_id": "P030",
+    "amount": 93.67,
+    "payment_type": "Credit Card",
+    "date": "2024-03-10"
+  },
+  {
+    "transaction_id": "T000098",
+    "user_id": "U0165",
+    "product_id": "P041",
+    "amount": 65.65,
+    "payment_type": "Cash",
+    "date": "2023-02-13"
+  },
+  {
+    "transaction_id": "T000099",
+    "user_id": "U0013",
+    "product_id": "P022",
+    "amount": 88.92,
+    "payment_type": "Debit Card",
+    "date": "2023-09-15"
+  },
+  {
+    "transaction_id": "T000100",
+    "user_id": "U0145",
+    "product_id": "P014",
+    "amount": 79.66,
+    "payment_type": "Credit Card",
+    "date": "2024-02-29"
+  },
+  {
+    "transaction_id": "T000101",
+    "user_id": "U0151",
+    "product_id": "P014",
+    "amount": 33.2,
+    "payment_type": "Debit Card",
+    "date": "2024-11-03"
+  },
+  {
+    "transaction_id": "T000102",
+    "user_id": "U0199",
+    "product_id": "P010",
+    "amount": 39.01,
+    "payment_type": "Cash",
+    "date": "2023-01-06"
+  },
+  {
+    "transaction_id": "T000103",
+    "user_id": "U0071",
+    "product_id": "P010",
+    "amount": 85.49,
+    "payment_type": "Debit Card",
+    "date": "2024-05-28"
+  },
+  {
+    "transaction_id": "T000104",
+    "user_id": "U0045",
+    "product_id": "P008",
+    "amount": 78.75,
+    "payment_type": "Wallet",
+    "date": "2023-02-22"
+  },
+  {
+    "transaction_id": "T000105",
+    "user_id": "U0034",
+    "product_id": "P001",
+    "amount": 53.92,
+    "payment_type": "UPI",
+    "date": "2024-05-02"
+  },
+  {
+    "transaction_id": "T000106",
+    "user_id": "U0151",
+    "product_id": "P021",
+    "amount": 58.58,
+    "payment_type": "Credit Card",
+    "date": "2023-12-23"
+  },
+  {
+    "transaction_id": "T000107",
+    "user_id": "U0068",
+    "product_id": "P004",
+    "amount": 117.52,
+    "payment_type": "Debit Card",
+    "date": "2025-05-12"
+  },
+  {
+    "transaction_id": "T000108",
+    "user_id": "U0135",
+    "product_id": "P008",
+    "amount": 38.28,
+    "payment_type": "Wallet",
+    "date": "2023-05-11"
+  },
+  {
+    "transaction_id": "T000109",
+    "user_id": "U0122",
+    "product_id": "P029",
+    "amount": 75.81,
+    "payment_type": "UPI",
+    "date": "2023-08-12"
+  },
+  {
+    "transaction_id": "T000110",
+    "user_id": "U0116",
+    "product_id": "P033",
+    "amount": 48.36,
+    "payment_type": "Debit Card",
+    "date": "2023-03-30"
+  },
+  {
+    "transaction_id": "T000111",
+    "user_id": "U0187",
+    "product_id": "P043",
+    "amount": 47.91,
+    "payment_type": "Cash",
+    "date": "2024-09-09"
+  },
+  {
+    "transaction_id": "T000112",
+    "user_id": "U0118",
+    "product_id": "P042",
+    "amount": 105.56,
+    "payment_type": "Credit Card",
+    "date": "2023-05-05"
+  },
+  {
+    "transaction_id": "T000113",
+    "user_id": "U0123",
+    "product_id": "P026",
+    "amount": 89.59,
+    "payment_type": "Net Banking",
+    "date": "2023-08-10"
+  },
+  {
+    "transaction_id": "T000114",
+    "user_id": "U0126",
+    "product_id": "P046",
+    "amount": 88.95,
+    "payment_type": "Net Banking",
+    "date": "2023-05-31"
+  },
+  {
+    "transaction_id": "T000115",
+    "user_id": "U0021",
+    "product_id": "P021",
+    "amount": 119.5,
+    "payment_type": "Cash",
+    "date": "2023-10-31"
+  },
+  {
+    "transaction_id": "T000116",
+    "user_id": "U0017",
+    "product_id": "P009",
+    "amount": 55.29,
+    "payment_type": "UPI",
+    "date": "2024-10-27"
+  },
+  {
+    "transaction_id": "T000117",
+    "user_id": "U0098",
+    "product_id": "P039",
+    "amount": 82.2,
+    "payment_type": "Cash",
+    "date": "2024-08-26"
+  },
+  {
+    "transaction_id": "T000118",
+    "user_id": "U0117",
+    "product_id": "P033",
+    "amount": 45.32,
+    "payment_type": "Cash",
+    "date": "2025-05-31"
+  },
+  {
+    "transaction_id": "T000119",
+    "user_id": "U0026",
+    "product_id": "P045",
+    "amount": 66.32,
+    "payment_type": "Credit Card",
+    "date": "2024-03-16"
+  },
+  {
+    "transaction_id": "T000120",
+    "user_id": "U0111",
+    "product_id": "P029",
+    "amount": 50.5,
+    "payment_type": "Debit Card",
+    "date": "2025-04-27"
+  },
+  {
+    "transaction_id": "T000121",
+    "user_id": "U0087",
+    "product_id": "P030",
+    "amount": 57.87,
+    "payment_type": "Net Banking",
+    "date": "2025-05-01"
+  },
+  {
+    "transaction_id": "T000122",
+    "user_id": "U0187",
+    "product_id": "P007",
+    "amount": 78.03,
+    "payment_type": "UPI",
+    "date": "2025-05-24"
+  },
+  {
+    "transaction_id": "T000123",
+    "user_id": "U0081",
+    "product_id": "P043",
+    "amount": 33.42,
+    "payment_type": "UPI",
+    "date": "2025-02-05"
+  },
+  {
+    "transaction_id": "T000124",
+    "user_id": "U0040",
+    "product_id": "P044",
+    "amount": 191.6,
+    "payment_type": "Net Banking",
+    "date": "2023-05-18"
+  },
+  {
+    "transaction_id": "T000125",
+    "user_id": "U0024",
+    "product_id": "P006",
+    "amount": 29.86,
+    "payment_type": "Credit Card",
+    "date": "2025-06-03"
+  },
+  {
+    "transaction_id": "T000126",
+    "user_id": "U0025",
+    "product_id": "P048",
+    "amount": 26.35,
+    "payment_type": "Wallet",
+    "date": "2025-02-02"
+  },
+  {
+    "transaction_id": "T000127",
+    "user_id": "U0034",
+    "product_id": "P036",
+    "amount": 109.38,
+    "payment_type": "Credit Card",
+    "date": "2024-11-06"
+  },
+  {
+    "transaction_id": "T000128",
+    "user_id": "U0172",
+    "product_id": "P008",
+    "amount": 87.79,
+    "payment_type": "Net Banking",
+    "date": "2024-12-25"
+  },
+  {
+    "transaction_id": "T000129",
+    "user_id": "U0171",
+    "product_id": "P049",
+    "amount": 79.4,
+    "payment_type": "Net Banking",
+    "date": "2023-04-16"
+  },
+  {
+    "transaction_id": "T000130",
+    "user_id": "U0074",
+    "product_id": "P039",
+    "amount": 79.6,
+    "payment_type": "UPI",
+    "date": "2024-12-21"
+  },
+  {
+    "transaction_id": "T000131",
+    "user_id": "U0027",
+    "product_id": "P037",
+    "amount": 54.2,
+    "payment_type": "Cash",
+    "date": "2024-03-11"
+  },
+  {
+    "transaction_id": "T000132",
+    "user_id": "U0040",
+    "product_id": "P043",
+    "amount": 31.87,
+    "payment_type": "Net Banking",
+    "date": "2024-04-04"
+  },
+  {
+    "transaction_id": "T000133",
+    "user_id": "U0028",
+    "product_id": "P023",
+    "amount": 57.14,
+    "payment_type": "Cash",
+    "date": "2025-01-22"
+  },
+  {
+    "transaction_id": "T000134",
+    "user_id": "U0030",
+    "product_id": "P049",
+    "amount": 36.37,
+    "payment_type": "UPI",
+    "date": "2024-04-08"
+  },
+  {
+    "transaction_id": "T000135",
+    "user_id": "U0110",
+    "product_id": "P036",
+    "amount": 98.01,
+    "payment_type": "Cash",
+    "date": "2023-02-23"
+  },
+  {
+    "transaction_id": "T000136",
+    "user_id": "U0156",
+    "product_id": "P043",
+    "amount": 49.99,
+    "payment_type": "Wallet",
+    "date": "2024-07-01"
+  },
+  {
+    "transaction_id": "T000137",
+    "user_id": "U0008",
+    "product_id": "P012",
+    "amount": 33.27,
+    "payment_type": "UPI",
+    "date": "2024-09-24"
+  },
+  {
+    "transaction_id": "T000138",
+    "user_id": "U0087",
+    "product_id": "P023",
+    "amount": 45.02,
+    "payment_type": "Credit Card",
+    "date": "2024-01-07"
+  },
+  {
+    "transaction_id": "T000139",
+    "user_id": "U0037",
+    "product_id": "P037",
+    "amount": 69.95,
+    "payment_type": "Wallet",
+    "date": "2025-03-31"
+  },
+  {
+    "transaction_id": "T000140",
+    "user_id": "U0018",
+    "product_id": "P010",
+    "amount": 38.93,
+    "payment_type": "Wallet",
+    "date": "2023-03-04"
+  },
+  {
+    "transaction_id": "T000141",
+    "user_id": "U0024",
+    "product_id": "P048",
+    "amount": 33.34,
+    "payment_type": "Cash",
+    "date": "2024-03-16"
+  },
+  {
+    "transaction_id": "T000142",
+    "user_id": "U0097",
+    "product_id": "P027",
+    "amount": 63.19,
+    "payment_type": "Net Banking",
+    "date": "2024-11-29"
+  },
+  {
+    "transaction_id": "T000143",
+    "user_id": "U0041",
+    "product_id": "P024",
+    "amount": 63.24,
+    "payment_type": "UPI",
+    "date": "2024-10-26"
+  },
+  {
+    "transaction_id": "T000144",
+    "user_id": "U0199",
+    "product_id": "P037",
+    "amount": 40.28,
+    "payment_type": "Cash",
+    "date": "2023-06-23"
+  },
+  {
+    "transaction_id": "T000145",
+    "user_id": "U0014",
+    "product_id": "P010",
+    "amount": 41.16,
+    "payment_type": "Debit Card",
+    "date": "2023-04-12"
+  },
+  {
+    "transaction_id": "T000146",
+    "user_id": "U0173",
+    "product_id": "P006",
+    "amount": 62.75,
+    "payment_type": "UPI",
+    "date": "2025-06-26"
+  },
+  {
+    "transaction_id": "T000147",
+    "user_id": "U0170",
+    "product_id": "P028",
+    "amount": 22.9,
+    "payment_type": "Net Banking",
+    "date": "2025-06-24"
+  },
+  {
+    "transaction_id": "T000148",
+    "user_id": "U0107",
+    "product_id": "P018",
+    "amount": 23.47,
+    "payment_type": "Debit Card",
+    "date": "2023-08-22"
+  },
+  {
+    "transaction_id": "T000149",
+    "user_id": "U0089",
+    "product_id": "P028",
+    "amount": 35.48,
+    "payment_type": "Credit Card",
+    "date": "2024-08-03"
+  },
+  {
+    "transaction_id": "T000150",
+    "user_id": "U0174",
+    "product_id": "P044",
+    "amount": 48.04,
+    "payment_type": "Cash",
+    "date": "2025-09-23"
+  },
+  {
+    "transaction_id": "T000151",
+    "user_id": "U0135",
+    "product_id": "P043",
+    "amount": 65.8,
+    "payment_type": "UPI",
+    "date": "2023-04-04"
+  },
+  {
+    "transaction_id": "T000152",
+    "user_id": "U0057",
+    "product_id": "P026",
+    "amount": 132.32,
+    "payment_type": "Cash",
+    "date": "2023-04-23"
+  },
+  {
+    "transaction_id": "T000153",
+    "user_id": "U0002",
+    "product_id": "P014",
+    "amount": 91.34,
+    "payment_type": "UPI",
+    "date": "2024-03-08"
+  },
+  {
+    "transaction_id": "T000154",
+    "user_id": "U0197",
+    "product_id": "P009",
+    "amount": 49.6,
+    "payment_type": "UPI",
+    "date": "2024-08-15"
+  },
+  {
+    "transaction_id": "T000155",
+    "user_id": "U0084",
+    "product_id": "P008",
+    "amount": 53.98,
+    "payment_type": "Credit Card",
+    "date": "2025-10-15"
+  },
+  {
+    "transaction_id": "T000156",
+    "user_id": "U0192",
+    "product_id": "P028",
+    "amount": 29.92,
+    "payment_type": "Debit Card",
+    "date": "2023-09-22"
+  },
+  {
+    "transaction_id": "T000157",
+    "user_id": "U0098",
+    "product_id": "P035",
+    "amount": 54.0,
+    "payment_type": "Wallet",
+    "date": "2024-04-16"
+  },
+  {
+    "transaction_id": "T000158",
+    "user_id": "U0129",
+    "product_id": "P036",
+    "amount": 45.92,
+    "payment_type": "Wallet",
+    "date": "2024-12-26"
+  },
+  {
+    "transaction_id": "T000159",
+    "user_id": "U0019",
+    "product_id": "P026",
+    "amount": 66.26,
+    "payment_type": "Wallet",
+    "date": "2023-03-28"
+  },
+  {
+    "transaction_id": "T000160",
+    "user_id": "U0112",
+    "product_id": "P002",
+    "amount": 33.24,
+    "payment_type": "Net Banking",
+    "date": "2023-06-09"
+  },
+  {
+    "transaction_id": "T000161",
+    "user_id": "U0081",
+    "product_id": "P037",
+    "amount": 74.56,
+    "payment_type": "Net Banking",
+    "date": "2025-04-08"
+  },
+  {
+    "transaction_id": "T000162",
+    "user_id": "U0182",
+    "product_id": "P041",
+    "amount": 136.95,
+    "payment_type": "Net Banking",
+    "date": "2024-08-15"
+  },
+  {
+    "transaction_id": "T000163",
+    "user_id": "U0030",
+    "product_id": "P026",
+    "amount": 51.15,
+    "payment_type": "Credit Card",
+    "date": "2024-10-27"
+  },
+  {
+    "transaction_id": "T000164",
+    "user_id": "U0044",
+    "product_id": "P040",
+    "amount": 69.48,
+    "payment_type": "Net Banking",
+    "date": "2025-01-11"
+  },
+  {
+    "transaction_id": "T000165",
+    "user_id": "U0023",
+    "product_id": "P028",
+    "amount": 82.61,
+    "payment_type": "Credit Card",
+    "date": "2024-05-13"
+  },
+  {
+    "transaction_id": "T000166",
+    "user_id": "U0112",
+    "product_id": "P038",
+    "amount": 42.92,
+    "payment_type": "Net Banking",
+    "date": "2023-06-11"
+  },
+  {
+    "transaction_id": "T000167",
+    "user_id": "U0102",
+    "product_id": "P020",
+    "amount": 62.46,
+    "payment_type": "Wallet",
+    "date": "2024-11-26"
+  },
+  {
+    "transaction_id": "T000168",
+    "user_id": "U0057",
+    "product_id": "P022",
+    "amount": 55.01,
+    "payment_type": "Debit Card",
+    "date": "2023-06-06"
+  },
+  {
+    "transaction_id": "T000169",
+    "user_id": "U0131",
+    "product_id": "P041",
+    "amount": 57.89,
+    "payment_type": "Credit Card",
+    "date": "2024-02-02"
+  },
+  {
+    "transaction_id": "T000170",
+    "user_id": "U0199",
+    "product_id": "P023",
+    "amount": 34.34,
+    "payment_type": "UPI",
+    "date": "2023-10-30"
+  },
+  {
+    "transaction_id": "T000171",
+    "user_id": "U0061",
+    "product_id": "P007",
+    "amount": 55.41,
+    "payment_type": "Debit Card",
+    "date": "2024-06-08"
+  },
+  {
+    "transaction_id": "T000172",
+    "user_id": "U0051",
+    "product_id": "P012",
+    "amount": 73.61,
+    "payment_type": "Cash",
+    "date": "2023-11-10"
+  },
+  {
+    "transaction_id": "T000173",
+    "user_id": "U0195",
+    "product_id": "P049",
+    "amount": 130.41,
+    "payment_type": "Wallet",
+    "date": "2023-06-04"
+  },
+  {
+    "transaction_id": "T000174",
+    "user_id": "U0046",
+    "product_id": "P050",
+    "amount": 97.08,
+    "payment_type": "Wallet",
+    "date": "2025-10-08"
+  },
+  {
+    "transaction_id": "T000175",
+    "user_id": "U0119",
+    "product_id": "P049",
+    "amount": 198.72,
+    "payment_type": "Cash",
+    "date": "2025-07-08"
+  },
+  {
+    "transaction_id": "T000176",
+    "user_id": "U0175",
+    "product_id": "P037",
+    "amount": 34.45,
+    "payment_type": "Wallet",
+    "date": "2024-10-23"
+  },
+  {
+    "transaction_id": "T000177",
+    "user_id": "U0161",
+    "product_id": "P021",
+    "amount": 92.15,
+    "payment_type": "Debit Card",
+    "date": "2025-06-19"
+  },
+  {
+    "transaction_id": "T000178",
+    "user_id": "U0018",
+    "product_id": "P031",
+    "amount": 60.95,
+    "payment_type": "Net Banking",
+    "date": "2024-09-12"
+  },
+  {
+    "transaction_id": "T000179",
+    "user_id": "U0071",
+    "product_id": "P038",
+    "amount": 203.14,
+    "payment_type": "Credit Card",
+    "date": "2024-12-21"
+  },
+  {
+    "transaction_id": "T000180",
+    "user_id": "U0130",
+    "product_id": "P005",
+    "amount": 33.62,
+    "payment_type": "UPI",
+    "date": "2025-08-03"
+  },
+  {
+    "transaction_id": "T000181",
+    "user_id": "U0116",
+    "product_id": "P003",
+    "amount": 32.99,
+    "payment_type": "Credit Card",
+    "date": "2025-01-25"
+  },
+  {
+    "transaction_id": "T000182",
+    "user_id": "U0074",
+    "product_id": "P005",
+    "amount": 38.11,
+    "payment_type": "Wallet",
+    "date": "2023-07-04"
+  },
+  {
+    "transaction_id": "T000183",
+    "user_id": "U0158",
+    "product_id": "P039",
+    "amount": 15.27,
+    "payment_type": "Cash",
+    "date": "2025-02-26"
+  },
+  {
+    "transaction_id": "T000184",
+    "user_id": "U0119",
+    "product_id": "P038",
+    "amount": 39.83,
+    "payment_type": "Cash",
+    "date": "2023-03-26"
+  },
+  {
+    "transaction_id": "T000185",
+    "user_id": "U0116",
+    "product_id": "P037",
+    "amount": 34.62,
+    "payment_type": "Wallet",
+    "date": "2024-01-21"
+  },
+  {
+    "transaction_id": "T000186",
+    "user_id": "U0083",
+    "product_id": "P039",
+    "amount": 59.75,
+    "payment_type": "Net Banking",
+    "date": "2025-10-23"
+  },
+  {
+    "transaction_id": "T000187",
+    "user_id": "U0039",
+    "product_id": "P004",
+    "amount": 67.02,
+    "payment_type": "Net Banking",
+    "date": "2023-07-31"
+  },
+  {
+    "transaction_id": "T000188",
+    "user_id": "U0088",
+    "product_id": "P046",
+    "amount": 168.29,
+    "payment_type": "Credit Card",
+    "date": "2025-10-30"
+  },
+  {
+    "transaction_id": "T000189",
+    "user_id": "U0166",
+    "product_id": "P012",
+    "amount": 96.57,
+    "payment_type": "Credit Card",
+    "date": "2024-05-22"
+  },
+  {
+    "transaction_id": "T000190",
+    "user_id": "U0182",
+    "product_id": "P029",
+    "amount": 38.62,
+    "payment_type": "Net Banking",
+    "date": "2023-11-22"
+  },
+  {
+    "transaction_id": "T000191",
+    "user_id": "U0094",
+    "product_id": "P024",
+    "amount": 31.85,
+    "payment_type": "UPI",
+    "date": "2025-03-04"
+  },
+  {
+    "transaction_id": "T000192",
+    "user_id": "U0105",
+    "product_id": "P050",
+    "amount": 73.34,
+    "payment_type": "UPI",
+    "date": "2023-04-18"
+  },
+  {
+    "transaction_id": "T000193",
+    "user_id": "U0162",
+    "product_id": "P042",
+    "amount": 24.73,
+    "payment_type": "UPI",
+    "date": "2023-05-15"
+  },
+  {
+    "transaction_id": "T000194",
+    "user_id": "U0085",
+    "product_id": "P007",
+    "amount": 163.84,
+    "payment_type": "Cash",
+    "date": "2025-03-02"
+  },
+  {
+    "transaction_id": "T000195",
+    "user_id": "U0073",
+    "product_id": "P017",
+    "amount": 110.79,
+    "payment_type": "Wallet",
+    "date": "2023-11-04"
+  },
+  {
+    "transaction_id": "T000196",
+    "user_id": "U0086",
+    "product_id": "P006",
+    "amount": 41.2,
+    "payment_type": "Cash",
+    "date": "2023-10-17"
+  },
+  {
+    "transaction_id": "T000197",
+    "user_id": "U0090",
+    "product_id": "P020",
+    "amount": 19.53,
+    "payment_type": "Wallet",
+    "date": "2025-03-13"
+  },
+  {
+    "transaction_id": "T000198",
+    "user_id": "U0034",
+    "product_id": "P039",
+    "amount": 123.02,
+    "payment_type": "Wallet",
+    "date": "2023-06-23"
+  },
+  {
+    "transaction_id": "T000199",
+    "user_id": "U0080",
+    "product_id": "P036",
+    "amount": 50.97,
+    "payment_type": "Net Banking",
+    "date": "2024-11-03"
+  },
+  {
+    "transaction_id": "T000200",
+    "user_id": "U0033",
+    "product_id": "P043",
+    "amount": 114.74,
+    "payment_type": "Wallet",
+    "date": "2023-07-11"
+  },
+  {
+    "transaction_id": "T000201",
+    "user_id": "U0166",
+    "product_id": "P043",
+    "amount": 20.98,
+    "payment_type": "Net Banking",
+    "date": "2025-01-11"
+  },
+  {
+    "transaction_id": "T000202",
+    "user_id": "U0005",
+    "product_id": "P024",
+    "amount": 38.11,
+    "payment_type": "UPI",
+    "date": "2024-01-05"
+  },
+  {
+    "transaction_id": "T000203",
+    "user_id": "U0055",
+    "product_id": "P022",
+    "amount": 54.77,
+    "payment_type": "Net Banking",
+    "date": "2024-01-29"
+  },
+  {
+    "transaction_id": "T000204",
+    "user_id": "U0058",
+    "product_id": "P009",
+    "amount": 56.16,
+    "payment_type": "Debit Card",
+    "date": "2023-06-08"
+  },
+  {
+    "transaction_id": "T000205",
+    "user_id": "U0076",
+    "product_id": "P007",
+    "amount": 41.68,
+    "payment_type": "Cash",
+    "date": "2023-03-19"
+  },
+  {
+    "transaction_id": "T000206",
+    "user_id": "U0170",
+    "product_id": "P022",
+    "amount": 79.34,
+    "payment_type": "Cash",
+    "date": "2023-09-26"
+  },
+  {
+    "transaction_id": "T000207",
+    "user_id": "U0153",
+    "product_id": "P025",
+    "amount": 28.77,
+    "payment_type": "Debit Card",
+    "date": "2023-11-29"
+  },
+  {
+    "transaction_id": "T000208",
+    "user_id": "U0047",
+    "product_id": "P045",
+    "amount": 50.13,
+    "payment_type": "Cash",
+    "date": "2023-12-06"
+  },
+  {
+    "transaction_id": "T000209",
+    "user_id": "U0185",
+    "product_id": "P029",
+    "amount": 58.68,
+    "payment_type": "Credit Card",
+    "date": "2025-04-21"
+  },
+  {
+    "transaction_id": "T000210",
+    "user_id": "U0094",
+    "product_id": "P044",
+    "amount": 74.34,
+    "payment_type": "Wallet",
+    "date": "2024-05-01"
+  },
+  {
+    "transaction_id": "T000211",
+    "user_id": "U0114",
+    "product_id": "P040",
+    "amount": 83.68,
+    "payment_type": "UPI",
+    "date": "2025-07-08"
+  },
+  {
+    "transaction_id": "T000212",
+    "user_id": "U0060",
+    "product_id": "P035",
+    "amount": 27.8,
+    "payment_type": "Debit Card",
+    "date": "2024-09-25"
+  },
+  {
+    "transaction_id": "T000213",
+    "user_id": "U0121",
+    "product_id": "P013",
+    "amount": 21.75,
+    "payment_type": "UPI",
+    "date": "2025-06-21"
+  },
+  {
+    "transaction_id": "T000214",
+    "user_id": "U0119",
+    "product_id": "P050",
+    "amount": 117.52,
+    "payment_type": "UPI",
+    "date": "2025-02-21"
+  },
+  {
+    "transaction_id": "T000215",
+    "user_id": "U0129",
+    "product_id": "P034",
+    "amount": 66.65,
+    "payment_type": "Net Banking",
+    "date": "2023-11-28"
+  },
+  {
+    "transaction_id": "T000216",
+    "user_id": "U0052",
+    "product_id": "P039",
+    "amount": 34.84,
+    "payment_type": "Debit Card",
+    "date": "2024-05-27"
+  },
+  {
+    "transaction_id": "T000217",
+    "user_id": "U0014",
+    "product_id": "P042",
+    "amount": 138.48,
+    "payment_type": "Net Banking",
+    "date": "2025-01-30"
+  },
+  {
+    "transaction_id": "T000218",
+    "user_id": "U0142",
+    "product_id": "P007",
+    "amount": 58.52,
+    "payment_type": "Wallet",
+    "date": "2023-09-13"
+  },
+  {
+    "transaction_id": "T000219",
+    "user_id": "U0073",
+    "product_id": "P006",
+    "amount": 110.78,
+    "payment_type": "Debit Card",
+    "date": "2024-07-12"
+  },
+  {
+    "transaction_id": "T000220",
+    "user_id": "U0116",
+    "product_id": "P033",
+    "amount": 56.86,
+    "payment_type": "Debit Card",
+    "date": "2025-06-14"
+  },
+  {
+    "transaction_id": "T000221",
+    "user_id": "U0024",
+    "product_id": "P015",
+    "amount": 188.0,
+    "payment_type": "Net Banking",
+    "date": "2024-12-16"
+  },
+  {
+    "transaction_id": "T000222",
+    "user_id": "U0007",
+    "product_id": "P027",
+    "amount": 156.52,
+    "payment_type": "Credit Card",
+    "date": "2025-03-22"
+  },
+  {
+    "transaction_id": "T000223",
+    "user_id": "U0129",
+    "product_id": "P024",
+    "amount": 47.02,
+    "payment_type": "Debit Card",
+    "date": "2025-03-01"
+  },
+  {
+    "transaction_id": "T000224",
+    "user_id": "U0021",
+    "product_id": "P024",
+    "amount": 97.8,
+    "payment_type": "Debit Card",
+    "date": "2023-02-27"
+  },
+  {
+    "transaction_id": "T000225",
+    "user_id": "U0082",
+    "product_id": "P007",
+    "amount": 80.42,
+    "payment_type": "Wallet",
+    "date": "2024-11-17"
+  },
+  {
+    "transaction_id": "T000226",
+    "user_id": "U0038",
+    "product_id": "P009",
+    "amount": 124.11,
+    "payment_type": "Credit Card",
+    "date": "2024-08-10"
+  },
+  {
+    "transaction_id": "T000227",
+    "user_id": "U0121",
+    "product_id": "P045",
+    "amount": 30.6,
+    "payment_type": "Debit Card",
+    "date": "2025-08-18"
+  },
+  {
+    "transaction_id": "T000228",
+    "user_id": "U0115",
+    "product_id": "P040",
+    "amount": 82.4,
+    "payment_type": "Credit Card",
+    "date": "2023-06-12"
+  },
+  {
+    "transaction_id": "T000229",
+    "user_id": "U0005",
+    "product_id": "P017",
+    "amount": 103.03,
+    "payment_type": "Debit Card",
+    "date": "2023-11-03"
+  },
+  {
+    "transaction_id": "T000230",
+    "user_id": "U0141",
+    "product_id": "P047",
+    "amount": 19.01,
+    "payment_type": "Cash",
+    "date": "2025-05-16"
+  },
+  {
+    "transaction_id": "T000231",
+    "user_id": "U0029",
+    "product_id": "P050",
+    "amount": 26.84,
+    "payment_type": "UPI",
+    "date": "2024-05-01"
+  },
+  {
+    "transaction_id": "T000232",
+    "user_id": "U0078",
+    "product_id": "P008",
+    "amount": 16.06,
+    "payment_type": "Credit Card",
+    "date": "2024-05-03"
+  },
+  {
+    "transaction_id": "T000233",
+    "user_id": "U0108",
+    "product_id": "P041",
+    "amount": 46.45,
+    "payment_type": "Cash",
+    "date": "2025-07-25"
+  },
+  {
+    "transaction_id": "T000234",
+    "user_id": "U0017",
+    "product_id": "P008",
+    "amount": 83.98,
+    "payment_type": "Net Banking",
+    "date": "2023-02-03"
+  },
+  {
+    "transaction_id": "T000235",
+    "user_id": "U0162",
+    "product_id": "P033",
+    "amount": 134.48,
+    "payment_type": "Cash",
+    "date": "2024-05-10"
+  },
+  {
+    "transaction_id": "T000236",
+    "user_id": "U0184",
+    "product_id": "P010",
+    "amount": 57.08,
+    "payment_type": "UPI",
+    "date": "2025-05-29"
+  },
+  {
+    "transaction_id": "T000237",
+    "user_id": "U0001",
+    "product_id": "P040",
+    "amount": 145.06,
+    "payment_type": "UPI",
+    "date": "2024-05-07"
+  },
+  {
+    "transaction_id": "T000238",
+    "user_id": "U0147",
+    "product_id": "P027",
+    "amount": 23.85,
+    "payment_type": "Debit Card",
+    "date": "2023-06-25"
+  },
+  {
+    "transaction_id": "T000239",
+    "user_id": "U0135",
+    "product_id": "P024",
+    "amount": 19.65,
+    "payment_type": "Credit Card",
+    "date": "2023-02-11"
+  },
+  {
+    "transaction_id": "T000240",
+    "user_id": "U0100",
+    "product_id": "P031",
+    "amount": 52.81,
+    "payment_type": "Credit Card",
+    "date": "2025-03-03"
+  },
+  {
+    "transaction_id": "T000241",
+    "user_id": "U0096",
+    "product_id": "P017",
+    "amount": 68.75,
+    "payment_type": "Wallet",
+    "date": "2023-02-03"
+  },
+  {
+    "transaction_id": "T000242",
+    "user_id": "U0092",
+    "product_id": "P005",
+    "amount": 53.54,
+    "payment_type": "UPI",
+    "date": "2024-05-08"
+  },
+  {
+    "transaction_id": "T000243",
+    "user_id": "U0188",
+    "product_id": "P043",
+    "amount": 15.79,
+    "payment_type": "Wallet",
+    "date": "2023-08-01"
+  },
+  {
+    "transaction_id": "T000244",
+    "user_id": "U0198",
+    "product_id": "P038",
+    "amount": 51.76,
+    "payment_type": "Wallet",
+    "date": "2024-11-11"
+  },
+  {
+    "transaction_id": "T000245",
+    "user_id": "U0035",
+    "product_id": "P003",
+    "amount": 24.96,
+    "payment_type": "UPI",
+    "date": "2024-11-24"
+  },
+  {
+    "transaction_id": "T000246",
+    "user_id": "U0165",
+    "product_id": "P012",
+    "amount": 81.6,
+    "payment_type": "Wallet",
+    "date": "2025-08-09"
+  },
+  {
+    "transaction_id": "T000247",
+    "user_id": "U0179",
+    "product_id": "P031",
+    "amount": 68.03,
+    "payment_type": "Wallet",
+    "date": "2024-01-09"
+  },
+  {
+    "transaction_id": "T000248",
+    "user_id": "U0035",
+    "product_id": "P005",
+    "amount": 31.06,
+    "payment_type": "Wallet",
+    "date": "2025-07-26"
+  },
+  {
+    "transaction_id": "T000249",
+    "user_id": "U0010",
+    "product_id": "P019",
+    "amount": 40.11,
+    "payment_type": "Debit Card",
+    "date": "2023-03-31"
+  },
+  {
+    "transaction_id": "T000250",
+    "user_id": "U0052",
+    "product_id": "P003",
+    "amount": 28.92,
+    "payment_type": "UPI",
+    "date": "2024-09-27"
+  },
+  {
+    "transaction_id": "T000251",
+    "user_id": "U0132",
+    "product_id": "P026",
+    "amount": 52.58,
+    "payment_type": "Cash",
+    "date": "2025-08-27"
+  },
+  {
+    "transaction_id": "T000252",
+    "user_id": "U0065",
+    "product_id": "P003",
+    "amount": 96.84,
+    "payment_type": "Wallet",
+    "date": "2024-01-27"
+  },
+  {
+    "transaction_id": "T000253",
+    "user_id": "U0074",
+    "product_id": "P023",
+    "amount": 30.22,
+    "payment_type": "Credit Card",
+    "date": "2024-11-10"
+  },
+  {
+    "transaction_id": "T000254",
+    "user_id": "U0070",
+    "product_id": "P008",
+    "amount": 73.88,
+    "payment_type": "UPI",
+    "date": "2025-06-13"
+  },
+  {
+    "transaction_id": "T000255",
+    "user_id": "U0103",
+    "product_id": "P048",
+    "amount": 39.72,
+    "payment_type": "Net Banking",
+    "date": "2025-03-02"
+  },
+  {
+    "transaction_id": "T000256",
+    "user_id": "U0087",
+    "product_id": "P012",
+    "amount": 33.93,
+    "payment_type": "Net Banking",
+    "date": "2025-10-15"
+  },
+  {
+    "transaction_id": "T000257",
+    "user_id": "U0095",
+    "product_id": "P034",
+    "amount": 51.2,
+    "payment_type": "UPI",
+    "date": "2023-06-19"
+  },
+  {
+    "transaction_id": "T000258",
+    "user_id": "U0187",
+    "product_id": "P028",
+    "amount": 29.34,
+    "payment_type": "Credit Card",
+    "date": "2025-05-31"
+  },
+  {
+    "transaction_id": "T000259",
+    "user_id": "U0155",
+    "product_id": "P012",
+    "amount": 39.17,
+    "payment_type": "Cash",
+    "date": "2024-08-24"
+  },
+  {
+    "transaction_id": "T000260",
+    "user_id": "U0083",
+    "product_id": "P007",
+    "amount": 26.61,
+    "payment_type": "Credit Card",
+    "date": "2024-11-02"
+  },
+  {
+    "transaction_id": "T000261",
+    "user_id": "U0170",
+    "product_id": "P019",
+    "amount": 177.48,
+    "payment_type": "UPI",
+    "date": "2025-07-02"
+  },
+  {
+    "transaction_id": "T000262",
+    "user_id": "U0155",
+    "product_id": "P046",
+    "amount": 55.77,
+    "payment_type": "Net Banking",
+    "date": "2023-12-08"
+  },
+  {
+    "transaction_id": "T000263",
+    "user_id": "U0177",
+    "product_id": "P029",
+    "amount": 35.88,
+    "payment_type": "UPI",
+    "date": "2025-07-04"
+  },
+  {
+    "transaction_id": "T000264",
+    "user_id": "U0011",
+    "product_id": "P047",
+    "amount": 62.08,
+    "payment_type": "UPI",
+    "date": "2025-06-09"
+  },
+  {
+    "transaction_id": "T000265",
+    "user_id": "U0071",
+    "product_id": "P041",
+    "amount": 51.04,
+    "payment_type": "Credit Card",
+    "date": "2023-06-03"
+  },
+  {
+    "transaction_id": "T000266",
+    "user_id": "U0172",
+    "product_id": "P041",
+    "amount": 47.82,
+    "payment_type": "Net Banking",
+    "date": "2025-01-14"
+  },
+  {
+    "transaction_id": "T000267",
+    "user_id": "U0132",
+    "product_id": "P048",
+    "amount": 78.93,
+    "payment_type": "Wallet",
+    "date": "2023-11-24"
+  },
+  {
+    "transaction_id": "T000268",
+    "user_id": "U0008",
+    "product_id": "P010",
+    "amount": 86.01,
+    "payment_type": "Cash",
+    "date": "2025-06-16"
+  },
+  {
+    "transaction_id": "T000269",
+    "user_id": "U0009",
+    "product_id": "P009",
+    "amount": 39.71,
+    "payment_type": "Credit Card",
+    "date": "2024-04-28"
+  },
+  {
+    "transaction_id": "T000270",
+    "user_id": "U0200",
+    "product_id": "P042",
+    "amount": 38.65,
+    "payment_type": "UPI",
+    "date": "2025-01-11"
+  },
+  {
+    "transaction_id": "T000271",
+    "user_id": "U0099",
+    "product_id": "P037",
+    "amount": 46.29,
+    "payment_type": "Credit Card",
+    "date": "2023-11-11"
+  },
+  {
+    "transaction_id": "T000272",
+    "user_id": "U0174",
+    "product_id": "P029",
+    "amount": 13.72,
+    "payment_type": "UPI",
+    "date": "2025-01-31"
+  },
+  {
+    "transaction_id": "T000273",
+    "user_id": "U0114",
+    "product_id": "P049",
+    "amount": 22.0,
+    "payment_type": "Credit Card",
+    "date": "2023-10-09"
+  },
+  {
+    "transaction_id": "T000274",
+    "user_id": "U0136",
+    "product_id": "P024",
+    "amount": 123.98,
+    "payment_type": "Net Banking",
+    "date": "2024-10-05"
+  },
+  {
+    "transaction_id": "T000275",
+    "user_id": "U0167",
+    "product_id": "P018",
+    "amount": 146.49,
+    "payment_type": "Debit Card",
+    "date": "2023-08-21"
+  },
+  {
+    "transaction_id": "T000276",
+    "user_id": "U0007",
+    "product_id": "P048",
+    "amount": 47.02,
+    "payment_type": "Debit Card",
+    "date": "2025-10-19"
+  },
+  {
+    "transaction_id": "T000277",
+    "user_id": "U0133",
+    "product_id": "P025",
+    "amount": 77.16,
+    "payment_type": "Cash",
+    "date": "2023-08-30"
+  },
+  {
+    "transaction_id": "T000278",
+    "user_id": "U0068",
+    "product_id": "P050",
+    "amount": 65.81,
+    "payment_type": "UPI",
+    "date": "2025-07-02"
+  },
+  {
+    "transaction_id": "T000279",
+    "user_id": "U0055",
+    "product_id": "P040",
+    "amount": 346.31,
+    "payment_type": "UPI",
+    "date": "2025-10-02"
+  },
+  {
+    "transaction_id": "T000280",
+    "user_id": "U0052",
+    "product_id": "P008",
+    "amount": 106.88,
+    "payment_type": "Debit Card",
+    "date": "2023-06-01"
+  },
+  {
+    "transaction_id": "T000281",
+    "user_id": "U0116",
+    "product_id": "P012",
+    "amount": 50.56,
+    "payment_type": "Wallet",
+    "date": "2025-06-30"
+  },
+  {
+    "transaction_id": "T000282",
+    "user_id": "U0023",
+    "product_id": "P044",
+    "amount": 30.77,
+    "payment_type": "UPI",
+    "date": "2024-12-12"
+  },
+  {
+    "transaction_id": "T000283",
+    "user_id": "U0182",
+    "product_id": "P005",
+    "amount": 20.82,
+    "payment_type": "Cash",
+    "date": "2024-08-17"
+  },
+  {
+    "transaction_id": "T000284",
+    "user_id": "U0077",
+    "product_id": "P011",
+    "amount": 61.69,
+    "payment_type": "Wallet",
+    "date": "2023-12-23"
+  },
+  {
+    "transaction_id": "T000285",
+    "user_id": "U0093",
+    "product_id": "P033",
+    "amount": 34.68,
+    "payment_type": "Debit Card",
+    "date": "2023-09-06"
+  },
+  {
+    "transaction_id": "T000286",
+    "user_id": "U0052",
+    "product_id": "P009",
+    "amount": 23.26,
+    "payment_type": "Debit Card",
+    "date": "2025-10-08"
+  },
+  {
+    "transaction_id": "T000287",
+    "user_id": "U0007",
+    "product_id": "P024",
+    "amount": 37.04,
+    "payment_type": "Cash",
+    "date": "2025-01-25"
+  },
+  {
+    "transaction_id": "T000288",
+    "user_id": "U0120",
+    "product_id": "P036",
+    "amount": 28.53,
+    "payment_type": "Debit Card",
+    "date": "2023-06-26"
+  },
+  {
+    "transaction_id": "T000289",
+    "user_id": "U0017",
+    "product_id": "P020",
+    "amount": 150.25,
+    "payment_type": "Net Banking",
+    "date": "2025-09-07"
+  },
+  {
+    "transaction_id": "T000290",
+    "user_id": "U0135",
+    "product_id": "P027",
+    "amount": 92.66,
+    "payment_type": "Net Banking",
+    "date": "2023-06-01"
+  },
+  {
+    "transaction_id": "T000291",
+    "user_id": "U0033",
+    "product_id": "P021",
+    "amount": 54.34,
+    "payment_type": "Wallet",
+    "date": "2023-06-01"
+  },
+  {
+    "transaction_id": "T000292",
+    "user_id": "U0116",
+    "product_id": "P030",
+    "amount": 132.68,
+    "payment_type": "Wallet",
+    "date": "2024-12-06"
+  },
+  {
+    "transaction_id": "T000293",
+    "user_id": "U0033",
+    "product_id": "P050",
+    "amount": 57.19,
+    "payment_type": "Cash",
+    "date": "2024-01-08"
+  },
+  {
+    "transaction_id": "T000294",
+    "user_id": "U0197",
+    "product_id": "P009",
+    "amount": 32.56,
+    "payment_type": "Net Banking",
+    "date": "2025-10-26"
+  },
+  {
+    "transaction_id": "T000295",
+    "user_id": "U0015",
+    "product_id": "P008",
+    "amount": 136.17,
+    "payment_type": "Cash",
+    "date": "2023-11-10"
+  },
+  {
+    "transaction_id": "T000296",
+    "user_id": "U0078",
+    "product_id": "P011",
+    "amount": 75.44,
+    "payment_type": "Debit Card",
+    "date": "2024-10-22"
+  },
+  {
+    "transaction_id": "T000297",
+    "user_id": "U0182",
+    "product_id": "P015",
+    "amount": 29.3,
+    "payment_type": "UPI",
+    "date": "2024-08-04"
+  },
+  {
+    "transaction_id": "T000298",
+    "user_id": "U0021",
+    "product_id": "P017",
+    "amount": 48.71,
+    "payment_type": "Debit Card",
+    "date": "2024-07-16"
+  },
+  {
+    "transaction_id": "T000299",
+    "user_id": "U0033",
+    "product_id": "P041",
+    "amount": 32.29,
+    "payment_type": "UPI",
+    "date": "2023-07-11"
+  },
+  {
+    "transaction_id": "T000300",
+    "user_id": "U0129",
+    "product_id": "P042",
+    "amount": 23.82,
+    "payment_type": "Debit Card",
+    "date": "2023-11-12"
+  },
+  {
+    "transaction_id": "T000301",
+    "user_id": "U0044",
+    "product_id": "P043",
+    "amount": 95.17,
+    "payment_type": "Cash",
+    "date": "2024-11-22"
+  },
+  {
+    "transaction_id": "T000302",
+    "user_id": "U0145",
+    "product_id": "P003",
+    "amount": 171.68,
+    "payment_type": "Credit Card",
+    "date": "2023-06-16"
+  },
+  {
+    "transaction_id": "T000303",
+    "user_id": "U0012",
+    "product_id": "P042",
+    "amount": 23.59,
+    "payment_type": "Cash",
+    "date": "2024-06-26"
+  },
+  {
+    "transaction_id": "T000304",
+    "user_id": "U0167",
+    "product_id": "P014",
+    "amount": 76.54,
+    "payment_type": "Cash",
+    "date": "2025-05-03"
+  },
+  {
+    "transaction_id": "T000305",
+    "user_id": "U0159",
+    "product_id": "P041",
+    "amount": 36.95,
+    "payment_type": "Credit Card",
+    "date": "2025-10-16"
+  },
+  {
+    "transaction_id": "T000306",
+    "user_id": "U0161",
+    "product_id": "P035",
+    "amount": 40.76,
+    "payment_type": "UPI",
+    "date": "2024-09-10"
+  },
+  {
+    "transaction_id": "T000307",
+    "user_id": "U0124",
+    "product_id": "P016",
+    "amount": 38.27,
+    "payment_type": "Wallet",
+    "date": "2025-04-11"
+  },
+  {
+    "transaction_id": "T000308",
+    "user_id": "U0077",
+    "product_id": "P030",
+    "amount": 32.51,
+    "payment_type": "Credit Card",
+    "date": "2023-05-03"
+  },
+  {
+    "transaction_id": "T000309",
+    "user_id": "U0041",
+    "product_id": "P029",
+    "amount": 56.21,
+    "payment_type": "Net Banking",
+    "date": "2025-09-18"
+  },
+  {
+    "transaction_id": "T000310",
+    "user_id": "U0119",
+    "product_id": "P014",
+    "amount": 33.16,
+    "payment_type": "UPI",
+    "date": "2023-10-22"
+  },
+  {
+    "transaction_id": "T000311",
+    "user_id": "U0081",
+    "product_id": "P046",
+    "amount": 64.22,
+    "payment_type": "UPI",
+    "date": "2024-12-08"
+  },
+  {
+    "transaction_id": "T000312",
+    "user_id": "U0103",
+    "product_id": "P009",
+    "amount": 52.98,
+    "payment_type": "UPI",
+    "date": "2023-08-06"
+  },
+  {
+    "transaction_id": "T000313",
+    "user_id": "U0082",
+    "product_id": "P016",
+    "amount": 47.31,
+    "payment_type": "Net Banking",
+    "date": "2023-09-08"
+  },
+  {
+    "transaction_id": "T000314",
+    "user_id": "U0069",
+    "product_id": "P029",
+    "amount": 31.67,
+    "payment_type": "Debit Card",
+    "date": "2023-10-16"
+  },
+  {
+    "transaction_id": "T000315",
+    "user_id": "U0025",
+    "product_id": "P004",
+    "amount": 38.63,
+    "payment_type": "UPI",
+    "date": "2025-02-25"
+  },
+  {
+    "transaction_id": "T000316",
+    "user_id": "U0158",
+    "product_id": "P027",
+    "amount": 85.9,
+    "payment_type": "Debit Card",
+    "date": "2023-11-24"
+  },
+  {
+    "transaction_id": "T000317",
+    "user_id": "U0084",
+    "product_id": "P037",
+    "amount": 73.74,
+    "payment_type": "Wallet",
+    "date": "2024-10-02"
+  },
+  {
+    "transaction_id": "T000318",
+    "user_id": "U0049",
+    "product_id": "P049",
+    "amount": 30.37,
+    "payment_type": "Debit Card",
+    "date": "2025-10-17"
+  },
+  {
+    "transaction_id": "T000319",
+    "user_id": "U0132",
+    "product_id": "P030",
+    "amount": 57.95,
+    "payment_type": "Net Banking",
+    "date": "2024-09-23"
+  },
+  {
+    "transaction_id": "T000320",
+    "user_id": "U0128",
+    "product_id": "P002",
+    "amount": 85.7,
+    "payment_type": "Credit Card",
+    "date": "2025-03-16"
+  },
+  {
+    "transaction_id": "T000321",
+    "user_id": "U0130",
+    "product_id": "P030",
+    "amount": 20.05,
+    "payment_type": "Debit Card",
+    "date": "2024-03-16"
+  },
+  {
+    "transaction_id": "T000322",
+    "user_id": "U0150",
+    "product_id": "P023",
+    "amount": 75.64,
+    "payment_type": "Credit Card",
+    "date": "2023-04-14"
+  },
+  {
+    "transaction_id": "T000323",
+    "user_id": "U0073",
+    "product_id": "P032",
+    "amount": 36.69,
+    "payment_type": "Cash",
+    "date": "2025-08-21"
+  },
+  {
+    "transaction_id": "T000324",
+    "user_id": "U0074",
+    "product_id": "P035",
+    "amount": 76.89,
+    "payment_type": "Credit Card",
+    "date": "2023-08-09"
+  },
+  {
+    "transaction_id": "T000325",
+    "user_id": "U0111",
+    "product_id": "P009",
+    "amount": 34.54,
+    "payment_type": "UPI",
+    "date": "2025-01-19"
+  },
+  {
+    "transaction_id": "T000326",
+    "user_id": "U0196",
+    "product_id": "P026",
+    "amount": 18.49,
+    "payment_type": "UPI",
+    "date": "2023-04-03"
+  },
+  {
+    "transaction_id": "T000327",
+    "user_id": "U0103",
+    "product_id": "P004",
+    "amount": 20.56,
+    "payment_type": "Cash",
+    "date": "2024-02-03"
+  },
+  {
+    "transaction_id": "T000328",
+    "user_id": "U0093",
+    "product_id": "P036",
+    "amount": 56.2,
+    "payment_type": "UPI",
+    "date": "2023-05-31"
+  },
+  {
+    "transaction_id": "T000329",
+    "user_id": "U0099",
+    "product_id": "P033",
+    "amount": 63.81,
+    "payment_type": "Net Banking",
+    "date": "2024-07-26"
+  },
+  {
+    "transaction_id": "T000330",
+    "user_id": "U0160",
+    "product_id": "P044",
+    "amount": 31.73,
+    "payment_type": "Cash",
+    "date": "2023-09-01"
+  },
+  {
+    "transaction_id": "T000331",
+    "user_id": "U0033",
+    "product_id": "P007",
+    "amount": 80.09,
+    "payment_type": "Net Banking",
+    "date": "2025-02-03"
+  },
+  {
+    "transaction_id": "T000332",
+    "user_id": "U0087",
+    "product_id": "P036",
+    "amount": 20.15,
+    "payment_type": "UPI",
+    "date": "2023-10-23"
+  },
+  {
+    "transaction_id": "T000333",
+    "user_id": "U0051",
+    "product_id": "P039",
+    "amount": 52.48,
+    "payment_type": "Cash",
+    "date": "2025-04-02"
+  },
+  {
+    "transaction_id": "T000334",
+    "user_id": "U0129",
+    "product_id": "P003",
+    "amount": 26.4,
+    "payment_type": "Credit Card",
+    "date": "2023-03-21"
+  },
+  {
+    "transaction_id": "T000335",
+    "user_id": "U0036",
+    "product_id": "P046",
+    "amount": 36.93,
+    "payment_type": "UPI",
+    "date": "2025-08-28"
+  },
+  {
+    "transaction_id": "T000336",
+    "user_id": "U0133",
+    "product_id": "P030",
+    "amount": 56.17,
+    "payment_type": "Debit Card",
+    "date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T000337",
+    "user_id": "U0084",
+    "product_id": "P040",
+    "amount": 32.58,
+    "payment_type": "UPI",
+    "date": "2023-11-29"
+  },
+  {
+    "transaction_id": "T000338",
+    "user_id": "U0101",
+    "product_id": "P040",
+    "amount": 43.35,
+    "payment_type": "Wallet",
+    "date": "2024-09-04"
+  },
+  {
+    "transaction_id": "T000339",
+    "user_id": "U0152",
+    "product_id": "P022",
+    "amount": 99.86,
+    "payment_type": "Cash",
+    "date": "2025-09-30"
+  },
+  {
+    "transaction_id": "T000340",
+    "user_id": "U0182",
+    "product_id": "P037",
+    "amount": 38.62,
+    "payment_type": "UPI",
+    "date": "2025-08-30"
+  },
+  {
+    "transaction_id": "T000341",
+    "user_id": "U0005",
+    "product_id": "P024",
+    "amount": 90.14,
+    "payment_type": "UPI",
+    "date": "2023-08-13"
+  },
+  {
+    "transaction_id": "T000342",
+    "user_id": "U0107",
+    "product_id": "P038",
+    "amount": 27.72,
+    "payment_type": "UPI",
+    "date": "2023-02-24"
+  },
+  {
+    "transaction_id": "T000343",
+    "user_id": "U0153",
+    "product_id": "P031",
+    "amount": 75.03,
+    "payment_type": "UPI",
+    "date": "2024-04-11"
+  },
+  {
+    "transaction_id": "T000344",
+    "user_id": "U0185",
+    "product_id": "P004",
+    "amount": 129.66,
+    "payment_type": "Cash",
+    "date": "2025-09-10"
+  },
+  {
+    "transaction_id": "T000345",
+    "user_id": "U0044",
+    "product_id": "P034",
+    "amount": 12.39,
+    "payment_type": "Wallet",
+    "date": "2025-02-17"
+  },
+  {
+    "transaction_id": "T000346",
+    "user_id": "U0038",
+    "product_id": "P044",
+    "amount": 33.85,
+    "payment_type": "Debit Card",
+    "date": "2023-03-06"
+  },
+  {
+    "transaction_id": "T000347",
+    "user_id": "U0147",
+    "product_id": "P045",
+    "amount": 77.19,
+    "payment_type": "Credit Card",
+    "date": "2024-01-26"
+  },
+  {
+    "transaction_id": "T000348",
+    "user_id": "U0005",
+    "product_id": "P029",
+    "amount": 48.34,
+    "payment_type": "UPI",
+    "date": "2025-05-07"
+  },
+  {
+    "transaction_id": "T000349",
+    "user_id": "U0039",
+    "product_id": "P027",
+    "amount": 68.22,
+    "payment_type": "Wallet",
+    "date": "2024-02-22"
+  },
+  {
+    "transaction_id": "T000350",
+    "user_id": "U0106",
+    "product_id": "P033",
+    "amount": 38.0,
+    "payment_type": "Cash",
+    "date": "2025-08-23"
+  },
+  {
+    "transaction_id": "T000351",
+    "user_id": "U0189",
+    "product_id": "P047",
+    "amount": 57.51,
+    "payment_type": "Credit Card",
+    "date": "2023-10-10"
+  },
+  {
+    "transaction_id": "T000352",
+    "user_id": "U0133",
+    "product_id": "P014",
+    "amount": 49.73,
+    "payment_type": "Cash",
+    "date": "2024-10-27"
+  },
+  {
+    "transaction_id": "T000353",
+    "user_id": "U0170",
+    "product_id": "P031",
+    "amount": 110.02,
+    "payment_type": "Cash",
+    "date": "2025-02-10"
+  },
+  {
+    "transaction_id": "T000354",
+    "user_id": "U0081",
+    "product_id": "P012",
+    "amount": 63.6,
+    "payment_type": "Net Banking",
+    "date": "2024-12-02"
+  },
+  {
+    "transaction_id": "T000355",
+    "user_id": "U0140",
+    "product_id": "P023",
+    "amount": 66.86,
+    "payment_type": "Wallet",
+    "date": "2024-06-25"
+  },
+  {
+    "transaction_id": "T000356",
+    "user_id": "U0157",
+    "product_id": "P031",
+    "amount": 42.64,
+    "payment_type": "Debit Card",
+    "date": "2024-05-19"
+  },
+  {
+    "transaction_id": "T000357",
+    "user_id": "U0072",
+    "product_id": "P036",
+    "amount": 40.75,
+    "payment_type": "UPI",
+    "date": "2024-04-05"
+  },
+  {
+    "transaction_id": "T000358",
+    "user_id": "U0077",
+    "product_id": "P050",
+    "amount": 42.12,
+    "payment_type": "UPI",
+    "date": "2024-02-29"
+  },
+  {
+    "transaction_id": "T000359",
+    "user_id": "U0177",
+    "product_id": "P046",
+    "amount": 69.18,
+    "payment_type": "Net Banking",
+    "date": "2024-10-11"
+  },
+  {
+    "transaction_id": "T000360",
+    "user_id": "U0123",
+    "product_id": "P023",
+    "amount": 42.41,
+    "payment_type": "Cash",
+    "date": "2024-07-14"
+  },
+  {
+    "transaction_id": "T000361",
+    "user_id": "U0074",
+    "product_id": "P008",
+    "amount": 64.97,
+    "payment_type": "Cash",
+    "date": "2025-02-16"
+  },
+  {
+    "transaction_id": "T000362",
+    "user_id": "U0102",
+    "product_id": "P023",
+    "amount": 189.66,
+    "payment_type": "Debit Card",
+    "date": "2024-08-17"
+  },
+  {
+    "transaction_id": "T000363",
+    "user_id": "U0011",
+    "product_id": "P019",
+    "amount": 92.08,
+    "payment_type": "Wallet",
+    "date": "2023-06-11"
+  },
+  {
+    "transaction_id": "T000364",
+    "user_id": "U0089",
+    "product_id": "P029",
+    "amount": 44.9,
+    "payment_type": "Wallet",
+    "date": "2024-06-09"
+  },
+  {
+    "transaction_id": "T000365",
+    "user_id": "U0192",
+    "product_id": "P031",
+    "amount": 112.25,
+    "payment_type": "Debit Card",
+    "date": "2024-02-18"
+  },
+  {
+    "transaction_id": "T000366",
+    "user_id": "U0138",
+    "product_id": "P018",
+    "amount": 42.74,
+    "payment_type": "Cash",
+    "date": "2024-07-10"
+  },
+  {
+    "transaction_id": "T000367",
+    "user_id": "U0036",
+    "product_id": "P007",
+    "amount": 16.07,
+    "payment_type": "Cash",
+    "date": "2024-05-05"
+  },
+  {
+    "transaction_id": "T000368",
+    "user_id": "U0063",
+    "product_id": "P004",
+    "amount": 29.82,
+    "payment_type": "Wallet",
+    "date": "2024-04-07"
+  },
+  {
+    "transaction_id": "T000369",
+    "user_id": "U0164",
+    "product_id": "P015",
+    "amount": 17.77,
+    "payment_type": "Credit Card",
+    "date": "2023-07-25"
+  },
+  {
+    "transaction_id": "T000370",
+    "user_id": "U0106",
+    "product_id": "P022",
+    "amount": 44.22,
+    "payment_type": "Wallet",
+    "date": "2025-08-25"
+  },
+  {
+    "transaction_id": "T000371",
+    "user_id": "U0026",
+    "product_id": "P044",
+    "amount": 55.2,
+    "payment_type": "Debit Card",
+    "date": "2023-01-11"
+  },
+  {
+    "transaction_id": "T000372",
+    "user_id": "U0141",
+    "product_id": "P011",
+    "amount": 149.29,
+    "payment_type": "Net Banking",
+    "date": "2025-09-01"
+  },
+  {
+    "transaction_id": "T000373",
+    "user_id": "U0123",
+    "product_id": "P042",
+    "amount": 66.43,
+    "payment_type": "Debit Card",
+    "date": "2024-08-11"
+  },
+  {
+    "transaction_id": "T000374",
+    "user_id": "U0083",
+    "product_id": "P019",
+    "amount": 47.87,
+    "payment_type": "Wallet",
+    "date": "2023-05-02"
+  },
+  {
+    "transaction_id": "T000375",
+    "user_id": "U0197",
+    "product_id": "P006",
+    "amount": 89.81,
+    "payment_type": "Wallet",
+    "date": "2024-04-20"
+  },
+  {
+    "transaction_id": "T000376",
+    "user_id": "U0137",
+    "product_id": "P048",
+    "amount": 14.49,
+    "payment_type": "Wallet",
+    "date": "2023-03-18"
+  },
+  {
+    "transaction_id": "T000377",
+    "user_id": "U0045",
+    "product_id": "P027",
+    "amount": 62.89,
+    "payment_type": "Debit Card",
+    "date": "2023-03-16"
+  },
+  {
+    "transaction_id": "T000378",
+    "user_id": "U0102",
+    "product_id": "P032",
+    "amount": 86.71,
+    "payment_type": "Debit Card",
+    "date": "2024-08-15"
+  },
+  {
+    "transaction_id": "T000379",
+    "user_id": "U0010",
+    "product_id": "P001",
+    "amount": 22.48,
+    "payment_type": "UPI",
+    "date": "2023-08-08"
+  },
+  {
+    "transaction_id": "T000380",
+    "user_id": "U0086",
+    "product_id": "P019",
+    "amount": 108.45,
+    "payment_type": "Net Banking",
+    "date": "2025-10-08"
+  },
+  {
+    "transaction_id": "T000381",
+    "user_id": "U0035",
+    "product_id": "P033",
+    "amount": 66.89,
+    "payment_type": "Net Banking",
+    "date": "2024-07-12"
+  },
+  {
+    "transaction_id": "T000382",
+    "user_id": "U0050",
+    "product_id": "P008",
+    "amount": 42.56,
+    "payment_type": "UPI",
+    "date": "2023-11-29"
+  },
+  {
+    "transaction_id": "T000383",
+    "user_id": "U0188",
+    "product_id": "P030",
+    "amount": 79.81,
+    "payment_type": "Wallet",
+    "date": "2024-06-10"
+  },
+  {
+    "transaction_id": "T000384",
+    "user_id": "U0184",
+    "product_id": "P012",
+    "amount": 213.24,
+    "payment_type": "Credit Card",
+    "date": "2024-11-21"
+  },
+  {
+    "transaction_id": "T000385",
+    "user_id": "U0076",
+    "product_id": "P037",
+    "amount": 60.89,
+    "payment_type": "Wallet",
+    "date": "2024-01-31"
+  },
+  {
+    "transaction_id": "T000386",
+    "user_id": "U0045",
+    "product_id": "P040",
+    "amount": 63.37,
+    "payment_type": "Wallet",
+    "date": "2025-04-10"
+  },
+  {
+    "transaction_id": "T000387",
+    "user_id": "U0110",
+    "product_id": "P033",
+    "amount": 41.45,
+    "payment_type": "UPI",
+    "date": "2023-06-27"
+  },
+  {
+    "transaction_id": "T000388",
+    "user_id": "U0103",
+    "product_id": "P043",
+    "amount": 32.79,
+    "payment_type": "Credit Card",
+    "date": "2024-01-14"
+  },
+  {
+    "transaction_id": "T000389",
+    "user_id": "U0036",
+    "product_id": "P031",
+    "amount": 89.86,
+    "payment_type": "UPI",
+    "date": "2024-05-23"
+  },
+  {
+    "transaction_id": "T000390",
+    "user_id": "U0002",
+    "product_id": "P017",
+    "amount": 32.67,
+    "payment_type": "Net Banking",
+    "date": "2024-04-27"
+  },
+  {
+    "transaction_id": "T000391",
+    "user_id": "U0115",
+    "product_id": "P049",
+    "amount": 56.99,
+    "payment_type": "UPI",
+    "date": "2024-11-06"
+  },
+  {
+    "transaction_id": "T000392",
+    "user_id": "U0078",
+    "product_id": "P038",
+    "amount": 40.99,
+    "payment_type": "Wallet",
+    "date": "2023-01-24"
+  },
+  {
+    "transaction_id": "T000393",
+    "user_id": "U0067",
+    "product_id": "P042",
+    "amount": 72.78,
+    "payment_type": "UPI",
+    "date": "2024-04-28"
+  },
+  {
+    "transaction_id": "T000394",
+    "user_id": "U0016",
+    "product_id": "P043",
+    "amount": 66.7,
+    "payment_type": "Credit Card",
+    "date": "2025-08-11"
+  },
+  {
+    "transaction_id": "T000395",
+    "user_id": "U0079",
+    "product_id": "P011",
+    "amount": 101.75,
+    "payment_type": "Net Banking",
+    "date": "2025-10-26"
+  },
+  {
+    "transaction_id": "T000396",
+    "user_id": "U0181",
+    "product_id": "P050",
+    "amount": 40.2,
+    "payment_type": "UPI",
+    "date": "2023-08-29"
+  },
+  {
+    "transaction_id": "T000397",
+    "user_id": "U0164",
+    "product_id": "P019",
+    "amount": 46.44,
+    "payment_type": "UPI",
+    "date": "2024-03-28"
+  },
+  {
+    "transaction_id": "T000398",
+    "user_id": "U0057",
+    "product_id": "P009",
+    "amount": 30.35,
+    "payment_type": "Net Banking",
+    "date": "2023-11-10"
+  },
+  {
+    "transaction_id": "T000399",
+    "user_id": "U0117",
+    "product_id": "P048",
+    "amount": 41.82,
+    "payment_type": "Cash",
+    "date": "2025-02-04"
+  },
+  {
+    "transaction_id": "T000400",
+    "user_id": "U0107",
+    "product_id": "P045",
+    "amount": 68.47,
+    "payment_type": "Cash",
+    "date": "2025-08-22"
+  },
+  {
+    "transaction_id": "T000401",
+    "user_id": "U0194",
+    "product_id": "P035",
+    "amount": 85.99,
+    "payment_type": "Wallet",
+    "date": "2024-03-23"
+  },
+  {
+    "transaction_id": "T000402",
+    "user_id": "U0196",
+    "product_id": "P016",
+    "amount": 31.4,
+    "payment_type": "Wallet",
+    "date": "2023-06-17"
+  },
+  {
+    "transaction_id": "T000403",
+    "user_id": "U0135",
+    "product_id": "P029",
+    "amount": 92.0,
+    "payment_type": "Cash",
+    "date": "2025-01-10"
+  },
+  {
+    "transaction_id": "T000404",
+    "user_id": "U0020",
+    "product_id": "P037",
+    "amount": 123.15,
+    "payment_type": "Credit Card",
+    "date": "2023-05-07"
+  },
+  {
+    "transaction_id": "T000405",
+    "user_id": "U0141",
+    "product_id": "P033",
+    "amount": 69.97,
+    "payment_type": "Debit Card",
+    "date": "2023-11-03"
+  },
+  {
+    "transaction_id": "T000406",
+    "user_id": "U0043",
+    "product_id": "P021",
+    "amount": 168.36,
+    "payment_type": "Cash",
+    "date": "2025-06-23"
+  },
+  {
+    "transaction_id": "T000407",
+    "user_id": "U0030",
+    "product_id": "P044",
+    "amount": 34.32,
+    "payment_type": "Debit Card",
+    "date": "2025-09-28"
+  },
+  {
+    "transaction_id": "T000408",
+    "user_id": "U0024",
+    "product_id": "P033",
+    "amount": 25.87,
+    "payment_type": "Net Banking",
+    "date": "2023-04-24"
+  },
+  {
+    "transaction_id": "T000409",
+    "user_id": "U0117",
+    "product_id": "P009",
+    "amount": 18.78,
+    "payment_type": "Cash",
+    "date": "2025-04-30"
+  },
+  {
+    "transaction_id": "T000410",
+    "user_id": "U0117",
+    "product_id": "P037",
+    "amount": 133.97,
+    "payment_type": "Credit Card",
+    "date": "2025-08-04"
+  },
+  {
+    "transaction_id": "T000411",
+    "user_id": "U0173",
+    "product_id": "P020",
+    "amount": 80.85,
+    "payment_type": "Wallet",
+    "date": "2023-02-14"
+  },
+  {
+    "transaction_id": "T000412",
+    "user_id": "U0102",
+    "product_id": "P017",
+    "amount": 52.81,
+    "payment_type": "Credit Card",
+    "date": "2024-03-22"
+  },
+  {
+    "transaction_id": "T000413",
+    "user_id": "U0149",
+    "product_id": "P005",
+    "amount": 64.58,
+    "payment_type": "Credit Card",
+    "date": "2025-05-17"
+  },
+  {
+    "transaction_id": "T000414",
+    "user_id": "U0089",
+    "product_id": "P045",
+    "amount": 27.79,
+    "payment_type": "Credit Card",
+    "date": "2023-05-04"
+  },
+  {
+    "transaction_id": "T000415",
+    "user_id": "U0018",
+    "product_id": "P031",
+    "amount": 236.86,
+    "payment_type": "Credit Card",
+    "date": "2024-08-10"
+  },
+  {
+    "transaction_id": "T000416",
+    "user_id": "U0105",
+    "product_id": "P012",
+    "amount": 59.0,
+    "payment_type": "Debit Card",
+    "date": "2025-05-10"
+  },
+  {
+    "transaction_id": "T000417",
+    "user_id": "U0096",
+    "product_id": "P025",
+    "amount": 58.3,
+    "payment_type": "Net Banking",
+    "date": "2025-02-12"
+  },
+  {
+    "transaction_id": "T000418",
+    "user_id": "U0097",
+    "product_id": "P006",
+    "amount": 84.39,
+    "payment_type": "Wallet",
+    "date": "2023-09-30"
+  },
+  {
+    "transaction_id": "T000419",
+    "user_id": "U0168",
+    "product_id": "P023",
+    "amount": 72.86,
+    "payment_type": "Credit Card",
+    "date": "2024-01-01"
+  },
+  {
+    "transaction_id": "T000420",
+    "user_id": "U0138",
+    "product_id": "P026",
+    "amount": 62.45,
+    "payment_type": "Cash",
+    "date": "2023-09-18"
+  },
+  {
+    "transaction_id": "T000421",
+    "user_id": "U0187",
+    "product_id": "P015",
+    "amount": 33.98,
+    "payment_type": "Credit Card",
+    "date": "2023-02-16"
+  },
+  {
+    "transaction_id": "T000422",
+    "user_id": "U0077",
+    "product_id": "P030",
+    "amount": 72.45,
+    "payment_type": "Wallet",
+    "date": "2025-05-18"
+  },
+  {
+    "transaction_id": "T000423",
+    "user_id": "U0137",
+    "product_id": "P025",
+    "amount": 168.88,
+    "payment_type": "Debit Card",
+    "date": "2024-05-21"
+  },
+  {
+    "transaction_id": "T000424",
+    "user_id": "U0118",
+    "product_id": "P023",
+    "amount": 122.39,
+    "payment_type": "Debit Card",
+    "date": "2024-07-18"
+  },
+  {
+    "transaction_id": "T000425",
+    "user_id": "U0049",
+    "product_id": "P047",
+    "amount": 142.01,
+    "payment_type": "Credit Card",
+    "date": "2023-03-07"
+  },
+  {
+    "transaction_id": "T000426",
+    "user_id": "U0170",
+    "product_id": "P027",
+    "amount": 40.18,
+    "payment_type": "Cash",
+    "date": "2023-02-02"
+  },
+  {
+    "transaction_id": "T000427",
+    "user_id": "U0062",
+    "product_id": "P014",
+    "amount": 30.15,
+    "payment_type": "Credit Card",
+    "date": "2023-07-26"
+  },
+  {
+    "transaction_id": "T000428",
+    "user_id": "U0153",
+    "product_id": "P003",
+    "amount": 50.63,
+    "payment_type": "Net Banking",
+    "date": "2023-04-10"
+  },
+  {
+    "transaction_id": "T000429",
+    "user_id": "U0063",
+    "product_id": "P048",
+    "amount": 56.45,
+    "payment_type": "Credit Card",
+    "date": "2025-04-03"
+  },
+  {
+    "transaction_id": "T000430",
+    "user_id": "U0113",
+    "product_id": "P015",
+    "amount": 105.27,
+    "payment_type": "Cash",
+    "date": "2024-03-20"
+  },
+  {
+    "transaction_id": "T000431",
+    "user_id": "U0194",
+    "product_id": "P050",
+    "amount": 19.78,
+    "payment_type": "Credit Card",
+    "date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T000432",
+    "user_id": "U0129",
+    "product_id": "P019",
+    "amount": 136.69,
+    "payment_type": "Debit Card",
+    "date": "2024-10-15"
+  },
+  {
+    "transaction_id": "T000433",
+    "user_id": "U0148",
+    "product_id": "P039",
+    "amount": 49.66,
+    "payment_type": "Wallet",
+    "date": "2024-10-18"
+  },
+  {
+    "transaction_id": "T000434",
+    "user_id": "U0061",
+    "product_id": "P020",
+    "amount": 42.26,
+    "payment_type": "Debit Card",
+    "date": "2024-03-28"
+  },
+  {
+    "transaction_id": "T000435",
+    "user_id": "U0106",
+    "product_id": "P020",
+    "amount": 29.75,
+    "payment_type": "UPI",
+    "date": "2023-05-05"
+  },
+  {
+    "transaction_id": "T000436",
+    "user_id": "U0143",
+    "product_id": "P038",
+    "amount": 20.23,
+    "payment_type": "Wallet",
+    "date": "2023-12-25"
+  },
+  {
+    "transaction_id": "T000437",
+    "user_id": "U0161",
+    "product_id": "P044",
+    "amount": 89.47,
+    "payment_type": "Net Banking",
+    "date": "2025-10-12"
+  },
+  {
+    "transaction_id": "T000438",
+    "user_id": "U0013",
+    "product_id": "P023",
+    "amount": 57.05,
+    "payment_type": "Wallet",
+    "date": "2025-02-19"
+  },
+  {
+    "transaction_id": "T000439",
+    "user_id": "U0135",
+    "product_id": "P021",
+    "amount": 25.18,
+    "payment_type": "Wallet",
+    "date": "2025-05-02"
+  },
+  {
+    "transaction_id": "T000440",
+    "user_id": "U0105",
+    "product_id": "P010",
+    "amount": 25.1,
+    "payment_type": "UPI",
+    "date": "2025-02-09"
+  },
+  {
+    "transaction_id": "T000441",
+    "user_id": "U0048",
+    "product_id": "P049",
+    "amount": 44.64,
+    "payment_type": "Cash",
+    "date": "2025-08-27"
+  },
+  {
+    "transaction_id": "T000442",
+    "user_id": "U0062",
+    "product_id": "P015",
+    "amount": 148.62,
+    "payment_type": "UPI",
+    "date": "2023-10-23"
+  },
+  {
+    "transaction_id": "T000443",
+    "user_id": "U0119",
+    "product_id": "P004",
+    "amount": 46.72,
+    "payment_type": "Cash",
+    "date": "2025-04-25"
+  },
+  {
+    "transaction_id": "T000444",
+    "user_id": "U0107",
+    "product_id": "P036",
+    "amount": 22.16,
+    "payment_type": "Cash",
+    "date": "2023-10-02"
+  },
+  {
+    "transaction_id": "T000445",
+    "user_id": "U0100",
+    "product_id": "P016",
+    "amount": 47.11,
+    "payment_type": "UPI",
+    "date": "2024-02-21"
+  },
+  {
+    "transaction_id": "T000446",
+    "user_id": "U0085",
+    "product_id": "P042",
+    "amount": 46.36,
+    "payment_type": "Credit Card",
+    "date": "2025-07-10"
+  },
+  {
+    "transaction_id": "T000447",
+    "user_id": "U0095",
+    "product_id": "P006",
+    "amount": 10.83,
+    "payment_type": "Cash",
+    "date": "2024-01-26"
+  },
+  {
+    "transaction_id": "T000448",
+    "user_id": "U0014",
+    "product_id": "P018",
+    "amount": 52.85,
+    "payment_type": "Net Banking",
+    "date": "2023-03-22"
+  },
+  {
+    "transaction_id": "T000449",
+    "user_id": "U0019",
+    "product_id": "P013",
+    "amount": 47.53,
+    "payment_type": "Cash",
+    "date": "2024-03-20"
+  },
+  {
+    "transaction_id": "T000450",
+    "user_id": "U0123",
+    "product_id": "P014",
+    "amount": 82.91,
+    "payment_type": "UPI",
+    "date": "2024-09-12"
+  },
+  {
+    "transaction_id": "T000451",
+    "user_id": "U0004",
+    "product_id": "P014",
+    "amount": 165.57,
+    "payment_type": "Debit Card",
+    "date": "2023-08-29"
+  },
+  {
+    "transaction_id": "T000452",
+    "user_id": "U0192",
+    "product_id": "P049",
+    "amount": 107.33,
+    "payment_type": "Net Banking",
+    "date": "2024-05-11"
+  },
+  {
+    "transaction_id": "T000453",
+    "user_id": "U0179",
+    "product_id": "P039",
+    "amount": 46.46,
+    "payment_type": "Wallet",
+    "date": "2024-02-23"
+  },
+  {
+    "transaction_id": "T000454",
+    "user_id": "U0102",
+    "product_id": "P016",
+    "amount": 28.11,
+    "payment_type": "Cash",
+    "date": "2024-10-20"
+  },
+  {
+    "transaction_id": "T000455",
+    "user_id": "U0199",
+    "product_id": "P019",
+    "amount": 255.7,
+    "payment_type": "Net Banking",
+    "date": "2025-08-12"
+  },
+  {
+    "transaction_id": "T000456",
+    "user_id": "U0137",
+    "product_id": "P042",
+    "amount": 56.57,
+    "payment_type": "UPI",
+    "date": "2024-09-23"
+  },
+  {
+    "transaction_id": "T000457",
+    "user_id": "U0067",
+    "product_id": "P024",
+    "amount": 55.06,
+    "payment_type": "Cash",
+    "date": "2025-10-15"
+  },
+  {
+    "transaction_id": "T000458",
+    "user_id": "U0120",
+    "product_id": "P007",
+    "amount": 53.81,
+    "payment_type": "Wallet",
+    "date": "2025-08-19"
+  },
+  {
+    "transaction_id": "T000459",
+    "user_id": "U0195",
+    "product_id": "P021",
+    "amount": 61.49,
+    "payment_type": "Debit Card",
+    "date": "2025-01-29"
+  },
+  {
+    "transaction_id": "T000460",
+    "user_id": "U0081",
+    "product_id": "P027",
+    "amount": 50.07,
+    "payment_type": "Credit Card",
+    "date": "2024-03-29"
+  },
+  {
+    "transaction_id": "T000461",
+    "user_id": "U0190",
+    "product_id": "P010",
+    "amount": 38.7,
+    "payment_type": "Credit Card",
+    "date": "2024-06-18"
+  },
+  {
+    "transaction_id": "T000462",
+    "user_id": "U0142",
+    "product_id": "P038",
+    "amount": 39.33,
+    "payment_type": "Cash",
+    "date": "2025-05-05"
+  },
+  {
+    "transaction_id": "T000463",
+    "user_id": "U0076",
+    "product_id": "P010",
+    "amount": 53.54,
+    "payment_type": "Debit Card",
+    "date": "2024-11-06"
+  },
+  {
+    "transaction_id": "T000464",
+    "user_id": "U0059",
+    "product_id": "P025",
+    "amount": 39.41,
+    "payment_type": "Cash",
+    "date": "2024-05-18"
+  },
+  {
+    "transaction_id": "T000465",
+    "user_id": "U0128",
+    "product_id": "P036",
+    "amount": 35.6,
+    "payment_type": "Wallet",
+    "date": "2024-11-22"
+  },
+  {
+    "transaction_id": "T000466",
+    "user_id": "U0066",
+    "product_id": "P049",
+    "amount": 58.2,
+    "payment_type": "Net Banking",
+    "date": "2025-10-01"
+  },
+  {
+    "transaction_id": "T000467",
+    "user_id": "U0118",
+    "product_id": "P011",
+    "amount": 46.85,
+    "payment_type": "Wallet",
+    "date": "2024-12-22"
+  },
+  {
+    "transaction_id": "T000468",
+    "user_id": "U0044",
+    "product_id": "P009",
+    "amount": 134.61,
+    "payment_type": "Wallet",
+    "date": "2025-09-27"
+  },
+  {
+    "transaction_id": "T000469",
+    "user_id": "U0048",
+    "product_id": "P035",
+    "amount": 11.13,
+    "payment_type": "Wallet",
+    "date": "2023-05-01"
+  },
+  {
+    "transaction_id": "T000470",
+    "user_id": "U0135",
+    "product_id": "P003",
+    "amount": 105.1,
+    "payment_type": "Credit Card",
+    "date": "2023-04-10"
+  },
+  {
+    "transaction_id": "T000471",
+    "user_id": "U0196",
+    "product_id": "P001",
+    "amount": 115.31,
+    "payment_type": "Net Banking",
+    "date": "2023-10-09"
+  },
+  {
+    "transaction_id": "T000472",
+    "user_id": "U0162",
+    "product_id": "P015",
+    "amount": 15.74,
+    "payment_type": "Credit Card",
+    "date": "2023-11-06"
+  },
+  {
+    "transaction_id": "T000473",
+    "user_id": "U0003",
+    "product_id": "P014",
+    "amount": 44.45,
+    "payment_type": "Cash",
+    "date": "2025-07-22"
+  },
+  {
+    "transaction_id": "T000474",
+    "user_id": "U0096",
+    "product_id": "P004",
+    "amount": 43.69,
+    "payment_type": "Cash",
+    "date": "2025-09-16"
+  },
+  {
+    "transaction_id": "T000475",
+    "user_id": "U0169",
+    "product_id": "P032",
+    "amount": 23.46,
+    "payment_type": "Credit Card",
+    "date": "2023-01-14"
+  },
+  {
+    "transaction_id": "T000476",
+    "user_id": "U0137",
+    "product_id": "P036",
+    "amount": 34.24,
+    "payment_type": "Net Banking",
+    "date": "2023-01-25"
+  },
+  {
+    "transaction_id": "T000477",
+    "user_id": "U0005",
+    "product_id": "P034",
+    "amount": 28.04,
+    "payment_type": "Wallet",
+    "date": "2024-07-16"
+  },
+  {
+    "transaction_id": "T000478",
+    "user_id": "U0138",
+    "product_id": "P019",
+    "amount": 156.24,
+    "payment_type": "Credit Card",
+    "date": "2025-10-25"
+  },
+  {
+    "transaction_id": "T000479",
+    "user_id": "U0179",
+    "product_id": "P044",
+    "amount": 95.72,
+    "payment_type": "Net Banking",
+    "date": "2024-01-03"
+  },
+  {
+    "transaction_id": "T000480",
+    "user_id": "U0028",
+    "product_id": "P007",
+    "amount": 117.09,
+    "payment_type": "Cash",
+    "date": "2023-11-01"
+  },
+  {
+    "transaction_id": "T000481",
+    "user_id": "U0062",
+    "product_id": "P013",
+    "amount": 84.18,
+    "payment_type": "Cash",
+    "date": "2024-05-31"
+  },
+  {
+    "transaction_id": "T000482",
+    "user_id": "U0091",
+    "product_id": "P018",
+    "amount": 27.73,
+    "payment_type": "Net Banking",
+    "date": "2023-06-11"
+  },
+  {
+    "transaction_id": "T000483",
+    "user_id": "U0096",
+    "product_id": "P026",
+    "amount": 39.86,
+    "payment_type": "Net Banking",
+    "date": "2024-05-13"
+  },
+  {
+    "transaction_id": "T000484",
+    "user_id": "U0179",
+    "product_id": "P015",
+    "amount": 73.23,
+    "payment_type": "UPI",
+    "date": "2023-06-15"
+  },
+  {
+    "transaction_id": "T000485",
+    "user_id": "U0168",
+    "product_id": "P042",
+    "amount": 26.23,
+    "payment_type": "Credit Card",
+    "date": "2023-07-11"
+  },
+  {
+    "transaction_id": "T000486",
+    "user_id": "U0104",
+    "product_id": "P025",
+    "amount": 83.75,
+    "payment_type": "Net Banking",
+    "date": "2025-09-01"
+  },
+  {
+    "transaction_id": "T000487",
+    "user_id": "U0015",
+    "product_id": "P041",
+    "amount": 47.27,
+    "payment_type": "Credit Card",
+    "date": "2023-12-17"
+  },
+  {
+    "transaction_id": "T000488",
+    "user_id": "U0022",
+    "product_id": "P032",
+    "amount": 43.6,
+    "payment_type": "Net Banking",
+    "date": "2024-11-09"
+  },
+  {
+    "transaction_id": "T000489",
+    "user_id": "U0145",
+    "product_id": "P007",
+    "amount": 83.64,
+    "payment_type": "Cash",
+    "date": "2023-03-29"
+  },
+  {
+    "transaction_id": "T000490",
+    "user_id": "U0059",
+    "product_id": "P014",
+    "amount": 71.28,
+    "payment_type": "Wallet",
+    "date": "2025-08-31"
+  },
+  {
+    "transaction_id": "T000491",
+    "user_id": "U0070",
+    "product_id": "P003",
+    "amount": 43.97,
+    "payment_type": "Credit Card",
+    "date": "2024-07-28"
+  },
+  {
+    "transaction_id": "T000492",
+    "user_id": "U0140",
+    "product_id": "P037",
+    "amount": 109.46,
+    "payment_type": "Wallet",
+    "date": "2023-03-09"
+  },
+  {
+    "transaction_id": "T000493",
+    "user_id": "U0046",
+    "product_id": "P021",
+    "amount": 28.54,
+    "payment_type": "Credit Card",
+    "date": "2024-02-29"
+  },
+  {
+    "transaction_id": "T000494",
+    "user_id": "U0151",
+    "product_id": "P010",
+    "amount": 79.01,
+    "payment_type": "Wallet",
+    "date": "2025-03-26"
+  },
+  {
+    "transaction_id": "T000495",
+    "user_id": "U0020",
+    "product_id": "P020",
+    "amount": 77.93,
+    "payment_type": "Debit Card",
+    "date": "2024-05-07"
+  },
+  {
+    "transaction_id": "T000496",
+    "user_id": "U0146",
+    "product_id": "P025",
+    "amount": 45.34,
+    "payment_type": "Wallet",
+    "date": "2024-11-10"
+  },
+  {
+    "transaction_id": "T000497",
+    "user_id": "U0099",
+    "product_id": "P049",
+    "amount": 66.4,
+    "payment_type": "Wallet",
+    "date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T000498",
+    "user_id": "U0177",
+    "product_id": "P047",
+    "amount": 25.77,
+    "payment_type": "Credit Card",
+    "date": "2025-10-22"
+  },
+  {
+    "transaction_id": "T000499",
+    "user_id": "U0191",
+    "product_id": "P023",
+    "amount": 95.05,
+    "payment_type": "Credit Card",
+    "date": "2023-07-20"
+  },
+  {
+    "transaction_id": "T000500",
+    "user_id": "U0112",
+    "product_id": "P015",
+    "amount": 48.86,
+    "payment_type": "Credit Card",
+    "date": "2024-11-28"
+  },
+  {
+    "transaction_id": "T000501",
+    "user_id": "U0155",
+    "product_id": "P050",
+    "amount": 39.9,
+    "payment_type": "Cash",
+    "date": "2025-03-23"
+  },
+  {
+    "transaction_id": "T000502",
+    "user_id": "U0199",
+    "product_id": "P021",
+    "amount": 102.45,
+    "payment_type": "Credit Card",
+    "date": "2024-07-13"
+  },
+  {
+    "transaction_id": "T000503",
+    "user_id": "U0116",
+    "product_id": "P032",
+    "amount": 35.78,
+    "payment_type": "Debit Card",
+    "date": "2024-12-29"
+  },
+  {
+    "transaction_id": "T000504",
+    "user_id": "U0142",
+    "product_id": "P025",
+    "amount": 23.45,
+    "payment_type": "Net Banking",
+    "date": "2024-01-16"
+  },
+  {
+    "transaction_id": "T000505",
+    "user_id": "U0175",
+    "product_id": "P038",
+    "amount": 21.46,
+    "payment_type": "Wallet",
+    "date": "2025-02-17"
+  },
+  {
+    "transaction_id": "T000506",
+    "user_id": "U0022",
+    "product_id": "P050",
+    "amount": 78.54,
+    "payment_type": "Cash",
+    "date": "2024-08-27"
+  },
+  {
+    "transaction_id": "T000507",
+    "user_id": "U0064",
+    "product_id": "P046",
+    "amount": 25.32,
+    "payment_type": "Credit Card",
+    "date": "2023-06-18"
+  },
+  {
+    "transaction_id": "T000508",
+    "user_id": "U0069",
+    "product_id": "P010",
+    "amount": 156.47,
+    "payment_type": "Net Banking",
+    "date": "2023-11-12"
+  },
+  {
+    "transaction_id": "T000509",
+    "user_id": "U0190",
+    "product_id": "P025",
+    "amount": 15.66,
+    "payment_type": "UPI",
+    "date": "2025-01-08"
+  },
+  {
+    "transaction_id": "T000510",
+    "user_id": "U0028",
+    "product_id": "P006",
+    "amount": 151.09,
+    "payment_type": "Credit Card",
+    "date": "2024-09-23"
+  },
+  {
+    "transaction_id": "T000511",
+    "user_id": "U0114",
+    "product_id": "P024",
+    "amount": 61.97,
+    "payment_type": "UPI",
+    "date": "2023-07-29"
+  },
+  {
+    "transaction_id": "T000512",
+    "user_id": "U0034",
+    "product_id": "P006",
+    "amount": 51.52,
+    "payment_type": "Debit Card",
+    "date": "2025-06-01"
+  },
+  {
+    "transaction_id": "T000513",
+    "user_id": "U0115",
+    "product_id": "P036",
+    "amount": 39.37,
+    "payment_type": "Cash",
+    "date": "2025-04-15"
+  },
+  {
+    "transaction_id": "T000514",
+    "user_id": "U0027",
+    "product_id": "P002",
+    "amount": 69.37,
+    "payment_type": "Credit Card",
+    "date": "2024-12-25"
+  },
+  {
+    "transaction_id": "T000515",
+    "user_id": "U0142",
+    "product_id": "P006",
+    "amount": 53.38,
+    "payment_type": "Cash",
+    "date": "2024-10-26"
+  },
+  {
+    "transaction_id": "T000516",
+    "user_id": "U0099",
+    "product_id": "P001",
+    "amount": 105.85,
+    "payment_type": "UPI",
+    "date": "2025-04-27"
+  },
+  {
+    "transaction_id": "T000517",
+    "user_id": "U0100",
+    "product_id": "P050",
+    "amount": 58.47,
+    "payment_type": "Credit Card",
+    "date": "2024-05-12"
+  },
+  {
+    "transaction_id": "T000518",
+    "user_id": "U0147",
+    "product_id": "P034",
+    "amount": 59.75,
+    "payment_type": "Debit Card",
+    "date": "2025-02-18"
+  },
+  {
+    "transaction_id": "T000519",
+    "user_id": "U0044",
+    "product_id": "P009",
+    "amount": 43.9,
+    "payment_type": "UPI",
+    "date": "2024-09-08"
+  },
+  {
+    "transaction_id": "T000520",
+    "user_id": "U0069",
+    "product_id": "P032",
+    "amount": 52.76,
+    "payment_type": "Debit Card",
+    "date": "2023-05-10"
+  },
+  {
+    "transaction_id": "T000521",
+    "user_id": "U0043",
+    "product_id": "P028",
+    "amount": 65.67,
+    "payment_type": "UPI",
+    "date": "2025-05-12"
+  },
+  {
+    "transaction_id": "T000522",
+    "user_id": "U0077",
+    "product_id": "P031",
+    "amount": 19.57,
+    "payment_type": "Credit Card",
+    "date": "2025-01-09"
+  },
+  {
+    "transaction_id": "T000523",
+    "user_id": "U0065",
+    "product_id": "P016",
+    "amount": 24.31,
+    "payment_type": "Wallet",
+    "date": "2025-10-12"
+  },
+  {
+    "transaction_id": "T000524",
+    "user_id": "U0153",
+    "product_id": "P040",
+    "amount": 85.28,
+    "payment_type": "Debit Card",
+    "date": "2025-07-26"
+  },
+  {
+    "transaction_id": "T000525",
+    "user_id": "U0028",
+    "product_id": "P009",
+    "amount": 60.49,
+    "payment_type": "UPI",
+    "date": "2023-01-14"
+  },
+  {
+    "transaction_id": "T000526",
+    "user_id": "U0102",
+    "product_id": "P022",
+    "amount": 48.89,
+    "payment_type": "Cash",
+    "date": "2025-02-17"
+  },
+  {
+    "transaction_id": "T000527",
+    "user_id": "U0085",
+    "product_id": "P029",
+    "amount": 55.21,
+    "payment_type": "UPI",
+    "date": "2025-05-31"
+  },
+  {
+    "transaction_id": "T000528",
+    "user_id": "U0167",
+    "product_id": "P039",
+    "amount": 67.26,
+    "payment_type": "Debit Card",
+    "date": "2024-09-07"
+  },
+  {
+    "transaction_id": "T000529",
+    "user_id": "U0083",
+    "product_id": "P039",
+    "amount": 39.49,
+    "payment_type": "Wallet",
+    "date": "2024-02-16"
+  },
+  {
+    "transaction_id": "T000530",
+    "user_id": "U0123",
+    "product_id": "P021",
+    "amount": 34.23,
+    "payment_type": "Debit Card",
+    "date": "2025-03-26"
+  },
+  {
+    "transaction_id": "T000531",
+    "user_id": "U0082",
+    "product_id": "P019",
+    "amount": 61.41,
+    "payment_type": "Wallet",
+    "date": "2025-10-02"
+  },
+  {
+    "transaction_id": "T000532",
+    "user_id": "U0148",
+    "product_id": "P016",
+    "amount": 30.36,
+    "payment_type": "UPI",
+    "date": "2025-02-09"
+  },
+  {
+    "transaction_id": "T000533",
+    "user_id": "U0072",
+    "product_id": "P026",
+    "amount": 69.75,
+    "payment_type": "UPI",
+    "date": "2023-08-22"
+  },
+  {
+    "transaction_id": "T000534",
+    "user_id": "U0145",
+    "product_id": "P013",
+    "amount": 19.66,
+    "payment_type": "Cash",
+    "date": "2024-01-04"
+  },
+  {
+    "transaction_id": "T000535",
+    "user_id": "U0175",
+    "product_id": "P050",
+    "amount": 101.24,
+    "payment_type": "Cash",
+    "date": "2023-02-25"
+  },
+  {
+    "transaction_id": "T000536",
+    "user_id": "U0187",
+    "product_id": "P030",
+    "amount": 72.5,
+    "payment_type": "Wallet",
+    "date": "2024-03-05"
+  },
+  {
+    "transaction_id": "T000537",
+    "user_id": "U0113",
+    "product_id": "P019",
+    "amount": 63.66,
+    "payment_type": "Wallet",
+    "date": "2023-05-22"
+  },
+  {
+    "transaction_id": "T000538",
+    "user_id": "U0105",
+    "product_id": "P044",
+    "amount": 98.46,
+    "payment_type": "Net Banking",
+    "date": "2023-10-13"
+  },
+  {
+    "transaction_id": "T000539",
+    "user_id": "U0163",
+    "product_id": "P020",
+    "amount": 148.31,
+    "payment_type": "Debit Card",
+    "date": "2024-06-01"
+  },
+  {
+    "transaction_id": "T000540",
+    "user_id": "U0169",
+    "product_id": "P010",
+    "amount": 100.35,
+    "payment_type": "Wallet",
+    "date": "2025-05-16"
+  },
+  {
+    "transaction_id": "T000541",
+    "user_id": "U0097",
+    "product_id": "P005",
+    "amount": 18.09,
+    "payment_type": "Net Banking",
+    "date": "2025-09-08"
+  },
+  {
+    "transaction_id": "T000542",
+    "user_id": "U0150",
+    "product_id": "P026",
+    "amount": 25.34,
+    "payment_type": "Cash",
+    "date": "2025-05-06"
+  },
+  {
+    "transaction_id": "T000543",
+    "user_id": "U0140",
+    "product_id": "P003",
+    "amount": 37.53,
+    "payment_type": "UPI",
+    "date": "2023-06-24"
+  },
+  {
+    "transaction_id": "T000544",
+    "user_id": "U0028",
+    "product_id": "P050",
+    "amount": 55.46,
+    "payment_type": "Debit Card",
+    "date": "2024-12-28"
+  },
+  {
+    "transaction_id": "T000545",
+    "user_id": "U0043",
+    "product_id": "P042",
+    "amount": 74.48,
+    "payment_type": "Cash",
+    "date": "2023-04-01"
+  },
+  {
+    "transaction_id": "T000546",
+    "user_id": "U0145",
+    "product_id": "P042",
+    "amount": 35.32,
+    "payment_type": "Wallet",
+    "date": "2025-03-29"
+  },
+  {
+    "transaction_id": "T000547",
+    "user_id": "U0193",
+    "product_id": "P022",
+    "amount": 61.07,
+    "payment_type": "Net Banking",
+    "date": "2023-08-05"
+  },
+  {
+    "transaction_id": "T000548",
+    "user_id": "U0003",
+    "product_id": "P007",
+    "amount": 34.7,
+    "payment_type": "UPI",
+    "date": "2024-03-30"
+  },
+  {
+    "transaction_id": "T000549",
+    "user_id": "U0131",
+    "product_id": "P048",
+    "amount": 37.83,
+    "payment_type": "Cash",
+    "date": "2024-03-28"
+  },
+  {
+    "transaction_id": "T000550",
+    "user_id": "U0115",
+    "product_id": "P024",
+    "amount": 23.48,
+    "payment_type": "Net Banking",
+    "date": "2025-08-06"
+  },
+  {
+    "transaction_id": "T000551",
+    "user_id": "U0198",
+    "product_id": "P044",
+    "amount": 31.38,
+    "payment_type": "Cash",
+    "date": "2025-10-21"
+  },
+  {
+    "transaction_id": "T000552",
+    "user_id": "U0039",
+    "product_id": "P023",
+    "amount": 24.26,
+    "payment_type": "Credit Card",
+    "date": "2025-09-15"
+  },
+  {
+    "transaction_id": "T000553",
+    "user_id": "U0027",
+    "product_id": "P019",
+    "amount": 30.4,
+    "payment_type": "Net Banking",
+    "date": "2023-06-25"
+  },
+  {
+    "transaction_id": "T000554",
+    "user_id": "U0030",
+    "product_id": "P047",
+    "amount": 102.74,
+    "payment_type": "Debit Card",
+    "date": "2024-12-14"
+  },
+  {
+    "transaction_id": "T000555",
+    "user_id": "U0080",
+    "product_id": "P022",
+    "amount": 30.89,
+    "payment_type": "Net Banking",
+    "date": "2024-02-28"
+  },
+  {
+    "transaction_id": "T000556",
+    "user_id": "U0134",
+    "product_id": "P031",
+    "amount": 264.92,
+    "payment_type": "UPI",
+    "date": "2025-09-02"
+  },
+  {
+    "transaction_id": "T000557",
+    "user_id": "U0025",
+    "product_id": "P029",
+    "amount": 73.4,
+    "payment_type": "Wallet",
+    "date": "2025-07-15"
+  },
+  {
+    "transaction_id": "T000558",
+    "user_id": "U0082",
+    "product_id": "P005",
+    "amount": 61.0,
+    "payment_type": "UPI",
+    "date": "2023-04-02"
+  },
+  {
+    "transaction_id": "T000559",
+    "user_id": "U0182",
+    "product_id": "P008",
+    "amount": 32.62,
+    "payment_type": "Credit Card",
+    "date": "2024-12-03"
+  },
+  {
+    "transaction_id": "T000560",
+    "user_id": "U0166",
+    "product_id": "P007",
+    "amount": 83.11,
+    "payment_type": "Wallet",
+    "date": "2023-12-03"
+  },
+  {
+    "transaction_id": "T000561",
+    "user_id": "U0190",
+    "product_id": "P016",
+    "amount": 38.65,
+    "payment_type": "Cash",
+    "date": "2023-12-24"
+  },
+  {
+    "transaction_id": "T000562",
+    "user_id": "U0142",
+    "product_id": "P011",
+    "amount": 58.74,
+    "payment_type": "UPI",
+    "date": "2025-05-23"
+  },
+  {
+    "transaction_id": "T000563",
+    "user_id": "U0119",
+    "product_id": "P015",
+    "amount": 253.67,
+    "payment_type": "Net Banking",
+    "date": "2024-01-13"
+  },
+  {
+    "transaction_id": "T000564",
+    "user_id": "U0048",
+    "product_id": "P041",
+    "amount": 51.54,
+    "payment_type": "Wallet",
+    "date": "2025-06-04"
+  },
+  {
+    "transaction_id": "T000565",
+    "user_id": "U0102",
+    "product_id": "P002",
+    "amount": 108.81,
+    "payment_type": "Wallet",
+    "date": "2024-02-09"
+  },
+  {
+    "transaction_id": "T000566",
+    "user_id": "U0116",
+    "product_id": "P038",
+    "amount": 35.81,
+    "payment_type": "Net Banking",
+    "date": "2025-03-07"
+  },
+  {
+    "transaction_id": "T000567",
+    "user_id": "U0002",
+    "product_id": "P046",
+    "amount": 53.46,
+    "payment_type": "Debit Card",
+    "date": "2024-02-26"
+  },
+  {
+    "transaction_id": "T000568",
+    "user_id": "U0072",
+    "product_id": "P049",
+    "amount": 157.98,
+    "payment_type": "Wallet",
+    "date": "2023-05-09"
+  },
+  {
+    "transaction_id": "T000569",
+    "user_id": "U0148",
+    "product_id": "P007",
+    "amount": 37.48,
+    "payment_type": "Cash",
+    "date": "2024-01-18"
+  },
+  {
+    "transaction_id": "T000570",
+    "user_id": "U0094",
+    "product_id": "P021",
+    "amount": 161.98,
+    "payment_type": "Debit Card",
+    "date": "2025-07-26"
+  },
+  {
+    "transaction_id": "T000571",
+    "user_id": "U0030",
+    "product_id": "P017",
+    "amount": 83.48,
+    "payment_type": "Wallet",
+    "date": "2025-09-29"
+  },
+  {
+    "transaction_id": "T000572",
+    "user_id": "U0136",
+    "product_id": "P041",
+    "amount": 38.96,
+    "payment_type": "UPI",
+    "date": "2025-03-06"
+  },
+  {
+    "transaction_id": "T000573",
+    "user_id": "U0157",
+    "product_id": "P026",
+    "amount": 79.79,
+    "payment_type": "Cash",
+    "date": "2023-08-22"
+  },
+  {
+    "transaction_id": "T000574",
+    "user_id": "U0090",
+    "product_id": "P023",
+    "amount": 97.86,
+    "payment_type": "Net Banking",
+    "date": "2023-12-20"
+  },
+  {
+    "transaction_id": "T000575",
+    "user_id": "U0173",
+    "product_id": "P046",
+    "amount": 79.29,
+    "payment_type": "UPI",
+    "date": "2023-06-23"
+  },
+  {
+    "transaction_id": "T000576",
+    "user_id": "U0173",
+    "product_id": "P009",
+    "amount": 21.28,
+    "payment_type": "UPI",
+    "date": "2023-08-30"
+  },
+  {
+    "transaction_id": "T000577",
+    "user_id": "U0062",
+    "product_id": "P020",
+    "amount": 35.29,
+    "payment_type": "Credit Card",
+    "date": "2024-01-10"
+  },
+  {
+    "transaction_id": "T000578",
+    "user_id": "U0096",
+    "product_id": "P045",
+    "amount": 47.06,
+    "payment_type": "Debit Card",
+    "date": "2025-03-06"
+  },
+  {
+    "transaction_id": "T000579",
+    "user_id": "U0108",
+    "product_id": "P039",
+    "amount": 52.21,
+    "payment_type": "Debit Card",
+    "date": "2025-02-24"
+  },
+  {
+    "transaction_id": "T000580",
+    "user_id": "U0109",
+    "product_id": "P012",
+    "amount": 79.23,
+    "payment_type": "Net Banking",
+    "date": "2023-12-21"
+  },
+  {
+    "transaction_id": "T000581",
+    "user_id": "U0143",
+    "product_id": "P011",
+    "amount": 60.74,
+    "payment_type": "Net Banking",
+    "date": "2024-08-14"
+  },
+  {
+    "transaction_id": "T000582",
+    "user_id": "U0036",
+    "product_id": "P012",
+    "amount": 24.5,
+    "payment_type": "UPI",
+    "date": "2025-07-12"
+  },
+  {
+    "transaction_id": "T000583",
+    "user_id": "U0159",
+    "product_id": "P004",
+    "amount": 68.59,
+    "payment_type": "UPI",
+    "date": "2023-01-20"
+  },
+  {
+    "transaction_id": "T000584",
+    "user_id": "U0125",
+    "product_id": "P009",
+    "amount": 78.76,
+    "payment_type": "Debit Card",
+    "date": "2025-02-25"
+  },
+  {
+    "transaction_id": "T000585",
+    "user_id": "U0144",
+    "product_id": "P033",
+    "amount": 76.39,
+    "payment_type": "Wallet",
+    "date": "2025-10-10"
+  },
+  {
+    "transaction_id": "T000586",
+    "user_id": "U0105",
+    "product_id": "P044",
+    "amount": 104.42,
+    "payment_type": "Net Banking",
+    "date": "2025-05-01"
+  },
+  {
+    "transaction_id": "T000587",
+    "user_id": "U0182",
+    "product_id": "P029",
+    "amount": 90.05,
+    "payment_type": "Net Banking",
+    "date": "2023-12-09"
+  },
+  {
+    "transaction_id": "T000588",
+    "user_id": "U0022",
+    "product_id": "P037",
+    "amount": 71.92,
+    "payment_type": "Credit Card",
+    "date": "2024-03-27"
+  },
+  {
+    "transaction_id": "T000589",
+    "user_id": "U0075",
+    "product_id": "P003",
+    "amount": 52.35,
+    "payment_type": "UPI",
+    "date": "2024-04-05"
+  },
+  {
+    "transaction_id": "T000590",
+    "user_id": "U0138",
+    "product_id": "P019",
+    "amount": 20.15,
+    "payment_type": "Debit Card",
+    "date": "2025-07-25"
+  },
+  {
+    "transaction_id": "T000591",
+    "user_id": "U0145",
+    "product_id": "P048",
+    "amount": 70.65,
+    "payment_type": "Net Banking",
+    "date": "2023-08-20"
+  },
+  {
+    "transaction_id": "T000592",
+    "user_id": "U0147",
+    "product_id": "P008",
+    "amount": 61.84,
+    "payment_type": "UPI",
+    "date": "2025-01-21"
+  },
+  {
+    "transaction_id": "T000593",
+    "user_id": "U0139",
+    "product_id": "P049",
+    "amount": 64.26,
+    "payment_type": "Credit Card",
+    "date": "2025-06-22"
+  },
+  {
+    "transaction_id": "T000594",
+    "user_id": "U0140",
+    "product_id": "P014",
+    "amount": 25.38,
+    "payment_type": "Net Banking",
+    "date": "2023-07-29"
+  },
+  {
+    "transaction_id": "T000595",
+    "user_id": "U0189",
+    "product_id": "P042",
+    "amount": 28.54,
+    "payment_type": "Debit Card",
+    "date": "2024-09-01"
+  },
+  {
+    "transaction_id": "T000596",
+    "user_id": "U0009",
+    "product_id": "P029",
+    "amount": 102.71,
+    "payment_type": "UPI",
+    "date": "2024-12-14"
+  },
+  {
+    "transaction_id": "T000597",
+    "user_id": "U0023",
+    "product_id": "P029",
+    "amount": 53.32,
+    "payment_type": "Credit Card",
+    "date": "2024-04-30"
+  },
+  {
+    "transaction_id": "T000598",
+    "user_id": "U0054",
+    "product_id": "P048",
+    "amount": 82.18,
+    "payment_type": "Cash",
+    "date": "2024-12-19"
+  },
+  {
+    "transaction_id": "T000599",
+    "user_id": "U0182",
+    "product_id": "P040",
+    "amount": 55.53,
+    "payment_type": "Wallet",
+    "date": "2025-05-26"
+  },
+  {
+    "transaction_id": "T000600",
+    "user_id": "U0043",
+    "product_id": "P040",
+    "amount": 55.58,
+    "payment_type": "Debit Card",
+    "date": "2024-02-28"
+  },
+  {
+    "transaction_id": "T000601",
+    "user_id": "U0053",
+    "product_id": "P004",
+    "amount": 95.87,
+    "payment_type": "Cash",
+    "date": "2024-12-19"
+  },
+  {
+    "transaction_id": "T000602",
+    "user_id": "U0137",
+    "product_id": "P018",
+    "amount": 40.06,
+    "payment_type": "Cash",
+    "date": "2023-12-11"
+  },
+  {
+    "transaction_id": "T000603",
+    "user_id": "U0083",
+    "product_id": "P046",
+    "amount": 57.84,
+    "payment_type": "UPI",
+    "date": "2024-08-15"
+  },
+  {
+    "transaction_id": "T000604",
+    "user_id": "U0147",
+    "product_id": "P018",
+    "amount": 41.37,
+    "payment_type": "Cash",
+    "date": "2023-07-15"
+  },
+  {
+    "transaction_id": "T000605",
+    "user_id": "U0035",
+    "product_id": "P049",
+    "amount": 42.07,
+    "payment_type": "Net Banking",
+    "date": "2023-05-02"
+  },
+  {
+    "transaction_id": "T000606",
+    "user_id": "U0071",
+    "product_id": "P042",
+    "amount": 45.35,
+    "payment_type": "Debit Card",
+    "date": "2023-09-29"
+  },
+  {
+    "transaction_id": "T000607",
+    "user_id": "U0064",
+    "product_id": "P010",
+    "amount": 62.38,
+    "payment_type": "Wallet",
+    "date": "2024-10-21"
+  },
+  {
+    "transaction_id": "T000608",
+    "user_id": "U0064",
+    "product_id": "P049",
+    "amount": 40.97,
+    "payment_type": "Wallet",
+    "date": "2025-03-15"
+  },
+  {
+    "transaction_id": "T000609",
+    "user_id": "U0126",
+    "product_id": "P010",
+    "amount": 115.98,
+    "payment_type": "Cash",
+    "date": "2024-07-04"
+  },
+  {
+    "transaction_id": "T000610",
+    "user_id": "U0161",
+    "product_id": "P027",
+    "amount": 31.92,
+    "payment_type": "Net Banking",
+    "date": "2025-07-14"
+  },
+  {
+    "transaction_id": "T000611",
+    "user_id": "U0020",
+    "product_id": "P041",
+    "amount": 48.81,
+    "payment_type": "Credit Card",
+    "date": "2025-04-05"
+  },
+  {
+    "transaction_id": "T000612",
+    "user_id": "U0132",
+    "product_id": "P048",
+    "amount": 41.94,
+    "payment_type": "UPI",
+    "date": "2025-01-25"
+  },
+  {
+    "transaction_id": "T000613",
+    "user_id": "U0117",
+    "product_id": "P032",
+    "amount": 130.08,
+    "payment_type": "UPI",
+    "date": "2023-01-06"
+  },
+  {
+    "transaction_id": "T000614",
+    "user_id": "U0199",
+    "product_id": "P047",
+    "amount": 61.43,
+    "payment_type": "Credit Card",
+    "date": "2025-07-27"
+  },
+  {
+    "transaction_id": "T000615",
+    "user_id": "U0163",
+    "product_id": "P043",
+    "amount": 101.4,
+    "payment_type": "Wallet",
+    "date": "2025-01-03"
+  },
+  {
+    "transaction_id": "T000616",
+    "user_id": "U0017",
+    "product_id": "P035",
+    "amount": 22.39,
+    "payment_type": "Net Banking",
+    "date": "2024-03-22"
+  },
+  {
+    "transaction_id": "T000617",
+    "user_id": "U0110",
+    "product_id": "P014",
+    "amount": 64.09,
+    "payment_type": "Net Banking",
+    "date": "2024-07-03"
+  },
+  {
+    "transaction_id": "T000618",
+    "user_id": "U0083",
+    "product_id": "P019",
+    "amount": 93.11,
+    "payment_type": "UPI",
+    "date": "2023-09-25"
+  },
+  {
+    "transaction_id": "T000619",
+    "user_id": "U0145",
+    "product_id": "P032",
+    "amount": 57.36,
+    "payment_type": "UPI",
+    "date": "2023-04-10"
+  },
+  {
+    "transaction_id": "T000620",
+    "user_id": "U0012",
+    "product_id": "P007",
+    "amount": 103.47,
+    "payment_type": "Wallet",
+    "date": "2025-07-30"
+  },
+  {
+    "transaction_id": "T000621",
+    "user_id": "U0005",
+    "product_id": "P008",
+    "amount": 40.03,
+    "payment_type": "Debit Card",
+    "date": "2025-06-22"
+  },
+  {
+    "transaction_id": "T000622",
+    "user_id": "U0117",
+    "product_id": "P001",
+    "amount": 127.18,
+    "payment_type": "Net Banking",
+    "date": "2024-02-19"
+  },
+  {
+    "transaction_id": "T000623",
+    "user_id": "U0177",
+    "product_id": "P009",
+    "amount": 216.88,
+    "payment_type": "Wallet",
+    "date": "2024-09-10"
+  },
+  {
+    "transaction_id": "T000624",
+    "user_id": "U0041",
+    "product_id": "P018",
+    "amount": 43.92,
+    "payment_type": "Credit Card",
+    "date": "2025-01-08"
+  },
+  {
+    "transaction_id": "T000625",
+    "user_id": "U0065",
+    "product_id": "P006",
+    "amount": 41.79,
+    "payment_type": "UPI",
+    "date": "2023-12-05"
+  },
+  {
+    "transaction_id": "T000626",
+    "user_id": "U0014",
+    "product_id": "P026",
+    "amount": 130.59,
+    "payment_type": "Wallet",
+    "date": "2024-09-17"
+  },
+  {
+    "transaction_id": "T000627",
+    "user_id": "U0186",
+    "product_id": "P045",
+    "amount": 140.86,
+    "payment_type": "Debit Card",
+    "date": "2025-05-29"
+  },
+  {
+    "transaction_id": "T000628",
+    "user_id": "U0168",
+    "product_id": "P006",
+    "amount": 39.9,
+    "payment_type": "Wallet",
+    "date": "2023-07-14"
+  },
+  {
+    "transaction_id": "T000629",
+    "user_id": "U0001",
+    "product_id": "P014",
+    "amount": 42.43,
+    "payment_type": "Net Banking",
+    "date": "2023-06-09"
+  },
+  {
+    "transaction_id": "T000630",
+    "user_id": "U0034",
+    "product_id": "P038",
+    "amount": 46.11,
+    "payment_type": "Debit Card",
+    "date": "2025-06-30"
+  },
+  {
+    "transaction_id": "T000631",
+    "user_id": "U0003",
+    "product_id": "P001",
+    "amount": 24.37,
+    "payment_type": "Wallet",
+    "date": "2024-12-04"
+  },
+  {
+    "transaction_id": "T000632",
+    "user_id": "U0031",
+    "product_id": "P028",
+    "amount": 31.46,
+    "payment_type": "Wallet",
+    "date": "2023-09-28"
+  },
+  {
+    "transaction_id": "T000633",
+    "user_id": "U0123",
+    "product_id": "P005",
+    "amount": 29.89,
+    "payment_type": "Debit Card",
+    "date": "2025-02-23"
+  },
+  {
+    "transaction_id": "T000634",
+    "user_id": "U0023",
+    "product_id": "P047",
+    "amount": 34.44,
+    "payment_type": "Credit Card",
+    "date": "2023-07-31"
+  },
+  {
+    "transaction_id": "T000635",
+    "user_id": "U0081",
+    "product_id": "P024",
+    "amount": 53.47,
+    "payment_type": "UPI",
+    "date": "2023-10-08"
+  },
+  {
+    "transaction_id": "T000636",
+    "user_id": "U0098",
+    "product_id": "P050",
+    "amount": 62.84,
+    "payment_type": "Debit Card",
+    "date": "2023-10-20"
+  },
+  {
+    "transaction_id": "T000637",
+    "user_id": "U0018",
+    "product_id": "P034",
+    "amount": 138.42,
+    "payment_type": "Cash",
+    "date": "2023-01-18"
+  },
+  {
+    "transaction_id": "T000638",
+    "user_id": "U0157",
+    "product_id": "P042",
+    "amount": 29.99,
+    "payment_type": "Debit Card",
+    "date": "2025-06-20"
+  },
+  {
+    "transaction_id": "T000639",
+    "user_id": "U0090",
+    "product_id": "P047",
+    "amount": 98.55,
+    "payment_type": "Debit Card",
+    "date": "2023-11-07"
+  },
+  {
+    "transaction_id": "T000640",
+    "user_id": "U0106",
+    "product_id": "P040",
+    "amount": 48.02,
+    "payment_type": "Wallet",
+    "date": "2025-06-25"
+  },
+  {
+    "transaction_id": "T000641",
+    "user_id": "U0056",
+    "product_id": "P006",
+    "amount": 53.0,
+    "payment_type": "Credit Card",
+    "date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T000642",
+    "user_id": "U0193",
+    "product_id": "P008",
+    "amount": 81.85,
+    "payment_type": "Cash",
+    "date": "2025-02-25"
+  },
+  {
+    "transaction_id": "T000643",
+    "user_id": "U0090",
+    "product_id": "P028",
+    "amount": 27.84,
+    "payment_type": "UPI",
+    "date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T000644",
+    "user_id": "U0064",
+    "product_id": "P018",
+    "amount": 68.68,
+    "payment_type": "Wallet",
+    "date": "2023-06-22"
+  },
+  {
+    "transaction_id": "T000645",
+    "user_id": "U0064",
+    "product_id": "P036",
+    "amount": 60.33,
+    "payment_type": "Cash",
+    "date": "2024-08-06"
+  },
+  {
+    "transaction_id": "T000646",
+    "user_id": "U0200",
+    "product_id": "P045",
+    "amount": 73.37,
+    "payment_type": "Credit Card",
+    "date": "2024-09-09"
+  },
+  {
+    "transaction_id": "T000647",
+    "user_id": "U0053",
+    "product_id": "P034",
+    "amount": 64.94,
+    "payment_type": "Cash",
+    "date": "2024-01-22"
+  },
+  {
+    "transaction_id": "T000648",
+    "user_id": "U0192",
+    "product_id": "P026",
+    "amount": 238.22,
+    "payment_type": "UPI",
+    "date": "2023-04-22"
+  },
+  {
+    "transaction_id": "T000649",
+    "user_id": "U0062",
+    "product_id": "P032",
+    "amount": 37.24,
+    "payment_type": "Net Banking",
+    "date": "2023-08-19"
+  },
+  {
+    "transaction_id": "T000650",
+    "user_id": "U0062",
+    "product_id": "P032",
+    "amount": 39.7,
+    "payment_type": "Wallet",
+    "date": "2023-05-26"
+  },
+  {
+    "transaction_id": "T000651",
+    "user_id": "U0136",
+    "product_id": "P001",
+    "amount": 37.57,
+    "payment_type": "UPI",
+    "date": "2024-10-10"
+  },
+  {
+    "transaction_id": "T000652",
+    "user_id": "U0034",
+    "product_id": "P025",
+    "amount": 39.12,
+    "payment_type": "Cash",
+    "date": "2025-05-11"
+  },
+  {
+    "transaction_id": "T000653",
+    "user_id": "U0094",
+    "product_id": "P035",
+    "amount": 37.25,
+    "payment_type": "Wallet",
+    "date": "2023-12-20"
+  },
+  {
+    "transaction_id": "T000654",
+    "user_id": "U0196",
+    "product_id": "P031",
+    "amount": 111.43,
+    "payment_type": "Credit Card",
+    "date": "2023-02-04"
+  },
+  {
+    "transaction_id": "T000655",
+    "user_id": "U0151",
+    "product_id": "P005",
+    "amount": 128.03,
+    "payment_type": "Credit Card",
+    "date": "2024-06-20"
+  },
+  {
+    "transaction_id": "T000656",
+    "user_id": "U0056",
+    "product_id": "P003",
+    "amount": 38.77,
+    "payment_type": "Credit Card",
+    "date": "2025-03-26"
+  },
+  {
+    "transaction_id": "T000657",
+    "user_id": "U0130",
+    "product_id": "P019",
+    "amount": 33.13,
+    "payment_type": "Wallet",
+    "date": "2025-10-23"
+  },
+  {
+    "transaction_id": "T000658",
+    "user_id": "U0197",
+    "product_id": "P027",
+    "amount": 72.45,
+    "payment_type": "Net Banking",
+    "date": "2025-04-03"
+  },
+  {
+    "transaction_id": "T000659",
+    "user_id": "U0022",
+    "product_id": "P041",
+    "amount": 39.2,
+    "payment_type": "Cash",
+    "date": "2023-11-09"
+  },
+  {
+    "transaction_id": "T000660",
+    "user_id": "U0072",
+    "product_id": "P006",
+    "amount": 79.82,
+    "payment_type": "UPI",
+    "date": "2023-06-11"
+  },
+  {
+    "transaction_id": "T000661",
+    "user_id": "U0131",
+    "product_id": "P014",
+    "amount": 61.67,
+    "payment_type": "Debit Card",
+    "date": "2024-10-31"
+  },
+  {
+    "transaction_id": "T000662",
+    "user_id": "U0101",
+    "product_id": "P038",
+    "amount": 21.99,
+    "payment_type": "Wallet",
+    "date": "2023-05-16"
+  },
+  {
+    "transaction_id": "T000663",
+    "user_id": "U0080",
+    "product_id": "P045",
+    "amount": 138.17,
+    "payment_type": "Net Banking",
+    "date": "2024-05-03"
+  },
+  {
+    "transaction_id": "T000664",
+    "user_id": "U0015",
+    "product_id": "P016",
+    "amount": 160.38,
+    "payment_type": "Credit Card",
+    "date": "2025-06-08"
+  },
+  {
+    "transaction_id": "T000665",
+    "user_id": "U0030",
+    "product_id": "P030",
+    "amount": 37.8,
+    "payment_type": "Cash",
+    "date": "2023-04-23"
+  },
+  {
+    "transaction_id": "T000666",
+    "user_id": "U0080",
+    "product_id": "P043",
+    "amount": 43.27,
+    "payment_type": "Wallet",
+    "date": "2023-12-26"
+  },
+  {
+    "transaction_id": "T000667",
+    "user_id": "U0031",
+    "product_id": "P001",
+    "amount": 64.81,
+    "payment_type": "Wallet",
+    "date": "2023-10-09"
+  },
+  {
+    "transaction_id": "T000668",
+    "user_id": "U0180",
+    "product_id": "P001",
+    "amount": 66.73,
+    "payment_type": "Debit Card",
+    "date": "2025-10-13"
+  },
+  {
+    "transaction_id": "T000669",
+    "user_id": "U0089",
+    "product_id": "P034",
+    "amount": 81.05,
+    "payment_type": "Cash",
+    "date": "2024-06-14"
+  },
+  {
+    "transaction_id": "T000670",
+    "user_id": "U0043",
+    "product_id": "P024",
+    "amount": 182.39,
+    "payment_type": "Debit Card",
+    "date": "2024-07-04"
+  },
+  {
+    "transaction_id": "T000671",
+    "user_id": "U0188",
+    "product_id": "P008",
+    "amount": 49.1,
+    "payment_type": "Credit Card",
+    "date": "2024-11-17"
+  },
+  {
+    "transaction_id": "T000672",
+    "user_id": "U0110",
+    "product_id": "P018",
+    "amount": 33.82,
+    "payment_type": "Cash",
+    "date": "2023-05-11"
+  },
+  {
+    "transaction_id": "T000673",
+    "user_id": "U0068",
+    "product_id": "P046",
+    "amount": 23.86,
+    "payment_type": "Cash",
+    "date": "2023-06-07"
+  },
+  {
+    "transaction_id": "T000674",
+    "user_id": "U0128",
+    "product_id": "P030",
+    "amount": 35.21,
+    "payment_type": "Cash",
+    "date": "2025-01-07"
+  },
+  {
+    "transaction_id": "T000675",
+    "user_id": "U0015",
+    "product_id": "P032",
+    "amount": 53.52,
+    "payment_type": "Cash",
+    "date": "2023-12-08"
+  },
+  {
+    "transaction_id": "T000676",
+    "user_id": "U0095",
+    "product_id": "P011",
+    "amount": 160.25,
+    "payment_type": "UPI",
+    "date": "2023-07-30"
+  },
+  {
+    "transaction_id": "T000677",
+    "user_id": "U0147",
+    "product_id": "P044",
+    "amount": 40.02,
+    "payment_type": "Wallet",
+    "date": "2023-08-25"
+  },
+  {
+    "transaction_id": "T000678",
+    "user_id": "U0059",
+    "product_id": "P048",
+    "amount": 62.44,
+    "payment_type": "Cash",
+    "date": "2023-01-06"
+  },
+  {
+    "transaction_id": "T000679",
+    "user_id": "U0012",
+    "product_id": "P001",
+    "amount": 54.06,
+    "payment_type": "Debit Card",
+    "date": "2023-04-05"
+  },
+  {
+    "transaction_id": "T000680",
+    "user_id": "U0121",
+    "product_id": "P024",
+    "amount": 111.39,
+    "payment_type": "Net Banking",
+    "date": "2023-11-04"
+  },
+  {
+    "transaction_id": "T000681",
+    "user_id": "U0046",
+    "product_id": "P003",
+    "amount": 248.68,
+    "payment_type": "Cash",
+    "date": "2025-05-08"
+  },
+  {
+    "transaction_id": "T000682",
+    "user_id": "U0058",
+    "product_id": "P021",
+    "amount": 39.71,
+    "payment_type": "Debit Card",
+    "date": "2025-05-02"
+  },
+  {
+    "transaction_id": "T000683",
+    "user_id": "U0185",
+    "product_id": "P021",
+    "amount": 40.7,
+    "payment_type": "UPI",
+    "date": "2023-06-09"
+  },
+  {
+    "transaction_id": "T000684",
+    "user_id": "U0147",
+    "product_id": "P024",
+    "amount": 102.16,
+    "payment_type": "Credit Card",
+    "date": "2025-10-25"
+  },
+  {
+    "transaction_id": "T000685",
+    "user_id": "U0173",
+    "product_id": "P004",
+    "amount": 82.2,
+    "payment_type": "Debit Card",
+    "date": "2024-04-02"
+  },
+  {
+    "transaction_id": "T000686",
+    "user_id": "U0133",
+    "product_id": "P003",
+    "amount": 165.34,
+    "payment_type": "Net Banking",
+    "date": "2023-05-22"
+  },
+  {
+    "transaction_id": "T000687",
+    "user_id": "U0120",
+    "product_id": "P019",
+    "amount": 77.51,
+    "payment_type": "UPI",
+    "date": "2024-11-01"
+  },
+  {
+    "transaction_id": "T000688",
+    "user_id": "U0023",
+    "product_id": "P036",
+    "amount": 44.01,
+    "payment_type": "Net Banking",
+    "date": "2023-01-17"
+  },
+  {
+    "transaction_id": "T000689",
+    "user_id": "U0095",
+    "product_id": "P013",
+    "amount": 77.82,
+    "payment_type": "UPI",
+    "date": "2024-09-14"
+  },
+  {
+    "transaction_id": "T000690",
+    "user_id": "U0190",
+    "product_id": "P040",
+    "amount": 106.19,
+    "payment_type": "Debit Card",
+    "date": "2025-08-08"
+  },
+  {
+    "transaction_id": "T000691",
+    "user_id": "U0095",
+    "product_id": "P038",
+    "amount": 89.33,
+    "payment_type": "Net Banking",
+    "date": "2024-02-05"
+  },
+  {
+    "transaction_id": "T000692",
+    "user_id": "U0188",
+    "product_id": "P035",
+    "amount": 74.02,
+    "payment_type": "Debit Card",
+    "date": "2023-11-05"
+  },
+  {
+    "transaction_id": "T000693",
+    "user_id": "U0002",
+    "product_id": "P027",
+    "amount": 103.54,
+    "payment_type": "Credit Card",
+    "date": "2024-04-22"
+  },
+  {
+    "transaction_id": "T000694",
+    "user_id": "U0139",
+    "product_id": "P023",
+    "amount": 110.12,
+    "payment_type": "Wallet",
+    "date": "2023-01-20"
+  },
+  {
+    "transaction_id": "T000695",
+    "user_id": "U0086",
+    "product_id": "P001",
+    "amount": 125.12,
+    "payment_type": "Wallet",
+    "date": "2025-02-09"
+  },
+  {
+    "transaction_id": "T000696",
+    "user_id": "U0189",
+    "product_id": "P047",
+    "amount": 80.58,
+    "payment_type": "UPI",
+    "date": "2023-08-01"
+  },
+  {
+    "transaction_id": "T000697",
+    "user_id": "U0053",
+    "product_id": "P034",
+    "amount": 49.39,
+    "payment_type": "Debit Card",
+    "date": "2025-05-09"
+  },
+  {
+    "transaction_id": "T000698",
+    "user_id": "U0126",
+    "product_id": "P004",
+    "amount": 59.62,
+    "payment_type": "Debit Card",
+    "date": "2024-07-27"
+  },
+  {
+    "transaction_id": "T000699",
+    "user_id": "U0024",
+    "product_id": "P003",
+    "amount": 112.61,
+    "payment_type": "Debit Card",
+    "date": "2025-04-25"
+  },
+  {
+    "transaction_id": "T000700",
+    "user_id": "U0180",
+    "product_id": "P024",
+    "amount": 33.44,
+    "payment_type": "Net Banking",
+    "date": "2023-06-23"
+  },
+  {
+    "transaction_id": "T000701",
+    "user_id": "U0149",
+    "product_id": "P007",
+    "amount": 68.12,
+    "payment_type": "Cash",
+    "date": "2023-10-01"
+  },
+  {
+    "transaction_id": "T000702",
+    "user_id": "U0164",
+    "product_id": "P026",
+    "amount": 43.12,
+    "payment_type": "Credit Card",
+    "date": "2023-05-08"
+  },
+  {
+    "transaction_id": "T000703",
+    "user_id": "U0112",
+    "product_id": "P043",
+    "amount": 55.55,
+    "payment_type": "Debit Card",
+    "date": "2024-04-29"
+  },
+  {
+    "transaction_id": "T000704",
+    "user_id": "U0075",
+    "product_id": "P017",
+    "amount": 117.57,
+    "payment_type": "UPI",
+    "date": "2025-03-15"
+  },
+  {
+    "transaction_id": "T000705",
+    "user_id": "U0180",
+    "product_id": "P048",
+    "amount": 61.23,
+    "payment_type": "UPI",
+    "date": "2024-10-13"
+  },
+  {
+    "transaction_id": "T000706",
+    "user_id": "U0116",
+    "product_id": "P018",
+    "amount": 56.14,
+    "payment_type": "Debit Card",
+    "date": "2023-06-02"
+  },
+  {
+    "transaction_id": "T000707",
+    "user_id": "U0052",
+    "product_id": "P009",
+    "amount": 24.15,
+    "payment_type": "Cash",
+    "date": "2023-08-12"
+  },
+  {
+    "transaction_id": "T000708",
+    "user_id": "U0040",
+    "product_id": "P007",
+    "amount": 85.43,
+    "payment_type": "Debit Card",
+    "date": "2025-07-09"
+  },
+  {
+    "transaction_id": "T000709",
+    "user_id": "U0120",
+    "product_id": "P021",
+    "amount": 80.42,
+    "payment_type": "Net Banking",
+    "date": "2023-09-05"
+  },
+  {
+    "transaction_id": "T000710",
+    "user_id": "U0138",
+    "product_id": "P023",
+    "amount": 199.93,
+    "payment_type": "Debit Card",
+    "date": "2025-07-14"
+  },
+  {
+    "transaction_id": "T000711",
+    "user_id": "U0079",
+    "product_id": "P030",
+    "amount": 45.39,
+    "payment_type": "UPI",
+    "date": "2023-09-03"
+  },
+  {
+    "transaction_id": "T000712",
+    "user_id": "U0024",
+    "product_id": "P011",
+    "amount": 62.27,
+    "payment_type": "Wallet",
+    "date": "2024-09-15"
+  },
+  {
+    "transaction_id": "T000713",
+    "user_id": "U0181",
+    "product_id": "P045",
+    "amount": 63.41,
+    "payment_type": "Cash",
+    "date": "2023-03-24"
+  },
+  {
+    "transaction_id": "T000714",
+    "user_id": "U0056",
+    "product_id": "P021",
+    "amount": 140.68,
+    "payment_type": "Debit Card",
+    "date": "2023-07-06"
+  },
+  {
+    "transaction_id": "T000715",
+    "user_id": "U0183",
+    "product_id": "P016",
+    "amount": 51.56,
+    "payment_type": "UPI",
+    "date": "2025-03-22"
+  },
+  {
+    "transaction_id": "T000716",
+    "user_id": "U0132",
+    "product_id": "P004",
+    "amount": 64.55,
+    "payment_type": "Wallet",
+    "date": "2024-09-04"
+  },
+  {
+    "transaction_id": "T000717",
+    "user_id": "U0067",
+    "product_id": "P012",
+    "amount": 78.63,
+    "payment_type": "Credit Card",
+    "date": "2025-04-08"
+  },
+  {
+    "transaction_id": "T000718",
+    "user_id": "U0116",
+    "product_id": "P036",
+    "amount": 61.07,
+    "payment_type": "Wallet",
+    "date": "2024-05-26"
+  },
+  {
+    "transaction_id": "T000719",
+    "user_id": "U0025",
+    "product_id": "P030",
+    "amount": 41.77,
+    "payment_type": "Credit Card",
+    "date": "2023-10-14"
+  },
+  {
+    "transaction_id": "T000720",
+    "user_id": "U0032",
+    "product_id": "P001",
+    "amount": 61.34,
+    "payment_type": "Credit Card",
+    "date": "2024-03-31"
+  },
+  {
+    "transaction_id": "T000721",
+    "user_id": "U0034",
+    "product_id": "P013",
+    "amount": 103.98,
+    "payment_type": "Net Banking",
+    "date": "2025-02-01"
+  },
+  {
+    "transaction_id": "T000722",
+    "user_id": "U0176",
+    "product_id": "P041",
+    "amount": 29.49,
+    "payment_type": "Wallet",
+    "date": "2023-06-22"
+  },
+  {
+    "transaction_id": "T000723",
+    "user_id": "U0150",
+    "product_id": "P038",
+    "amount": 59.13,
+    "payment_type": "UPI",
+    "date": "2023-06-03"
+  },
+  {
+    "transaction_id": "T000724",
+    "user_id": "U0006",
+    "product_id": "P005",
+    "amount": 35.87,
+    "payment_type": "Debit Card",
+    "date": "2025-06-27"
+  },
+  {
+    "transaction_id": "T000725",
+    "user_id": "U0033",
+    "product_id": "P006",
+    "amount": 111.84,
+    "payment_type": "UPI",
+    "date": "2023-09-08"
+  },
+  {
+    "transaction_id": "T000726",
+    "user_id": "U0011",
+    "product_id": "P030",
+    "amount": 21.89,
+    "payment_type": "Credit Card",
+    "date": "2023-12-11"
+  },
+  {
+    "transaction_id": "T000727",
+    "user_id": "U0147",
+    "product_id": "P028",
+    "amount": 39.04,
+    "payment_type": "Wallet",
+    "date": "2025-03-19"
+  },
+  {
+    "transaction_id": "T000728",
+    "user_id": "U0128",
+    "product_id": "P002",
+    "amount": 68.47,
+    "payment_type": "Net Banking",
+    "date": "2025-05-23"
+  },
+  {
+    "transaction_id": "T000729",
+    "user_id": "U0045",
+    "product_id": "P023",
+    "amount": 139.67,
+    "payment_type": "Debit Card",
+    "date": "2024-01-19"
+  },
+  {
+    "transaction_id": "T000730",
+    "user_id": "U0071",
+    "product_id": "P018",
+    "amount": 52.49,
+    "payment_type": "Net Banking",
+    "date": "2023-11-01"
+  },
+  {
+    "transaction_id": "T000731",
+    "user_id": "U0009",
+    "product_id": "P040",
+    "amount": 39.13,
+    "payment_type": "Cash",
+    "date": "2024-05-18"
+  },
+  {
+    "transaction_id": "T000732",
+    "user_id": "U0166",
+    "product_id": "P019",
+    "amount": 168.8,
+    "payment_type": "Net Banking",
+    "date": "2025-04-23"
+  },
+  {
+    "transaction_id": "T000733",
+    "user_id": "U0141",
+    "product_id": "P031",
+    "amount": 22.9,
+    "payment_type": "Credit Card",
+    "date": "2023-06-29"
+  },
+  {
+    "transaction_id": "T000734",
+    "user_id": "U0072",
+    "product_id": "P025",
+    "amount": 14.6,
+    "payment_type": "Debit Card",
+    "date": "2025-05-08"
+  },
+  {
+    "transaction_id": "T000735",
+    "user_id": "U0052",
+    "product_id": "P042",
+    "amount": 71.09,
+    "payment_type": "Cash",
+    "date": "2024-05-25"
+  },
+  {
+    "transaction_id": "T000736",
+    "user_id": "U0162",
+    "product_id": "P035",
+    "amount": 40.4,
+    "payment_type": "Credit Card",
+    "date": "2025-02-22"
+  },
+  {
+    "transaction_id": "T000737",
+    "user_id": "U0183",
+    "product_id": "P023",
+    "amount": 29.58,
+    "payment_type": "Net Banking",
+    "date": "2025-09-19"
+  },
+  {
+    "transaction_id": "T000738",
+    "user_id": "U0089",
+    "product_id": "P037",
+    "amount": 83.51,
+    "payment_type": "Cash",
+    "date": "2024-10-20"
+  },
+  {
+    "transaction_id": "T000739",
+    "user_id": "U0100",
+    "product_id": "P018",
+    "amount": 63.2,
+    "payment_type": "Debit Card",
+    "date": "2023-02-23"
+  },
+  {
+    "transaction_id": "T000740",
+    "user_id": "U0082",
+    "product_id": "P039",
+    "amount": 38.92,
+    "payment_type": "Debit Card",
+    "date": "2023-03-02"
+  },
+  {
+    "transaction_id": "T000741",
+    "user_id": "U0200",
+    "product_id": "P018",
+    "amount": 25.33,
+    "payment_type": "Credit Card",
+    "date": "2025-08-24"
+  },
+  {
+    "transaction_id": "T000742",
+    "user_id": "U0136",
+    "product_id": "P023",
+    "amount": 92.16,
+    "payment_type": "Cash",
+    "date": "2024-04-21"
+  },
+  {
+    "transaction_id": "T000743",
+    "user_id": "U0041",
+    "product_id": "P007",
+    "amount": 80.65,
+    "payment_type": "Debit Card",
+    "date": "2024-05-08"
+  },
+  {
+    "transaction_id": "T000744",
+    "user_id": "U0069",
+    "product_id": "P035",
+    "amount": 51.44,
+    "payment_type": "Wallet",
+    "date": "2023-04-25"
+  },
+  {
+    "transaction_id": "T000745",
+    "user_id": "U0196",
+    "product_id": "P015",
+    "amount": 165.34,
+    "payment_type": "Cash",
+    "date": "2025-03-06"
+  },
+  {
+    "transaction_id": "T000746",
+    "user_id": "U0091",
+    "product_id": "P012",
+    "amount": 28.73,
+    "payment_type": "Debit Card",
+    "date": "2024-04-29"
+  },
+  {
+    "transaction_id": "T000747",
+    "user_id": "U0152",
+    "product_id": "P021",
+    "amount": 21.86,
+    "payment_type": "Wallet",
+    "date": "2025-01-04"
+  },
+  {
+    "transaction_id": "T000748",
+    "user_id": "U0152",
+    "product_id": "P002",
+    "amount": 36.05,
+    "payment_type": "Wallet",
+    "date": "2024-12-21"
+  },
+  {
+    "transaction_id": "T000749",
+    "user_id": "U0146",
+    "product_id": "P037",
+    "amount": 53.13,
+    "payment_type": "Debit Card",
+    "date": "2024-01-21"
+  },
+  {
+    "transaction_id": "T000750",
+    "user_id": "U0127",
+    "product_id": "P035",
+    "amount": 63.18,
+    "payment_type": "UPI",
+    "date": "2023-12-26"
+  },
+  {
+    "transaction_id": "T000751",
+    "user_id": "U0126",
+    "product_id": "P003",
+    "amount": 47.24,
+    "payment_type": "Credit Card",
+    "date": "2023-04-26"
+  },
+  {
+    "transaction_id": "T000752",
+    "user_id": "U0060",
+    "product_id": "P039",
+    "amount": 67.44,
+    "payment_type": "Debit Card",
+    "date": "2023-02-10"
+  },
+  {
+    "transaction_id": "T000753",
+    "user_id": "U0135",
+    "product_id": "P031",
+    "amount": 25.77,
+    "payment_type": "Credit Card",
+    "date": "2024-11-10"
+  },
+  {
+    "transaction_id": "T000754",
+    "user_id": "U0158",
+    "product_id": "P013",
+    "amount": 129.83,
+    "payment_type": "Debit Card",
+    "date": "2024-11-28"
+  },
+  {
+    "transaction_id": "T000755",
+    "user_id": "U0184",
+    "product_id": "P012",
+    "amount": 51.97,
+    "payment_type": "UPI",
+    "date": "2023-05-02"
+  },
+  {
+    "transaction_id": "T000756",
+    "user_id": "U0006",
+    "product_id": "P010",
+    "amount": 106.74,
+    "payment_type": "Cash",
+    "date": "2023-10-18"
+  },
+  {
+    "transaction_id": "T000757",
+    "user_id": "U0199",
+    "product_id": "P008",
+    "amount": 67.06,
+    "payment_type": "Cash",
+    "date": "2025-01-17"
+  },
+  {
+    "transaction_id": "T000758",
+    "user_id": "U0019",
+    "product_id": "P024",
+    "amount": 71.81,
+    "payment_type": "Wallet",
+    "date": "2025-03-21"
+  },
+  {
+    "transaction_id": "T000759",
+    "user_id": "U0151",
+    "product_id": "P007",
+    "amount": 76.85,
+    "payment_type": "UPI",
+    "date": "2024-09-10"
+  },
+  {
+    "transaction_id": "T000760",
+    "user_id": "U0083",
+    "product_id": "P009",
+    "amount": 71.42,
+    "payment_type": "Debit Card",
+    "date": "2025-06-13"
+  },
+  {
+    "transaction_id": "T000761",
+    "user_id": "U0164",
+    "product_id": "P032",
+    "amount": 80.29,
+    "payment_type": "Wallet",
+    "date": "2024-10-11"
+  },
+  {
+    "transaction_id": "T000762",
+    "user_id": "U0045",
+    "product_id": "P046",
+    "amount": 121.21,
+    "payment_type": "Cash",
+    "date": "2024-12-31"
+  },
+  {
+    "transaction_id": "T000763",
+    "user_id": "U0058",
+    "product_id": "P043",
+    "amount": 61.43,
+    "payment_type": "Cash",
+    "date": "2023-12-26"
+  },
+  {
+    "transaction_id": "T000764",
+    "user_id": "U0097",
+    "product_id": "P020",
+    "amount": 83.55,
+    "payment_type": "Wallet",
+    "date": "2024-08-26"
+  },
+  {
+    "transaction_id": "T000765",
+    "user_id": "U0033",
+    "product_id": "P012",
+    "amount": 51.74,
+    "payment_type": "Wallet",
+    "date": "2023-01-04"
+  },
+  {
+    "transaction_id": "T000766",
+    "user_id": "U0180",
+    "product_id": "P037",
+    "amount": 129.55,
+    "payment_type": "Net Banking",
+    "date": "2023-03-08"
+  },
+  {
+    "transaction_id": "T000767",
+    "user_id": "U0047",
+    "product_id": "P039",
+    "amount": 36.39,
+    "payment_type": "UPI",
+    "date": "2024-03-28"
+  },
+  {
+    "transaction_id": "T000768",
+    "user_id": "U0164",
+    "product_id": "P037",
+    "amount": 160.86,
+    "payment_type": "Credit Card",
+    "date": "2025-10-13"
+  },
+  {
+    "transaction_id": "T000769",
+    "user_id": "U0037",
+    "product_id": "P022",
+    "amount": 53.3,
+    "payment_type": "Wallet",
+    "date": "2023-06-09"
+  },
+  {
+    "transaction_id": "T000770",
+    "user_id": "U0061",
+    "product_id": "P023",
+    "amount": 23.14,
+    "payment_type": "UPI",
+    "date": "2023-12-10"
+  },
+  {
+    "transaction_id": "T000771",
+    "user_id": "U0163",
+    "product_id": "P006",
+    "amount": 58.96,
+    "payment_type": "Wallet",
+    "date": "2024-11-18"
+  },
+  {
+    "transaction_id": "T000772",
+    "user_id": "U0115",
+    "product_id": "P001",
+    "amount": 36.28,
+    "payment_type": "UPI",
+    "date": "2024-03-05"
+  },
+  {
+    "transaction_id": "T000773",
+    "user_id": "U0064",
+    "product_id": "P045",
+    "amount": 90.41,
+    "payment_type": "Credit Card",
+    "date": "2024-12-18"
+  },
+  {
+    "transaction_id": "T000774",
+    "user_id": "U0066",
+    "product_id": "P007",
+    "amount": 36.91,
+    "payment_type": "Wallet",
+    "date": "2023-01-03"
+  },
+  {
+    "transaction_id": "T000775",
+    "user_id": "U0013",
+    "product_id": "P025",
+    "amount": 41.77,
+    "payment_type": "Net Banking",
+    "date": "2025-05-09"
+  },
+  {
+    "transaction_id": "T000776",
+    "user_id": "U0043",
+    "product_id": "P027",
+    "amount": 17.57,
+    "payment_type": "Net Banking",
+    "date": "2025-02-14"
+  },
+  {
+    "transaction_id": "T000777",
+    "user_id": "U0090",
+    "product_id": "P035",
+    "amount": 41.62,
+    "payment_type": "Net Banking",
+    "date": "2023-07-27"
+  },
+  {
+    "transaction_id": "T000778",
+    "user_id": "U0123",
+    "product_id": "P037",
+    "amount": 12.75,
+    "payment_type": "Wallet",
+    "date": "2024-04-06"
+  },
+  {
+    "transaction_id": "T000779",
+    "user_id": "U0042",
+    "product_id": "P029",
+    "amount": 21.11,
+    "payment_type": "Credit Card",
+    "date": "2023-03-10"
+  },
+  {
+    "transaction_id": "T000780",
+    "user_id": "U0076",
+    "product_id": "P002",
+    "amount": 86.16,
+    "payment_type": "UPI",
+    "date": "2024-06-18"
+  },
+  {
+    "transaction_id": "T000781",
+    "user_id": "U0027",
+    "product_id": "P005",
+    "amount": 87.49,
+    "payment_type": "UPI",
+    "date": "2023-12-15"
+  },
+  {
+    "transaction_id": "T000782",
+    "user_id": "U0097",
+    "product_id": "P011",
+    "amount": 70.48,
+    "payment_type": "Wallet",
+    "date": "2023-06-03"
+  },
+  {
+    "transaction_id": "T000783",
+    "user_id": "U0141",
+    "product_id": "P006",
+    "amount": 30.56,
+    "payment_type": "UPI",
+    "date": "2025-09-15"
+  },
+  {
+    "transaction_id": "T000784",
+    "user_id": "U0181",
+    "product_id": "P002",
+    "amount": 53.06,
+    "payment_type": "Net Banking",
+    "date": "2023-12-04"
+  },
+  {
+    "transaction_id": "T000785",
+    "user_id": "U0156",
+    "product_id": "P028",
+    "amount": 54.48,
+    "payment_type": "Debit Card",
+    "date": "2023-04-20"
+  },
+  {
+    "transaction_id": "T000786",
+    "user_id": "U0026",
+    "product_id": "P022",
+    "amount": 27.25,
+    "payment_type": "Debit Card",
+    "date": "2024-01-25"
+  },
+  {
+    "transaction_id": "T000787",
+    "user_id": "U0105",
+    "product_id": "P045",
+    "amount": 134.56,
+    "payment_type": "Cash",
+    "date": "2024-06-27"
+  },
+  {
+    "transaction_id": "T000788",
+    "user_id": "U0170",
+    "product_id": "P019",
+    "amount": 92.43,
+    "payment_type": "UPI",
+    "date": "2024-05-01"
+  },
+  {
+    "transaction_id": "T000789",
+    "user_id": "U0025",
+    "product_id": "P004",
+    "amount": 47.82,
+    "payment_type": "Net Banking",
+    "date": "2025-10-02"
+  },
+  {
+    "transaction_id": "T000790",
+    "user_id": "U0040",
+    "product_id": "P004",
+    "amount": 55.49,
+    "payment_type": "UPI",
+    "date": "2023-01-08"
+  },
+  {
+    "transaction_id": "T000791",
+    "user_id": "U0110",
+    "product_id": "P006",
+    "amount": 61.87,
+    "payment_type": "UPI",
+    "date": "2025-09-10"
+  },
+  {
+    "transaction_id": "T000792",
+    "user_id": "U0052",
+    "product_id": "P007",
+    "amount": 16.04,
+    "payment_type": "Credit Card",
+    "date": "2024-02-28"
+  },
+  {
+    "transaction_id": "T000793",
+    "user_id": "U0044",
+    "product_id": "P041",
+    "amount": 47.07,
+    "payment_type": "UPI",
+    "date": "2023-06-17"
+  },
+  {
+    "transaction_id": "T000794",
+    "user_id": "U0122",
+    "product_id": "P008",
+    "amount": 36.26,
+    "payment_type": "UPI",
+    "date": "2025-03-25"
+  },
+  {
+    "transaction_id": "T000795",
+    "user_id": "U0121",
+    "product_id": "P032",
+    "amount": 29.93,
+    "payment_type": "Wallet",
+    "date": "2024-06-26"
+  },
+  {
+    "transaction_id": "T000796",
+    "user_id": "U0024",
+    "product_id": "P042",
+    "amount": 46.12,
+    "payment_type": "Cash",
+    "date": "2025-03-04"
+  },
+  {
+    "transaction_id": "T000797",
+    "user_id": "U0048",
+    "product_id": "P024",
+    "amount": 160.55,
+    "payment_type": "Net Banking",
+    "date": "2025-01-26"
+  },
+  {
+    "transaction_id": "T000798",
+    "user_id": "U0048",
+    "product_id": "P029",
+    "amount": 80.2,
+    "payment_type": "Credit Card",
+    "date": "2024-06-23"
+  },
+  {
+    "transaction_id": "T000799",
+    "user_id": "U0113",
+    "product_id": "P030",
+    "amount": 38.76,
+    "payment_type": "UPI",
+    "date": "2024-04-08"
+  },
+  {
+    "transaction_id": "T000800",
+    "user_id": "U0069",
+    "product_id": "P037",
+    "amount": 76.98,
+    "payment_type": "Credit Card",
+    "date": "2023-11-06"
+  },
+  {
+    "transaction_id": "T000801",
+    "user_id": "U0193",
+    "product_id": "P045",
+    "amount": 126.42,
+    "payment_type": "Wallet",
+    "date": "2023-07-18"
+  },
+  {
+    "transaction_id": "T000802",
+    "user_id": "U0022",
+    "product_id": "P043",
+    "amount": 95.09,
+    "payment_type": "UPI",
+    "date": "2025-04-27"
+  },
+  {
+    "transaction_id": "T000803",
+    "user_id": "U0194",
+    "product_id": "P038",
+    "amount": 56.59,
+    "payment_type": "Debit Card",
+    "date": "2023-05-05"
+  },
+  {
+    "transaction_id": "T000804",
+    "user_id": "U0100",
+    "product_id": "P034",
+    "amount": 37.03,
+    "payment_type": "Net Banking",
+    "date": "2025-08-30"
+  },
+  {
+    "transaction_id": "T000805",
+    "user_id": "U0147",
+    "product_id": "P016",
+    "amount": 83.01,
+    "payment_type": "Net Banking",
+    "date": "2024-09-04"
+  },
+  {
+    "transaction_id": "T000806",
+    "user_id": "U0021",
+    "product_id": "P026",
+    "amount": 69.14,
+    "payment_type": "Wallet",
+    "date": "2023-03-13"
+  },
+  {
+    "transaction_id": "T000807",
+    "user_id": "U0129",
+    "product_id": "P037",
+    "amount": 93.42,
+    "payment_type": "Cash",
+    "date": "2023-10-29"
+  },
+  {
+    "transaction_id": "T000808",
+    "user_id": "U0031",
+    "product_id": "P049",
+    "amount": 79.93,
+    "payment_type": "Net Banking",
+    "date": "2023-12-21"
+  },
+  {
+    "transaction_id": "T000809",
+    "user_id": "U0043",
+    "product_id": "P014",
+    "amount": 102.49,
+    "payment_type": "Debit Card",
+    "date": "2023-09-16"
+  },
+  {
+    "transaction_id": "T000810",
+    "user_id": "U0011",
+    "product_id": "P028",
+    "amount": 39.6,
+    "payment_type": "Credit Card",
+    "date": "2025-06-10"
+  },
+  {
+    "transaction_id": "T000811",
+    "user_id": "U0052",
+    "product_id": "P041",
+    "amount": 120.35,
+    "payment_type": "Debit Card",
+    "date": "2024-06-12"
+  },
+  {
+    "transaction_id": "T000812",
+    "user_id": "U0082",
+    "product_id": "P047",
+    "amount": 61.47,
+    "payment_type": "Credit Card",
+    "date": "2023-06-28"
+  },
+  {
+    "transaction_id": "T000813",
+    "user_id": "U0100",
+    "product_id": "P036",
+    "amount": 189.65,
+    "payment_type": "Net Banking",
+    "date": "2024-10-29"
+  },
+  {
+    "transaction_id": "T000814",
+    "user_id": "U0071",
+    "product_id": "P034",
+    "amount": 36.11,
+    "payment_type": "Net Banking",
+    "date": "2023-01-26"
+  },
+  {
+    "transaction_id": "T000815",
+    "user_id": "U0180",
+    "product_id": "P040",
+    "amount": 154.71,
+    "payment_type": "Cash",
+    "date": "2025-05-09"
+  },
+  {
+    "transaction_id": "T000816",
+    "user_id": "U0029",
+    "product_id": "P027",
+    "amount": 61.48,
+    "payment_type": "Debit Card",
+    "date": "2023-10-31"
+  },
+  {
+    "transaction_id": "T000817",
+    "user_id": "U0146",
+    "product_id": "P038",
+    "amount": 36.93,
+    "payment_type": "Cash",
+    "date": "2023-07-25"
+  },
+  {
+    "transaction_id": "T000818",
+    "user_id": "U0028",
+    "product_id": "P037",
+    "amount": 40.84,
+    "payment_type": "Credit Card",
+    "date": "2024-08-08"
+  },
+  {
+    "transaction_id": "T000819",
+    "user_id": "U0138",
+    "product_id": "P023",
+    "amount": 45.05,
+    "payment_type": "Net Banking",
+    "date": "2024-06-24"
+  },
+  {
+    "transaction_id": "T000820",
+    "user_id": "U0099",
+    "product_id": "P042",
+    "amount": 70.42,
+    "payment_type": "Net Banking",
+    "date": "2025-08-26"
+  },
+  {
+    "transaction_id": "T000821",
+    "user_id": "U0010",
+    "product_id": "P012",
+    "amount": 74.72,
+    "payment_type": "UPI",
+    "date": "2025-04-05"
+  },
+  {
+    "transaction_id": "T000822",
+    "user_id": "U0037",
+    "product_id": "P040",
+    "amount": 38.7,
+    "payment_type": "Cash",
+    "date": "2025-04-02"
+  },
+  {
+    "transaction_id": "T000823",
+    "user_id": "U0010",
+    "product_id": "P026",
+    "amount": 53.81,
+    "payment_type": "UPI",
+    "date": "2024-05-01"
+  },
+  {
+    "transaction_id": "T000824",
+    "user_id": "U0013",
+    "product_id": "P048",
+    "amount": 197.43,
+    "payment_type": "Net Banking",
+    "date": "2024-07-04"
+  },
+  {
+    "transaction_id": "T000825",
+    "user_id": "U0096",
+    "product_id": "P002",
+    "amount": 153.93,
+    "payment_type": "UPI",
+    "date": "2024-09-12"
+  },
+  {
+    "transaction_id": "T000826",
+    "user_id": "U0080",
+    "product_id": "P018",
+    "amount": 70.94,
+    "payment_type": "Net Banking",
+    "date": "2023-07-21"
+  },
+  {
+    "transaction_id": "T000827",
+    "user_id": "U0059",
+    "product_id": "P009",
+    "amount": 55.86,
+    "payment_type": "UPI",
+    "date": "2025-06-26"
+  },
+  {
+    "transaction_id": "T000828",
+    "user_id": "U0199",
+    "product_id": "P021",
+    "amount": 58.68,
+    "payment_type": "UPI",
+    "date": "2025-05-03"
+  },
+  {
+    "transaction_id": "T000829",
+    "user_id": "U0155",
+    "product_id": "P042",
+    "amount": 78.89,
+    "payment_type": "Credit Card",
+    "date": "2024-01-20"
+  },
+  {
+    "transaction_id": "T000830",
+    "user_id": "U0114",
+    "product_id": "P014",
+    "amount": 29.56,
+    "payment_type": "Net Banking",
+    "date": "2025-09-19"
+  },
+  {
+    "transaction_id": "T000831",
+    "user_id": "U0195",
+    "product_id": "P034",
+    "amount": 46.79,
+    "payment_type": "UPI",
+    "date": "2023-04-26"
+  },
+  {
+    "transaction_id": "T000832",
+    "user_id": "U0132",
+    "product_id": "P011",
+    "amount": 20.06,
+    "payment_type": "Credit Card",
+    "date": "2024-09-29"
+  },
+  {
+    "transaction_id": "T000833",
+    "user_id": "U0182",
+    "product_id": "P033",
+    "amount": 69.38,
+    "payment_type": "Net Banking",
+    "date": "2023-10-05"
+  },
+  {
+    "transaction_id": "T000834",
+    "user_id": "U0200",
+    "product_id": "P034",
+    "amount": 80.5,
+    "payment_type": "Cash",
+    "date": "2023-03-01"
+  },
+  {
+    "transaction_id": "T000835",
+    "user_id": "U0045",
+    "product_id": "P013",
+    "amount": 40.86,
+    "payment_type": "Debit Card",
+    "date": "2023-04-29"
+  },
+  {
+    "transaction_id": "T000836",
+    "user_id": "U0064",
+    "product_id": "P003",
+    "amount": 140.39,
+    "payment_type": "Net Banking",
+    "date": "2023-04-14"
+  },
+  {
+    "transaction_id": "T000837",
+    "user_id": "U0093",
+    "product_id": "P046",
+    "amount": 26.17,
+    "payment_type": "Debit Card",
+    "date": "2024-07-15"
+  },
+  {
+    "transaction_id": "T000838",
+    "user_id": "U0095",
+    "product_id": "P030",
+    "amount": 22.68,
+    "payment_type": "Cash",
+    "date": "2025-03-23"
+  },
+  {
+    "transaction_id": "T000839",
+    "user_id": "U0163",
+    "product_id": "P008",
+    "amount": 62.47,
+    "payment_type": "Wallet",
+    "date": "2023-03-04"
+  },
+  {
+    "transaction_id": "T000840",
+    "user_id": "U0062",
+    "product_id": "P024",
+    "amount": 102.34,
+    "payment_type": "Net Banking",
+    "date": "2025-07-02"
+  },
+  {
+    "transaction_id": "T000841",
+    "user_id": "U0046",
+    "product_id": "P031",
+    "amount": 149.96,
+    "payment_type": "Cash",
+    "date": "2024-12-17"
+  },
+  {
+    "transaction_id": "T000842",
+    "user_id": "U0089",
+    "product_id": "P011",
+    "amount": 41.46,
+    "payment_type": "UPI",
+    "date": "2023-07-05"
+  },
+  {
+    "transaction_id": "T000843",
+    "user_id": "U0073",
+    "product_id": "P002",
+    "amount": 104.29,
+    "payment_type": "Net Banking",
+    "date": "2023-04-12"
+  },
+  {
+    "transaction_id": "T000844",
+    "user_id": "U0042",
+    "product_id": "P037",
+    "amount": 53.35,
+    "payment_type": "Debit Card",
+    "date": "2024-03-29"
+  },
+  {
+    "transaction_id": "T000845",
+    "user_id": "U0166",
+    "product_id": "P015",
+    "amount": 49.23,
+    "payment_type": "Wallet",
+    "date": "2024-02-28"
+  },
+  {
+    "transaction_id": "T000846",
+    "user_id": "U0069",
+    "product_id": "P042",
+    "amount": 92.78,
+    "payment_type": "Net Banking",
+    "date": "2023-02-11"
+  },
+  {
+    "transaction_id": "T000847",
+    "user_id": "U0200",
+    "product_id": "P050",
+    "amount": 80.75,
+    "payment_type": "Wallet",
+    "date": "2023-01-19"
+  },
+  {
+    "transaction_id": "T000848",
+    "user_id": "U0122",
+    "product_id": "P009",
+    "amount": 21.2,
+    "payment_type": "Wallet",
+    "date": "2023-12-21"
+  },
+  {
+    "transaction_id": "T000849",
+    "user_id": "U0154",
+    "product_id": "P001",
+    "amount": 132.41,
+    "payment_type": "Debit Card",
+    "date": "2024-05-31"
+  },
+  {
+    "transaction_id": "T000850",
+    "user_id": "U0156",
+    "product_id": "P020",
+    "amount": 124.97,
+    "payment_type": "Wallet",
+    "date": "2024-07-17"
+  },
+  {
+    "transaction_id": "T000851",
+    "user_id": "U0109",
+    "product_id": "P025",
+    "amount": 37.51,
+    "payment_type": "UPI",
+    "date": "2025-07-29"
+  },
+  {
+    "transaction_id": "T000852",
+    "user_id": "U0065",
+    "product_id": "P014",
+    "amount": 69.23,
+    "payment_type": "Net Banking",
+    "date": "2024-09-10"
+  },
+  {
+    "transaction_id": "T000853",
+    "user_id": "U0174",
+    "product_id": "P034",
+    "amount": 73.44,
+    "payment_type": "Cash",
+    "date": "2025-03-24"
+  },
+  {
+    "transaction_id": "T000854",
+    "user_id": "U0150",
+    "product_id": "P007",
+    "amount": 63.84,
+    "payment_type": "Credit Card",
+    "date": "2025-02-05"
+  },
+  {
+    "transaction_id": "T000855",
+    "user_id": "U0144",
+    "product_id": "P042",
+    "amount": 39.24,
+    "payment_type": "Cash",
+    "date": "2024-08-01"
+  },
+  {
+    "transaction_id": "T000856",
+    "user_id": "U0077",
+    "product_id": "P044",
+    "amount": 36.49,
+    "payment_type": "Credit Card",
+    "date": "2025-09-13"
+  },
+  {
+    "transaction_id": "T000857",
+    "user_id": "U0017",
+    "product_id": "P022",
+    "amount": 53.77,
+    "payment_type": "UPI",
+    "date": "2024-10-27"
+  },
+  {
+    "transaction_id": "T000858",
+    "user_id": "U0071",
+    "product_id": "P017",
+    "amount": 110.35,
+    "payment_type": "Wallet",
+    "date": "2024-09-03"
+  },
+  {
+    "transaction_id": "T000859",
+    "user_id": "U0049",
+    "product_id": "P010",
+    "amount": 75.65,
+    "payment_type": "Cash",
+    "date": "2024-05-07"
+  },
+  {
+    "transaction_id": "T000860",
+    "user_id": "U0015",
+    "product_id": "P039",
+    "amount": 43.71,
+    "payment_type": "Net Banking",
+    "date": "2024-10-16"
+  },
+  {
+    "transaction_id": "T000861",
+    "user_id": "U0175",
+    "product_id": "P009",
+    "amount": 86.75,
+    "payment_type": "Wallet",
+    "date": "2023-02-22"
+  },
+  {
+    "transaction_id": "T000862",
+    "user_id": "U0168",
+    "product_id": "P032",
+    "amount": 9.88,
+    "payment_type": "UPI",
+    "date": "2024-06-15"
+  },
+  {
+    "transaction_id": "T000863",
+    "user_id": "U0108",
+    "product_id": "P026",
+    "amount": 108.77,
+    "payment_type": "Net Banking",
+    "date": "2023-03-14"
+  },
+  {
+    "transaction_id": "T000864",
+    "user_id": "U0150",
+    "product_id": "P046",
+    "amount": 19.22,
+    "payment_type": "Cash",
+    "date": "2024-01-24"
+  },
+  {
+    "transaction_id": "T000865",
+    "user_id": "U0088",
+    "product_id": "P047",
+    "amount": 43.93,
+    "payment_type": "Wallet",
+    "date": "2024-03-31"
+  },
+  {
+    "transaction_id": "T000866",
+    "user_id": "U0176",
+    "product_id": "P035",
+    "amount": 27.89,
+    "payment_type": "Wallet",
+    "date": "2025-09-01"
+  },
+  {
+    "transaction_id": "T000867",
+    "user_id": "U0172",
+    "product_id": "P023",
+    "amount": 25.11,
+    "payment_type": "Cash",
+    "date": "2024-09-06"
+  },
+  {
+    "transaction_id": "T000868",
+    "user_id": "U0044",
+    "product_id": "P043",
+    "amount": 109.56,
+    "payment_type": "Cash",
+    "date": "2024-01-06"
+  },
+  {
+    "transaction_id": "T000869",
+    "user_id": "U0076",
+    "product_id": "P007",
+    "amount": 41.24,
+    "payment_type": "Net Banking",
+    "date": "2023-09-20"
+  },
+  {
+    "transaction_id": "T000870",
+    "user_id": "U0190",
+    "product_id": "P017",
+    "amount": 67.22,
+    "payment_type": "Wallet",
+    "date": "2024-01-10"
+  },
+  {
+    "transaction_id": "T000871",
+    "user_id": "U0175",
+    "product_id": "P022",
+    "amount": 53.08,
+    "payment_type": "Wallet",
+    "date": "2023-07-02"
+  },
+  {
+    "transaction_id": "T000872",
+    "user_id": "U0057",
+    "product_id": "P023",
+    "amount": 72.69,
+    "payment_type": "Debit Card",
+    "date": "2024-09-20"
+  },
+  {
+    "transaction_id": "T000873",
+    "user_id": "U0108",
+    "product_id": "P022",
+    "amount": 57.17,
+    "payment_type": "UPI",
+    "date": "2024-06-17"
+  },
+  {
+    "transaction_id": "T000874",
+    "user_id": "U0150",
+    "product_id": "P019",
+    "amount": 25.28,
+    "payment_type": "Net Banking",
+    "date": "2023-08-30"
+  },
+  {
+    "transaction_id": "T000875",
+    "user_id": "U0121",
+    "product_id": "P004",
+    "amount": 99.26,
+    "payment_type": "Wallet",
+    "date": "2023-05-26"
+  },
+  {
+    "transaction_id": "T000876",
+    "user_id": "U0121",
+    "product_id": "P013",
+    "amount": 40.6,
+    "payment_type": "Cash",
+    "date": "2023-09-03"
+  },
+  {
+    "transaction_id": "T000877",
+    "user_id": "U0175",
+    "product_id": "P025",
+    "amount": 21.46,
+    "payment_type": "Cash",
+    "date": "2024-09-03"
+  },
+  {
+    "transaction_id": "T000878",
+    "user_id": "U0106",
+    "product_id": "P004",
+    "amount": 42.23,
+    "payment_type": "Debit Card",
+    "date": "2023-10-09"
+  },
+  {
+    "transaction_id": "T000879",
+    "user_id": "U0052",
+    "product_id": "P022",
+    "amount": 134.35,
+    "payment_type": "Net Banking",
+    "date": "2025-07-26"
+  },
+  {
+    "transaction_id": "T000880",
+    "user_id": "U0037",
+    "product_id": "P021",
+    "amount": 90.93,
+    "payment_type": "Wallet",
+    "date": "2024-01-05"
+  },
+  {
+    "transaction_id": "T000881",
+    "user_id": "U0200",
+    "product_id": "P006",
+    "amount": 44.29,
+    "payment_type": "Net Banking",
+    "date": "2024-11-12"
+  },
+  {
+    "transaction_id": "T000882",
+    "user_id": "U0162",
+    "product_id": "P012",
+    "amount": 44.28,
+    "payment_type": "UPI",
+    "date": "2023-04-29"
+  },
+  {
+    "transaction_id": "T000883",
+    "user_id": "U0002",
+    "product_id": "P029",
+    "amount": 45.02,
+    "payment_type": "UPI",
+    "date": "2024-03-04"
+  },
+  {
+    "transaction_id": "T000884",
+    "user_id": "U0195",
+    "product_id": "P050",
+    "amount": 189.81,
+    "payment_type": "Debit Card",
+    "date": "2023-11-21"
+  },
+  {
+    "transaction_id": "T000885",
+    "user_id": "U0126",
+    "product_id": "P049",
+    "amount": 68.66,
+    "payment_type": "Credit Card",
+    "date": "2023-09-23"
+  },
+  {
+    "transaction_id": "T000886",
+    "user_id": "U0158",
+    "product_id": "P028",
+    "amount": 70.67,
+    "payment_type": "Wallet",
+    "date": "2025-05-29"
+  },
+  {
+    "transaction_id": "T000887",
+    "user_id": "U0104",
+    "product_id": "P028",
+    "amount": 101.31,
+    "payment_type": "Net Banking",
+    "date": "2025-02-24"
+  },
+  {
+    "transaction_id": "T000888",
+    "user_id": "U0002",
+    "product_id": "P003",
+    "amount": 63.01,
+    "payment_type": "Cash",
+    "date": "2024-02-13"
+  },
+  {
+    "transaction_id": "T000889",
+    "user_id": "U0188",
+    "product_id": "P024",
+    "amount": 46.74,
+    "payment_type": "Credit Card",
+    "date": "2024-10-21"
+  },
+  {
+    "transaction_id": "T000890",
+    "user_id": "U0194",
+    "product_id": "P034",
+    "amount": 48.53,
+    "payment_type": "Debit Card",
+    "date": "2023-02-06"
+  },
+  {
+    "transaction_id": "T000891",
+    "user_id": "U0174",
+    "product_id": "P001",
+    "amount": 52.3,
+    "payment_type": "Wallet",
+    "date": "2024-05-24"
+  },
+  {
+    "transaction_id": "T000892",
+    "user_id": "U0058",
+    "product_id": "P045",
+    "amount": 53.39,
+    "payment_type": "UPI",
+    "date": "2024-10-01"
+  },
+  {
+    "transaction_id": "T000893",
+    "user_id": "U0034",
+    "product_id": "P007",
+    "amount": 84.49,
+    "payment_type": "Net Banking",
+    "date": "2025-10-27"
+  },
+  {
+    "transaction_id": "T000894",
+    "user_id": "U0151",
+    "product_id": "P020",
+    "amount": 56.33,
+    "payment_type": "Debit Card",
+    "date": "2023-05-14"
+  },
+  {
+    "transaction_id": "T000895",
+    "user_id": "U0012",
+    "product_id": "P020",
+    "amount": 84.74,
+    "payment_type": "UPI",
+    "date": "2025-07-22"
+  },
+  {
+    "transaction_id": "T000896",
+    "user_id": "U0187",
+    "product_id": "P034",
+    "amount": 52.02,
+    "payment_type": "Cash",
+    "date": "2024-11-22"
+  },
+  {
+    "transaction_id": "T000897",
+    "user_id": "U0112",
+    "product_id": "P044",
+    "amount": 57.24,
+    "payment_type": "Debit Card",
+    "date": "2024-12-02"
+  },
+  {
+    "transaction_id": "T000898",
+    "user_id": "U0126",
+    "product_id": "P023",
+    "amount": 16.46,
+    "payment_type": "Debit Card",
+    "date": "2023-12-04"
+  },
+  {
+    "transaction_id": "T000899",
+    "user_id": "U0104",
+    "product_id": "P002",
+    "amount": 94.61,
+    "payment_type": "Debit Card",
+    "date": "2024-04-04"
+  },
+  {
+    "transaction_id": "T000900",
+    "user_id": "U0187",
+    "product_id": "P009",
+    "amount": 67.21,
+    "payment_type": "Debit Card",
+    "date": "2023-02-14"
+  },
+  {
+    "transaction_id": "T000901",
+    "user_id": "U0151",
+    "product_id": "P033",
+    "amount": 99.37,
+    "payment_type": "Debit Card",
+    "date": "2023-09-10"
+  },
+  {
+    "transaction_id": "T000902",
+    "user_id": "U0094",
+    "product_id": "P046",
+    "amount": 9.6,
+    "payment_type": "Wallet",
+    "date": "2023-03-18"
+  },
+  {
+    "transaction_id": "T000903",
+    "user_id": "U0097",
+    "product_id": "P041",
+    "amount": 191.14,
+    "payment_type": "UPI",
+    "date": "2023-04-10"
+  },
+  {
+    "transaction_id": "T000904",
+    "user_id": "U0153",
+    "product_id": "P004",
+    "amount": 50.21,
+    "payment_type": "Wallet",
+    "date": "2023-08-10"
+  },
+  {
+    "transaction_id": "T000905",
+    "user_id": "U0168",
+    "product_id": "P002",
+    "amount": 106.16,
+    "payment_type": "Credit Card",
+    "date": "2023-08-26"
+  },
+  {
+    "transaction_id": "T000906",
+    "user_id": "U0107",
+    "product_id": "P029",
+    "amount": 29.26,
+    "payment_type": "Net Banking",
+    "date": "2023-09-11"
+  },
+  {
+    "transaction_id": "T000907",
+    "user_id": "U0141",
+    "product_id": "P017",
+    "amount": 78.86,
+    "payment_type": "Net Banking",
+    "date": "2023-11-10"
+  },
+  {
+    "transaction_id": "T000908",
+    "user_id": "U0053",
+    "product_id": "P045",
+    "amount": 29.02,
+    "payment_type": "Wallet",
+    "date": "2023-01-20"
+  },
+  {
+    "transaction_id": "T000909",
+    "user_id": "U0078",
+    "product_id": "P027",
+    "amount": 37.55,
+    "payment_type": "Wallet",
+    "date": "2023-07-26"
+  },
+  {
+    "transaction_id": "T000910",
+    "user_id": "U0170",
+    "product_id": "P034",
+    "amount": 172.16,
+    "payment_type": "UPI",
+    "date": "2023-10-08"
+  },
+  {
+    "transaction_id": "T000911",
+    "user_id": "U0108",
+    "product_id": "P007",
+    "amount": 48.7,
+    "payment_type": "Cash",
+    "date": "2023-08-30"
+  },
+  {
+    "transaction_id": "T000912",
+    "user_id": "U0073",
+    "product_id": "P008",
+    "amount": 62.21,
+    "payment_type": "Credit Card",
+    "date": "2025-10-16"
+  },
+  {
+    "transaction_id": "T000913",
+    "user_id": "U0051",
+    "product_id": "P039",
+    "amount": 92.02,
+    "payment_type": "Debit Card",
+    "date": "2024-06-22"
+  },
+  {
+    "transaction_id": "T000914",
+    "user_id": "U0134",
+    "product_id": "P013",
+    "amount": 73.51,
+    "payment_type": "UPI",
+    "date": "2025-04-19"
+  },
+  {
+    "transaction_id": "T000915",
+    "user_id": "U0076",
+    "product_id": "P011",
+    "amount": 59.75,
+    "payment_type": "Credit Card",
+    "date": "2025-10-13"
+  },
+  {
+    "transaction_id": "T000916",
+    "user_id": "U0054",
+    "product_id": "P045",
+    "amount": 67.96,
+    "payment_type": "Net Banking",
+    "date": "2024-11-08"
+  },
+  {
+    "transaction_id": "T000917",
+    "user_id": "U0061",
+    "product_id": "P001",
+    "amount": 230.91,
+    "payment_type": "Credit Card",
+    "date": "2023-07-02"
+  },
+  {
+    "transaction_id": "T000918",
+    "user_id": "U0029",
+    "product_id": "P037",
+    "amount": 52.74,
+    "payment_type": "Wallet",
+    "date": "2025-10-08"
+  },
+  {
+    "transaction_id": "T000919",
+    "user_id": "U0039",
+    "product_id": "P006",
+    "amount": 61.6,
+    "payment_type": "Cash",
+    "date": "2023-06-03"
+  },
+  {
+    "transaction_id": "T000920",
+    "user_id": "U0186",
+    "product_id": "P047",
+    "amount": 102.55,
+    "payment_type": "Credit Card",
+    "date": "2024-06-08"
+  },
+  {
+    "transaction_id": "T000921",
+    "user_id": "U0165",
+    "product_id": "P015",
+    "amount": 105.99,
+    "payment_type": "Net Banking",
+    "date": "2024-08-29"
+  },
+  {
+    "transaction_id": "T000922",
+    "user_id": "U0068",
+    "product_id": "P030",
+    "amount": 111.3,
+    "payment_type": "Credit Card",
+    "date": "2023-07-24"
+  },
+  {
+    "transaction_id": "T000923",
+    "user_id": "U0045",
+    "product_id": "P003",
+    "amount": 80.1,
+    "payment_type": "UPI",
+    "date": "2025-01-07"
+  },
+  {
+    "transaction_id": "T000924",
+    "user_id": "U0174",
+    "product_id": "P021",
+    "amount": 27.5,
+    "payment_type": "Net Banking",
+    "date": "2023-08-26"
+  },
+  {
+    "transaction_id": "T000925",
+    "user_id": "U0025",
+    "product_id": "P049",
+    "amount": 145.48,
+    "payment_type": "Credit Card",
+    "date": "2023-01-20"
+  },
+  {
+    "transaction_id": "T000926",
+    "user_id": "U0036",
+    "product_id": "P043",
+    "amount": 27.45,
+    "payment_type": "Wallet",
+    "date": "2023-12-16"
+  },
+  {
+    "transaction_id": "T000927",
+    "user_id": "U0085",
+    "product_id": "P023",
+    "amount": 65.47,
+    "payment_type": "Net Banking",
+    "date": "2024-07-03"
+  },
+  {
+    "transaction_id": "T000928",
+    "user_id": "U0188",
+    "product_id": "P006",
+    "amount": 34.72,
+    "payment_type": "UPI",
+    "date": "2024-12-02"
+  },
+  {
+    "transaction_id": "T000929",
+    "user_id": "U0047",
+    "product_id": "P008",
+    "amount": 52.54,
+    "payment_type": "Net Banking",
+    "date": "2025-03-30"
+  },
+  {
+    "transaction_id": "T000930",
+    "user_id": "U0117",
+    "product_id": "P018",
+    "amount": 66.5,
+    "payment_type": "Net Banking",
+    "date": "2025-09-06"
+  },
+  {
+    "transaction_id": "T000931",
+    "user_id": "U0108",
+    "product_id": "P042",
+    "amount": 66.21,
+    "payment_type": "Debit Card",
+    "date": "2023-08-20"
+  },
+  {
+    "transaction_id": "T000932",
+    "user_id": "U0034",
+    "product_id": "P045",
+    "amount": 70.33,
+    "payment_type": "Wallet",
+    "date": "2023-05-01"
+  },
+  {
+    "transaction_id": "T000933",
+    "user_id": "U0041",
+    "product_id": "P007",
+    "amount": 143.77,
+    "payment_type": "Net Banking",
+    "date": "2025-09-15"
+  },
+  {
+    "transaction_id": "T000934",
+    "user_id": "U0146",
+    "product_id": "P044",
+    "amount": 71.67,
+    "payment_type": "Net Banking",
+    "date": "2024-01-07"
+  },
+  {
+    "transaction_id": "T000935",
+    "user_id": "U0157",
+    "product_id": "P025",
+    "amount": 47.16,
+    "payment_type": "UPI",
+    "date": "2023-03-01"
+  },
+  {
+    "transaction_id": "T000936",
+    "user_id": "U0176",
+    "product_id": "P047",
+    "amount": 97.36,
+    "payment_type": "Debit Card",
+    "date": "2025-09-16"
+  },
+  {
+    "transaction_id": "T000937",
+    "user_id": "U0125",
+    "product_id": "P008",
+    "amount": 111.46,
+    "payment_type": "Net Banking",
+    "date": "2025-06-21"
+  },
+  {
+    "transaction_id": "T000938",
+    "user_id": "U0012",
+    "product_id": "P005",
+    "amount": 26.14,
+    "payment_type": "UPI",
+    "date": "2024-10-05"
+  },
+  {
+    "transaction_id": "T000939",
+    "user_id": "U0004",
+    "product_id": "P046",
+    "amount": 78.14,
+    "payment_type": "Wallet",
+    "date": "2024-04-03"
+  },
+  {
+    "transaction_id": "T000940",
+    "user_id": "U0172",
+    "product_id": "P022",
+    "amount": 83.15,
+    "payment_type": "Cash",
+    "date": "2023-07-15"
+  },
+  {
+    "transaction_id": "T000941",
+    "user_id": "U0111",
+    "product_id": "P043",
+    "amount": 45.67,
+    "payment_type": "Wallet",
+    "date": "2024-05-24"
+  },
+  {
+    "transaction_id": "T000942",
+    "user_id": "U0124",
+    "product_id": "P023",
+    "amount": 124.64,
+    "payment_type": "Wallet",
+    "date": "2025-02-27"
+  },
+  {
+    "transaction_id": "T000943",
+    "user_id": "U0039",
+    "product_id": "P036",
+    "amount": 49.9,
+    "payment_type": "Cash",
+    "date": "2023-04-22"
+  },
+  {
+    "transaction_id": "T000944",
+    "user_id": "U0003",
+    "product_id": "P042",
+    "amount": 58.87,
+    "payment_type": "Debit Card",
+    "date": "2025-11-01"
+  },
+  {
+    "transaction_id": "T000945",
+    "user_id": "U0121",
+    "product_id": "P032",
+    "amount": 49.21,
+    "payment_type": "Debit Card",
+    "date": "2023-06-03"
+  },
+  {
+    "transaction_id": "T000946",
+    "user_id": "U0193",
+    "product_id": "P032",
+    "amount": 55.11,
+    "payment_type": "UPI",
+    "date": "2024-05-08"
+  },
+  {
+    "transaction_id": "T000947",
+    "user_id": "U0085",
+    "product_id": "P018",
+    "amount": 28.28,
+    "payment_type": "Credit Card",
+    "date": "2024-04-01"
+  },
+  {
+    "transaction_id": "T000948",
+    "user_id": "U0141",
+    "product_id": "P042",
+    "amount": 23.01,
+    "payment_type": "Net Banking",
+    "date": "2025-04-05"
+  },
+  {
+    "transaction_id": "T000949",
+    "user_id": "U0061",
+    "product_id": "P006",
+    "amount": 142.12,
+    "payment_type": "Net Banking",
+    "date": "2025-06-28"
+  },
+  {
+    "transaction_id": "T000950",
+    "user_id": "U0147",
+    "product_id": "P029",
+    "amount": 32.85,
+    "payment_type": "Credit Card",
+    "date": "2025-10-17"
+  },
+  {
+    "transaction_id": "T000951",
+    "user_id": "U0115",
+    "product_id": "P021",
+    "amount": 30.12,
+    "payment_type": "Credit Card",
+    "date": "2025-10-15"
+  },
+  {
+    "transaction_id": "T000952",
+    "user_id": "U0191",
+    "product_id": "P042",
+    "amount": 15.0,
+    "payment_type": "Credit Card",
+    "date": "2023-07-30"
+  },
+  {
+    "transaction_id": "T000953",
+    "user_id": "U0104",
+    "product_id": "P027",
+    "amount": 37.21,
+    "payment_type": "Credit Card",
+    "date": "2023-01-01"
+  },
+  {
+    "transaction_id": "T000954",
+    "user_id": "U0024",
+    "product_id": "P039",
+    "amount": 24.68,
+    "payment_type": "Cash",
+    "date": "2024-09-15"
+  },
+  {
+    "transaction_id": "T000955",
+    "user_id": "U0131",
+    "product_id": "P036",
+    "amount": 146.23,
+    "payment_type": "Debit Card",
+    "date": "2025-07-23"
+  },
+  {
+    "transaction_id": "T000956",
+    "user_id": "U0088",
+    "product_id": "P024",
+    "amount": 100.07,
+    "payment_type": "Credit Card",
+    "date": "2024-04-01"
+  },
+  {
+    "transaction_id": "T000957",
+    "user_id": "U0117",
+    "product_id": "P022",
+    "amount": 36.13,
+    "payment_type": "Cash",
+    "date": "2025-08-26"
+  },
+  {
+    "transaction_id": "T000958",
+    "user_id": "U0184",
+    "product_id": "P043",
+    "amount": 210.92,
+    "payment_type": "UPI",
+    "date": "2025-07-15"
+  },
+  {
+    "transaction_id": "T000959",
+    "user_id": "U0030",
+    "product_id": "P007",
+    "amount": 98.4,
+    "payment_type": "Wallet",
+    "date": "2024-03-30"
+  },
+  {
+    "transaction_id": "T000960",
+    "user_id": "U0001",
+    "product_id": "P022",
+    "amount": 44.93,
+    "payment_type": "UPI",
+    "date": "2024-08-20"
+  },
+  {
+    "transaction_id": "T000961",
+    "user_id": "U0141",
+    "product_id": "P034",
+    "amount": 12.19,
+    "payment_type": "UPI",
+    "date": "2023-08-06"
+  },
+  {
+    "transaction_id": "T000962",
+    "user_id": "U0012",
+    "product_id": "P011",
+    "amount": 215.85,
+    "payment_type": "Net Banking",
+    "date": "2023-10-15"
+  },
+  {
+    "transaction_id": "T000963",
+    "user_id": "U0184",
+    "product_id": "P048",
+    "amount": 23.72,
+    "payment_type": "Wallet",
+    "date": "2025-04-18"
+  },
+  {
+    "transaction_id": "T000964",
+    "user_id": "U0028",
+    "product_id": "P017",
+    "amount": 20.34,
+    "payment_type": "Cash",
+    "date": "2024-02-06"
+  },
+  {
+    "transaction_id": "T000965",
+    "user_id": "U0049",
+    "product_id": "P008",
+    "amount": 100.84,
+    "payment_type": "Net Banking",
+    "date": "2024-03-17"
+  },
+  {
+    "transaction_id": "T000966",
+    "user_id": "U0118",
+    "product_id": "P013",
+    "amount": 236.0,
+    "payment_type": "Wallet",
+    "date": "2024-11-23"
+  },
+  {
+    "transaction_id": "T000967",
+    "user_id": "U0028",
+    "product_id": "P049",
+    "amount": 125.28,
+    "payment_type": "Net Banking",
+    "date": "2023-04-06"
+  },
+  {
+    "transaction_id": "T000968",
+    "user_id": "U0163",
+    "product_id": "P044",
+    "amount": 76.58,
+    "payment_type": "Cash",
+    "date": "2023-09-10"
+  },
+  {
+    "transaction_id": "T000969",
+    "user_id": "U0198",
+    "product_id": "P029",
+    "amount": 78.01,
+    "payment_type": "Net Banking",
+    "date": "2025-10-29"
+  },
+  {
+    "transaction_id": "T000970",
+    "user_id": "U0035",
+    "product_id": "P032",
+    "amount": 91.11,
+    "payment_type": "Credit Card",
+    "date": "2023-04-10"
+  },
+  {
+    "transaction_id": "T000971",
+    "user_id": "U0142",
+    "product_id": "P028",
+    "amount": 86.09,
+    "payment_type": "Cash",
+    "date": "2025-09-16"
+  },
+  {
+    "transaction_id": "T000972",
+    "user_id": "U0131",
+    "product_id": "P050",
+    "amount": 64.63,
+    "payment_type": "Debit Card",
+    "date": "2023-12-22"
+  },
+  {
+    "transaction_id": "T000973",
+    "user_id": "U0188",
+    "product_id": "P009",
+    "amount": 58.12,
+    "payment_type": "Credit Card",
+    "date": "2025-03-04"
+  },
+  {
+    "transaction_id": "T000974",
+    "user_id": "U0169",
+    "product_id": "P039",
+    "amount": 52.59,
+    "payment_type": "Cash",
+    "date": "2024-10-21"
+  },
+  {
+    "transaction_id": "T000975",
+    "user_id": "U0130",
+    "product_id": "P025",
+    "amount": 34.73,
+    "payment_type": "Net Banking",
+    "date": "2024-05-23"
+  },
+  {
+    "transaction_id": "T000976",
+    "user_id": "U0071",
+    "product_id": "P026",
+    "amount": 46.14,
+    "payment_type": "UPI",
+    "date": "2024-08-25"
+  },
+  {
+    "transaction_id": "T000977",
+    "user_id": "U0116",
+    "product_id": "P009",
+    "amount": 19.77,
+    "payment_type": "Debit Card",
+    "date": "2025-04-25"
+  },
+  {
+    "transaction_id": "T000978",
+    "user_id": "U0155",
+    "product_id": "P045",
+    "amount": 51.47,
+    "payment_type": "Wallet",
+    "date": "2024-09-04"
+  },
+  {
+    "transaction_id": "T000979",
+    "user_id": "U0180",
+    "product_id": "P036",
+    "amount": 30.17,
+    "payment_type": "UPI",
+    "date": "2024-03-21"
+  },
+  {
+    "transaction_id": "T000980",
+    "user_id": "U0052",
+    "product_id": "P014",
+    "amount": 28.16,
+    "payment_type": "Cash",
+    "date": "2024-08-18"
+  },
+  {
+    "transaction_id": "T000981",
+    "user_id": "U0176",
+    "product_id": "P023",
+    "amount": 60.82,
+    "payment_type": "Wallet",
+    "date": "2023-09-29"
+  },
+  {
+    "transaction_id": "T000982",
+    "user_id": "U0182",
+    "product_id": "P042",
+    "amount": 125.86,
+    "payment_type": "Debit Card",
+    "date": "2025-10-28"
+  },
+  {
+    "transaction_id": "T000983",
+    "user_id": "U0139",
+    "product_id": "P045",
+    "amount": 94.73,
+    "payment_type": "Wallet",
+    "date": "2024-10-22"
+  },
+  {
+    "transaction_id": "T000984",
+    "user_id": "U0182",
+    "product_id": "P008",
+    "amount": 21.28,
+    "payment_type": "UPI",
+    "date": "2025-09-10"
+  },
+  {
+    "transaction_id": "T000985",
+    "user_id": "U0150",
+    "product_id": "P037",
+    "amount": 30.15,
+    "payment_type": "Wallet",
+    "date": "2025-05-04"
+  },
+  {
+    "transaction_id": "T000986",
+    "user_id": "U0173",
+    "product_id": "P048",
+    "amount": 96.01,
+    "payment_type": "Cash",
+    "date": "2024-08-08"
+  },
+  {
+    "transaction_id": "T000987",
+    "user_id": "U0109",
+    "product_id": "P001",
+    "amount": 30.28,
+    "payment_type": "Cash",
+    "date": "2023-08-07"
+  },
+  {
+    "transaction_id": "T000988",
+    "user_id": "U0007",
+    "product_id": "P025",
+    "amount": 47.71,
+    "payment_type": "Debit Card",
+    "date": "2023-04-19"
+  },
+  {
+    "transaction_id": "T000989",
+    "user_id": "U0172",
+    "product_id": "P004",
+    "amount": 75.95,
+    "payment_type": "Debit Card",
+    "date": "2024-06-30"
+  },
+  {
+    "transaction_id": "T000990",
+    "user_id": "U0193",
+    "product_id": "P011",
+    "amount": 30.54,
+    "payment_type": "UPI",
+    "date": "2024-05-28"
+  },
+  {
+    "transaction_id": "T000991",
+    "user_id": "U0038",
+    "product_id": "P004",
+    "amount": 58.16,
+    "payment_type": "Wallet",
+    "date": "2024-08-27"
+  },
+  {
+    "transaction_id": "T000992",
+    "user_id": "U0053",
+    "product_id": "P049",
+    "amount": 24.52,
+    "payment_type": "Cash",
+    "date": "2023-03-08"
+  },
+  {
+    "transaction_id": "T000993",
+    "user_id": "U0092",
+    "product_id": "P029",
+    "amount": 38.06,
+    "payment_type": "Credit Card",
+    "date": "2024-04-04"
+  },
+  {
+    "transaction_id": "T000994",
+    "user_id": "U0191",
+    "product_id": "P042",
+    "amount": 66.15,
+    "payment_type": "Cash",
+    "date": "2025-03-07"
+  },
+  {
+    "transaction_id": "T000995",
+    "user_id": "U0061",
+    "product_id": "P033",
+    "amount": 20.99,
+    "payment_type": "Wallet",
+    "date": "2024-08-12"
+  },
+  {
+    "transaction_id": "T000996",
+    "user_id": "U0178",
+    "product_id": "P043",
+    "amount": 71.11,
+    "payment_type": "Credit Card",
+    "date": "2025-02-20"
+  },
+  {
+    "transaction_id": "T000997",
+    "user_id": "U0100",
+    "product_id": "P027",
+    "amount": 53.96,
+    "payment_type": "Wallet",
+    "date": "2024-10-02"
+  },
+  {
+    "transaction_id": "T000998",
+    "user_id": "U0142",
+    "product_id": "P004",
+    "amount": 76.06,
+    "payment_type": "Credit Card",
+    "date": "2024-05-29"
+  },
+  {
+    "transaction_id": "T000999",
+    "user_id": "U0052",
+    "product_id": "P040",
+    "amount": 62.45,
+    "payment_type": "Net Banking",
+    "date": "2024-04-06"
+  },
+  {
+    "transaction_id": "T001000",
+    "user_id": "U0163",
+    "product_id": "P046",
+    "amount": 123.78,
+    "payment_type": "Wallet",
+    "date": "2025-01-23"
+  }
+]
