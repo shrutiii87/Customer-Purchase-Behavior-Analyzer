@@ -4,6 +4,10 @@ An end-to-end data preprocessing and feature engineering pipeline built in Pytho
 
 ---
 
+[![▶ Watch Video](https://img.shields.io/badge/▶%20Watch%20Video-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/105owbjKRvUrn78amJytR0mLc5PKPeUdj/view?usp=sharing)
+
+---
+
 ## 📌 Project Overview
 
 | Item | Value |
